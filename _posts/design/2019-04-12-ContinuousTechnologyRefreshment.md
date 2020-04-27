@@ -3,7 +3,8 @@ layout: page
 #
 # Content
 #
-subheadline: "All teams have to do it. Now we have a name for it."
+teaser: "All teams have to do it. Now we have a name for it."
+subheadline: "BSSw.io blog article re-host"
 title: "Continuous Technology Refreshment (CTR)"
 categories:
   - design
@@ -15,6 +16,8 @@ header:
     image_fullwidth: "https://github.com/betterscientificsoftware/images/raw/master/Blog_0419_CTR_1176_432.png"
     caption: "A NASA astronaut on STS-130 gives the ISS a Tech Refresh"
     caption_url: https://www.nasa.gov/mission_pages/shuttle/shuttlemissions/sts130/main/index.html
+image:
+    thumb: gallery_27.jpg
 author: miller86
 ---
 The practice of
