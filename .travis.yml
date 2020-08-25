@@ -5,6 +5,7 @@ node_js:
 install:
   - npm install -g markdownlint-cli
   - npm install -g markdown-spellcheck
+  - npm install -g markdown-link-validator
 
 script:
   - |
@@ -18,4 +19,5 @@ script:
     fi
     test -z "${CHANGED_MD_FILES}" && exit 0
     markdownlint ${CHANGED_MD_FILES} || exit 1
+    markdown-link-validator ${CHANGED_MD_FILES} || exit 1
     mdspell -a -n -r -x --en-us ${CHANGED_MD_FILES} || exit 1
