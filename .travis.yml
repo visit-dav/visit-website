@@ -19,5 +19,7 @@ script:
     fi
     test -z "${CHANGED_MD_FILES}" && exit 0
     markdownlint ${CHANGED_MD_FILES} || exit 1
-    markdown-link-validator ${CHANGED_MD_FILES} || exit 1
+    mkdir tmp-md-changed-files
+    cp -rf ${CHANGED_MD_FILES} tmp-md-changed-files
+    markdown-link-validator tmp-md-changed-files || exit 1
     mdspell -a -n -r -x --en-us ${CHANGED_MD_FILES} || exit 1
