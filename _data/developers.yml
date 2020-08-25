@@ -91,8 +91,11 @@ former:
   - name: Sean Ahern
     affil: "[ORNL](https://www.ornl.gov/directorate/ccsd)"
   - name: Mark Blair
+    affil: "[LLNL](www.llnl.gov)"
   - name: David Bremer
+    affil: "[LLNL](www.llnl.gov)"
   - name: Cameron Christensen
+    affil: "[SCI](https://www.sci.utah.edu/people/cam.html)"
   - name: Thomas Fogal
     affil: "[NVidia](https://developer.nvidia.com/blog/author/tfogal/)"
   - name: Harinarayan Krishnan
@@ -100,6 +103,7 @@ former:
   - name: Jeremy Meredith
     affil: "[ORNL](https://www.ornl.gov/directorate/ccsd)"
   - name: Shelly Prevost
+    affil: "[LLNL](www.llnl.gov)"
   - name: Ellen Tarwater
     affil: "[LLNL](https://computing.llnl.gov/research/mission-support/WCI)"
   - name: Tom Treadway 
@@ -122,13 +126,17 @@ contributors:
     affil: "[LLNL](https://engineering.llnl.gov/research-areas/computational-engineering)"
   - name: Brian Dotson
   - name: Marc Durant
+    affil: "[Tech-X](https://www.txcorp.com)"
   - name: Jean Favre
+    affil: "[CSCS](https://www.cscs.ch/)"
   - name: Gauthier Fauchet
   - name: Patrick Fragile
   - name: Christoph Garth
+    affil: "[UCD](https://cs.ucdavis.edu/faculty-research/graphics-visualization-human-computer-interaction)"
   - name: Henri Girard
   - name: Markus Glatter
   - name: Akira Haddox
+    affil: "[LLNL](www.llnl.gov)"
   - name: Allen S. Harvey Jr.
   - name: Randy Hudson
   - name: Walter Herrera Jimenez
@@ -139,8 +147,10 @@ contributors:
   - name: Kenneth Leiter
   - name: Maxim Loginov
   - name: Rob Managan
+    affil: "[LLNL](www.llnl.gov)"
   - name: Benoit Mathieu
   - name: Paul Navratil
+    affil: "[TACC](https://www.tacc.utexas.edu)"
   - name: Hua Pan
   - name: Mickael Philit
   - name: Christian Reisswig
@@ -149,10 +159,13 @@ contributors:
   - name: Paul Selby
   - name: Cristina Siegerist
   - name: Rob Sisneros
+    affil: "[NCSA](http://www.ncsa.illinois.edu/People/sisneros/index.html)"
   - name: Dale Slone
   - name: Paul Stewart
   - name: David Stuebe
   - name: Andrew Szymkowiak
   - name: Matt Wheeler
+    affil: "[AWE](https://www.awe.co.uk)"
   - name: Joel Welling
+    affil: "[PSC](https://www.psc.edu/staff/welling)"
   - name: Chris Wojtan
