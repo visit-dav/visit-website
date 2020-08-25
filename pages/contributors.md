@@ -37,10 +37,10 @@ The person's bio about themselves is truncated to 100 words.
 ### Former Developers
 
 {% for person in site.data.developers.former -%}
-|{{person}}{%- cycle "", "", "", newline -%}{%- endfor -%}
+|{{person.name}}{%- if person.affil -%}<br>({{person.affil}}){%- endif -%}{%- cycle "", "", "", newline -%}{%- endfor -%}
 {{newline}}
 
 ### Other contributors and collaborators
 
 {% for person in site.data.developers.contributors -%}
-|{{person}}{%- cycle "", "", "", newline -%}{%- endfor -%}
+|{{person.name}}{%- if person.affil -%}<br>({{person.affil}}){%- endif -%}{%- cycle "", "", "", newline -%}{%- endfor -%}

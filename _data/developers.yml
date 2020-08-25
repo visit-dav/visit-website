@@ -88,60 +88,71 @@ active:
     github: https://github.com/BradWhitlock
 
 former:
-  - Sean Ahern
-  - Mark Blair
-  - David Bremer
-  - Cameron Christensen
-  - Thomas Fogal
-  - Harinarayan Krishnan
-  - Jeremy Meredith
-  - Shelly Prevost
-  - Ellen Tarwater
-  - Tom Treadway 
+  - name: Sean Ahern
+    affil: "[ORNL](https://www.ornl.gov/directorate/ccsd)"
+  - name: Mark Blair
+  - name: David Bremer
+  - name: Cameron Christensen
+  - name: Thomas Fogal
+    affil: "[NVidia](https://developer.nvidia.com/blog/author/tfogal/)"
+  - name: Harinarayan Krishnan
+    affil: "[LBNL](https://crd.lbl.gov/departments/data-science-and-technology/data-analytics-and-visualization/)"
+  - name: Jeremy Meredith
+    affil: "[ORNL](https://www.ornl.gov/directorate/ccsd)"
+  - name: Shelly Prevost
+  - name: Ellen Tarwater
+    affil: "[LLNL](https://computing.llnl.gov/research/mission-support/WCI)"
+  - name: Tom Treadway 
+    affil: "[LLNL](https://computing.llnl.gov/research/mission-support/WCI)"
 
 contributors:
-  - Cihan Altinay
-  - John Anderson
-  - John Bemis
-  - Ed Boyce
-  - Ralph Bruckschen
-  - John Cary
-  - Linnea Cook
-  - Rich Cook
-  - Bob Corey
-  - Brian Dotson
-  - Marc Durant
-  - Jean Favre
-  - Gauthier Fauchet
-  - Patrick Fragile
-  - Christoph Garth
-  - Henri Girard
-  - Markus Glatter
-  - Akira Haddox
-  - Allen S. Harvey Jr.
-  - Randy Hudson
-  - Walter Herrera Jimenez
-  - William T. Jones
-  - Terry Jordan
-  - Dorian Krause
-  - Henk Krüs
-  - Kenneth Leiter
-  - Maxim Loginov
-  - Rob Managan
-  - Benoit Mathieu
-  - Paul Navratil
-  - Hua Pan
-  - Mickael Philit
-  - Christian Reisswig
-  - Erik Schnetter
-  - John Schreiner
-  - Paul Selby
-  - Cristina Siegerist
-  - Rob Sisneros
-  - Dale Slone
-  - Paul Stewart
-  - David Stuebe
-  - Andrew Szymkowiak
-  - Matt Wheeler
-  - Joel Welling
-  - Chris Wojtan
+  - name: Cihan Altinay
+  - name: John Anderson
+  - name: John Bemis
+  - name: Ed Boyce
+  - name: Ralph Bruckschen
+  - name: John Cary
+    affil: "[Tech-X](https://www.txcorp.com)"
+  - name: Olivier Cessenat
+  - name: Linnea Cook
+    affil: "[LLNL](https://computing.llnl.gov/research/mission-support/WCI)"
+  - name: Rich Cook
+    affil: "[LLNL](https://computing.llnl.gov/casc)"
+  - name: Bob Corey
+    affil: "[LLNL](https://engineering.llnl.gov/research-areas/computational-engineering)"
+  - name: Brian Dotson
+  - name: Marc Durant
+  - name: Jean Favre
+  - name: Gauthier Fauchet
+  - name: Patrick Fragile
+  - name: Christoph Garth
+  - name: Henri Girard
+  - name: Markus Glatter
+  - name: Akira Haddox
+  - name: Allen S. Harvey Jr.
+  - name: Randy Hudson
+  - name: Walter Herrera Jimenez
+  - name: William T. Jones
+  - name: Terry Jordan
+  - name: Dorian Krause
+  - name: Henk Krüs
+  - name: Kenneth Leiter
+  - name: Maxim Loginov
+  - name: Rob Managan
+  - name: Benoit Mathieu
+  - name: Paul Navratil
+  - name: Hua Pan
+  - name: Mickael Philit
+  - name: Christian Reisswig
+  - name: Erik Schnetter
+  - name: John Schreiner
+  - name: Paul Selby
+  - name: Cristina Siegerist
+  - name: Rob Sisneros
+  - name: Dale Slone
+  - name: Paul Stewart
+  - name: David Stuebe
+  - name: Andrew Szymkowiak
+  - name: Matt Wheeler
+  - name: Joel Welling
+  - name: Chris Wojtan
