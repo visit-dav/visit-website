@@ -13,6 +13,7 @@ active:
     vfocus: VisIt Project Lead, DevOps
     github: https://github.com/brugger1
     email: brugger1@llnl.gov
+    bio: "Eric Brugger has over 25 years' experience developing and using scientific visualization and analysis software. He is the VisIt project leader and one of the original developers of the software. He received an R&D 100 award in 2005 as part of the development team of VisIt. He has extensive experience assisting users visualize and understand their simulation data as well as providing hands on VisIt training in workshop settings."
   camp:
     name: David Camp
     pic: https://crd.lbl.gov/assets/Uploads/_resampled/SetHeight150-camp.jpg
