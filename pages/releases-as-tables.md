@@ -30,10 +30,10 @@ Doing so helps us sustain funding for future improvements and on going maintenan
 
 Date | Sep 2020 | May 2020 | Feb 2020 | Dec 2019
 ---:|:---:|:---:|:---:|:---:
-Version     [3.1.3] | [3.1.2] | [3.1.1] | [3.1.0]
+Version     | [3.1.3] | [3.1.2] | [3.1.1] | [3.1.0]
 Windows 10/8/7<br>For developers|[exe][313w]<br>[exe][313wd]|[exe][312w]<br>[exe][312wd]|[exe][311w]<br>[exe][311wd]|[exe][310w]<br>[exe][310wd]
 Mac 10.14<br>10.13|[dmg][313m1014dmg]/[tgz][313m1014tgz]<br>&nbsp;|[dmg][312m1014dmg]/[tgz][312m1014tgz]<br>&nbsp;|[dmg][311m1014dmg]/[tgz][311m1014tgz]<br>[dmg][311m1013dmg]/[tgz][311m1013tgz]|&nbsp;<br>[dmg][310m1013dmg]/[tgz][310m1013tgz]
-20<br>19<br>Ubuntu 18<br>16 |[tgz][313u20]<br><br>[tgz][313u18]<br>[tgz][313u16]|<br>[tgz][312u19]<br>[tgz][312u18]<br>[tgz][312u16]|<br>[tgz][311u19]<br>[tgz][311u18]<br>[tgz][311u16]|<br>[tgz][310u19]<br>[tgz][310u18]<br>[tgz][310u16]
+20<br>Ubuntu 19<br>18<br>16 |[tgz][313u20]<br><br>[tgz][313u18]<br>[tgz][313u16]|<br>[tgz][312u19]<br>[tgz][312u18]<br>[tgz][312u16]|<br>[tgz][311u19]<br>[tgz][311u18]<br>[tgz][311u16]|<br>[tgz][310u19]<br>[tgz][310u18]<br>[tgz][310u16]
 RedHat EL 7<br>with Mesa|[tgz][313rh]<br>[tgz][313rhwm]|[tgz][312rh]<br>[tgz][312rhwm]|[tgz][311rh]<br>[tgz][311rhwm]|[tgz][310rh]<br>[tgz][310rhwm]
 Fedora 31<br>27 |[tgz][313f31]<br>|<br>[tgz][312f27]|<br>[tgz][311f27]|<br>[tgz][310f27]
 Debian 10<br>9 |[tgz][313d10]<br>|<br>[tgz][312d9]|<br>[tgz][311d9]|<br>[tgz][310d9]
