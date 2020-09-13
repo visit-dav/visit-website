@@ -28,26 +28,55 @@ Doing so helps us sustain funding for future improvements and on going maintenan
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
 
-Date | May 2020 | Feb 2020 | Dec 2019
----:|:---:|:---:|:---:
-Version     | [3.1.2] | [3.1.1] | [3.1.0]
-Windows 10/8/7<br>For developers|[exe][312w]<br>[exe][312wd]|[exe][311w]<br>[exe][311wd]|[exe][310w]<br>[exe][310wd]
-Mac 10.14<br>10.13|[dmg][312m1014dmg]/[tgz][312m1014tgz]<br>&nbsp;|[dmg][311m1014dmg]/[tgz][311m1014tgz]<br>[dmg][311m1013dmg]/[tgz][311m1013tgz]|&nbsp;<br>[dmg][310m1013dmg]/[tgz][310m1013tgz]
-19<br>Ubuntu 18<br>16 |[tgz][312u19]<br>[tgz][312u18]<br>[tgz][312u16]|[tgz][311u19]<br>[tgz][311u18]<br>[tgz][311u16]|[tgz][310u19]<br>[tgz][310u18]<br>[tgz][310u16]
-RedHat EL 7<br>with Mesa|[tgz][312rh]<br>[tgz][312rhwm]|[tgz][311rh]<br>[tgz][311rhwm]|[tgz][310rh]<br>[tgz][310rhwm]
-Fedora 27   |[tgz][312f27]|[tgz][311f27]|[tgz][310f27]
-Debian 9    |[tgz][312d9]|[tgz][311d9]|[tgz][310d9]
-Centos 8    |[tgz][312c8]|[tgz][311c8]|[tgz][310c8]
-Java client |[tgz][312j]|[tgz][311j]|[tgz][310j]
-[visit-install][vm1]|[sh][312vi]|[sh][311vi]|[sh][310vi]
-[build_visit][vm2] |[sh][312bv]|[sh][311bv]|[sh][310bv]
-Source      |[zip][312szip]/[tgz][312stgz]|[zip][311szip]/[tgz][311stgz]|[zip][310szip]/[tgz][310stgz]
-Release notes<br>Install notes |[html][312rn]<br>[txt][312in]|[html][311rn]<br>[txt][311in]|[html][310rn]<br>[txt][310in]
-Checksums<br>File sizes   |[md5][312md5]/[sh1][312sha1]/[sh256][312sha256]<br>[txt][312fs]|[md5][311md5]/[sh1][311sha1]/[sh256][311sha256]<br>[txt][311fs]|[md5][310md5]/[sh1][310sha1]/[sh256][310sha256]<br>[txt][310fs]
-Manuals     |[html][312doc]/[pdf][312pdf]|[html][311doc]/[pdf][311pdf]|[html][310doc]/[pdf][310pdf]
+Date | Sep 2020 | May 2020 | Feb 2020 | Dec 2019
+---:|:---:|:---:|:---:|:---:
+Version     [3.1.3] | [3.1.2] | [3.1.1] | [3.1.0]
+Windows 10/8/7<br>For developers|[exe][313w]<br>[exe][313wd]|[exe][312w]<br>[exe][312wd]|[exe][311w]<br>[exe][311wd]|[exe][310w]<br>[exe][310wd]
+Mac 10.14<br>10.13|[dmg][313m1014dmg]/[tgz][313m1014tgz]<br>&nbsp;|[dmg][312m1014dmg]/[tgz][312m1014tgz]<br>&nbsp;|[dmg][311m1014dmg]/[tgz][311m1014tgz]<br>[dmg][311m1013dmg]/[tgz][311m1013tgz]|&nbsp;<br>[dmg][310m1013dmg]/[tgz][310m1013tgz]
+20<br>19<br>Ubuntu 18<br>16 |[tgz][313u20]<br><br>[tgz][313u18]<br>[tgz][313u16]|<br>[tgz][312u19]<br>[tgz][312u18]<br>[tgz][312u16]|<br>[tgz][311u19]<br>[tgz][311u18]<br>[tgz][311u16]|<br>[tgz][310u19]<br>[tgz][310u18]<br>[tgz][310u16]
+RedHat EL 7<br>with Mesa|[tgz][313rh]<br>[tgz][313rhwm]|[tgz][312rh]<br>[tgz][312rhwm]|[tgz][311rh]<br>[tgz][311rhwm]|[tgz][310rh]<br>[tgz][310rhwm]
+Fedora 31<br>27 |[tgz][313f31]<br>|<br>[tgz][312f27]|<br>[tgz][311f27]|<br>[tgz][310f27]
+Debian 10<br>9 |[tgz][313d10]<br>|<br>[tgz][312d9]|<br>[tgz][311d9]|<br>[tgz][310d9]
+Centos 8    |[tgz][313c8]|[tgz][312c8]|[tgz][311c8]|[tgz][310c8]
+Java client |[tgz][313j]|[tgz][312j]|[tgz][311j]|[tgz][310j]
+[visit-install][vm1]|[sh][313vi]|[sh][312vi]|[sh][311vi]|[sh][310vi]
+[build_visit][vm2] |[sh][313bv]|[sh][312bv]|[sh][311bv]|[sh][310bv]
+Source      |[zip][313szip]/[tgz][313stgz]|[zip][312szip]/[tgz][312stgz]|[zip][311szip]/[tgz][311stgz]|[zip][310szip]/[tgz][310stgz]
+Release notes<br>Install notes |[html][313rn]<br>[txt][313in]|[html][312rn]<br>[txt][312in]|[html][311rn]<br>[txt][311in]|[html][310rn]<br>[txt][310in]
+Checksums<br>File sizes   |[md5][313md5]/[sh1][313sha1]/[sh256][313sha256]<br>[txt][313fs]|[md5][312md5]/[sh1][312sha1]/[sh256][312sha256]<br>[txt][312fs]|[md5][311md5]/[sh1][311sha1]/[sh256][311sha256]<br>[txt][311fs]|[md5][310md5]/[sh1][310sha1]/[sh256][310sha256]<br>[txt][310fs]
+Manuals     |[html][313doc]/[pdf][313pdf]|[html][312doc]/[pdf][312pdf]|[html][311doc]/[pdf][311pdf]|[html][310doc]/[pdf][310pdf]
 
 [vm1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Intro/Installing_VisIt.html?highlight=visit-install#installing-on-linux "Use to install Linux binaries"
 [vm2]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Building/index.html?highlight=build_visit "Using build_visit to build and install VisIt from sources."
+
+<!-- 3.1.3 release asset links -->
+[3.1.3]: https://github.com/visit-dav/visit/releases/tag/v3.1.3 "All GitHub release assets"
+[313w]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit3.1.3_x64.exe "Windows 10/8/7, 64-bit Visual Studio 2017"
+[313wd]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visitdev3.1.3.exe "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
+[313m1014dmg]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit3.1.3.darwin-x86_64-10_14.dmg "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[313m1014tgz]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit3.1.3.darwin-x86_64-10_14.tar.gz "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[313u20]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit3_1_3.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 4.19.76-linuxkit #1 SMP, gcc 9.3"
+[313u18]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit3_1_3.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 4.19.76-linuxkit #1 SMP, gcc 7.5"
+[313u16]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit3_1_3.linux-x86_64-ubuntu16.tar.gz "Ubuntu 16, 4.19.76-linuxkit #1 SMP, gcc 5.4"
+[313rh]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit3_1_3.linux-x86_64-rhel7.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5"
+[313rhwm]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit3_1_3.linux-x86_64-rhel7-wmesa.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5 (Includes Mesa support for rendering without a display. Only use on servers without a display.)"
+[313f31]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit3_1_3.linux-x86_64-fedora27.tar.gz "Fedora 31, 4.19.76-linuxkit #1 SMP, gcc 9.3.1"
+[313d9]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit3_1_3.linux-x86_64-debian9.tar.gz "Debian 9, 4.19.76-linuxkit #1 SMP, gcc 6.3"
+[313d10]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit3_1_3.linux-x86_64-debian10.tar.gz "Debian 10, 4.19.76-linuxkit #1 SMP, gcc 8.3"
+[313c8]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit3_1_3.linux-x86_64-centos8.tar.gz "CentOS 8, 4.19.76-linuxkit #1 SMP, gcc 8.3.1"
+[313j]: https://github.com/visit-dav/visit/releases/download/v3.1.3/jvisit3.1.3.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
+[313vi]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit-install3_1_3 "Linux installer script needed to install linux binaries"
+[313bv]: https://github.com/visit-dav/visit/releases/download/v3.1.3/build_visit3_1_3 "Download *only* this script to build VisIt from sources"
+[313szip]: https://github.com/visit-dav/visit/archive/v3.1.3.zip
+[313stgz]: https://github.com/visit-dav/visit/archive/v3.1.3.tar.gz
+[313rn]: ../releases/release-notes-3.1.3
+[313in]: https://github.com/visit-dav/visit/blob/3.1RC/src/INSTALL_NOTES
+[313sha256]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
+[313sha1]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
+[313md5]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
+[313fs]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit_filesizes.txt "List of all download file names and their sizes in bytes"
+[313doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.1.3/
+[313pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.1.3/pdf/
 
 <!-- 3.1.2 release asset links -->
 [3.1.2]: https://github.com/visit-dav/visit/releases/tag/v3.1.2 "All GitHub release assets"
