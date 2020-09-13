@@ -18,7 +18,7 @@ enhancements and bug-fixes that were added to this release.
 * Fixed a bug with the Pixie reader when it read 3D curvilinear meshes in parallel.
 * Fixed a bug where the parallel engine crashed when creating ghost zones from global ids.
 * Fixed a bug with the progress dialog staying visible when a client connection fails.
-* Added a menu indicator icon to the Color Table buttons so that it is more obvious that the button can be pushed to see available options.<li>
+* Added a menu indicator icon to the Color Table buttons so that it is more obvious that the button can be pushed to see available options.
 * Fixed a bug preventing the user from being able to performa a Pick Through Time using mesh quality metrics.
 * Fixed a couple of bugs with the MutilCurve plot. Fixed a bug where portions of the axes were missing or incomplete after switching the orientation. Fixed a bug where there were no tickmarks when displaying 16 curves.
 * Fixed a bug in the ColorTable window that limited the number of color control points to 200.
