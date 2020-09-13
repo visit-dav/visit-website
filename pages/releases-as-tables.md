@@ -36,7 +36,7 @@ Mac 10.14<br>10.13|[dmg][313m1014dmg]/[tgz][313m1014tgz]<br>&nbsp;|[dmg][312m101
 20<br>Ubuntu 19<br>18<br>16 |[tgz][313u20]<br><br>[tgz][313u18]<br>[tgz][313u16]|<br>[tgz][312u19]<br>[tgz][312u18]<br>[tgz][312u16]|<br>[tgz][311u19]<br>[tgz][311u18]<br>[tgz][311u16]|<br>[tgz][310u19]<br>[tgz][310u18]<br>[tgz][310u16]
 RedHat EL 7<br>with Mesa|[tgz][313rh]<br>[tgz][313rhwm]|[tgz][312rh]<br>[tgz][312rhwm]|[tgz][311rh]<br>[tgz][311rhwm]|[tgz][310rh]<br>[tgz][310rhwm]
 Fedora 31<br>27 |[tgz][313f31]<br>|<br>[tgz][312f27]|<br>[tgz][311f27]|<br>[tgz][310f27]
-Debian 10<br>9 |[tgz][313d10]<br>|<br>[tgz][312d9]|<br>[tgz][311d9]|<br>[tgz][310d9]
+Debian 10<br>9 |[tgz][313d10]<br>[tgz][313d9]|<br>[tgz][312d9]|<br>[tgz][311d9]|<br>[tgz][310d9]
 Centos 8    |[tgz][313c8]|[tgz][312c8]|[tgz][311c8]|[tgz][310c8]
 Java client |[tgz][313j]|[tgz][312j]|[tgz][311j]|[tgz][310j]
 [visit-install][vm1]|[sh][313vi]|[sh][312vi]|[sh][311vi]|[sh][310vi]
