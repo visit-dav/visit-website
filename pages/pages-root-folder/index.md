@@ -16,7 +16,7 @@ widget2:
   title: "Download Now"
   url: 'https://github.com/visit-dav/visit'
   image: widget-github-303x182.jpg
-  text: 'Get the [latest release](./releases-as-tables/#latest) to start visualizing and analyzing your data today. Or, download the <a href="https://github.com/visit-dav/visit/releases/latest/download/build_visit3_1_1">latest build_visit</a> script to build a custom version. Please <a href="https://github.com/visit-dav/live-customer-response/issues/new?assignees=&labels=&template=customer-response.md&title=">share a comment</a> with us about your experiences with VisIt.'
+  text: 'Get the [latest release](./releases-as-tables/#latest) to start visualizing and analyzing your data today. Or, download the <a href="https://github.com/visit-dav/visit/releases/latest/download/build_visit3_1_3">latest build_visit</a> script to build a custom version. Please <a href="https://github.com/visit-dav/live-customer-response/issues/new?assignees=&labels=&template=customer-response.md&title=">share a comment</a> with us about your experiences with VisIt.'
 widget3:
   title: "What's new?"
   url: '/science/3DMetalPrinting'
