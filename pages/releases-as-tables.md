@@ -27,6 +27,11 @@ Doing so helps us sustain funding for future improvements and on going maintenan
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
+* The RedHat EL 7 versions of 3.1.3 are not yet ready.
+* Catalina users should try to grant full disk permission to the terminal first:
+  [Issue #111](https://github.com/visit-dav/live-customer-response/issues/111)
+  If that still doesn't work, then they can run visit from the command line:
+  `Applications/VisIt.app/Contents/Resources/bin/visit`
 
 Date | Sep 2020 | May 2020 | Feb 2020 | Dec 2019
 ---:|:---:|:---:|:---:|:---:
