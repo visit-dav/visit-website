@@ -11,6 +11,7 @@ permalink: "/support/"
 * [Supported Platforms and Operating Systems](#supported-platforms-and-operating-systems)
 
 ## Methods of Contact for Support
+## Methods of Contact for Support
 Methods of contact we offer differ in *requirements* and *privacy* level. In
 addition, while we try to accommodate a variety of means of *initial contact*,
 any issues involving *ongoing dialog* must use only a *preferred* method of
@@ -47,6 +48,7 @@ If you are so inclined, we welcome you to read more about the VisIt project's
 [Site Reliability Engineering](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/dev_manual/SiteReliabilityEngineering.html)
 processes to understand how we aim to respond to inquiries.
 
+## Supported Platforms and Operating Systems
 ## Supported Platforms and Operating Systems
 Various VisIt developers routinely develop and run VisIt on Windows 10,
 macOS 10.14/10.15 and Red Hat Enterprise Linux (RHEL). This means we 
