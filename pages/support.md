@@ -1,11 +1,16 @@
 ---
 layout: page
-title: "Contact"
+title: "Support"
 meta_title: "Contacting us and getting help"
 header:
     image_fullwidth: "llnl_machine.jpg"
-permalink: "/contact/"
+permalink: "/support/"
 ---
+
+* [Methods of Contact for Support](#methods-of-contact-for-support)
+* [Supported Platforms and Operating Systems](#supported-platforms-and-operating-systems)
+
+## Methods of Contact for Support
 Methods of contact we offer differ in *requirements* and *privacy* level. In
 addition, while we try to accommodate a variety of means of *initial contact*,
 any issues involving *ongoing dialog* must use only a *preferred* method of
@@ -41,6 +46,22 @@ among many responsibilities.
 If you are so inclined, we welcome you to read more about the VisIt project's
 [Site Reliability Engineering](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/dev_manual/SiteReliabilityEngineering.html)
 processes to understand how we aim to respond to inquiries.
+
+## Supported Platforms and Operating Systems
+Various VisIt developers routinely develop and run VisIt on Windows 10,
+macOS 10.14/10.15 and Red Hat Enterprise Linux (RHEL). This means we 
+are able reproduce bugs and test work-arounds and fixes reported on these
+platforms and in general provide the highest quality of support services.
+
+We do make an effort to provide pre-compiled binaries for other variants of
+Linux. However, because we do not routinely develop or test on these platforms,
+we are not able to provide the same level of support for them. We welcome
+help from the community in supporting these platforms. When encountering issues
+with these binaries, you may likely get faster resolution by first building VisIt
+from sources using the
+[`build_visit`](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Building/index.html?highlight=build_visit)
+script. And, if doing so does indeed resolve the issues you encountered, please
+let us know your build recipe so we can improve our binaries.
 
 [gh1]: https://github.com/visit-dav/live-customer-response/issues/new?assignees=&labels=&template=customer-response.md&title= "Submit an issue on GitHub"
 [gh2]: https://github.com/join?source=header-home

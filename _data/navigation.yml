@@ -4,8 +4,8 @@
   dropdown:
   - title: "About"
     url: "/about/"
-  - title: "Contact"
-    url: "/contact/"
+  - title: "Support"
+    url: "/support/"
   - title: "Examples/Gallery"
     url: "/examples/"
   - title: "Citing VisIt"
