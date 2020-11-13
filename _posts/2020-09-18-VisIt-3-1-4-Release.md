@@ -25,4 +25,4 @@ If that still doesn't work, then they can run visit from the command line:
 `/Applications/VisIt.app/Contents/Resources/bin/visit`
 
 * [Downloads]({{ site.baseurl }}/releases-as-tables#latest)
-* [More details]({{ site.baseurl }}/releases/release-notes-3.1.3)
+* [More details]({{ site.baseurl }}/releases/release-notes-3.1.4)
