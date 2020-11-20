@@ -51,34 +51,34 @@ Manuals     |[html][314doc]/[pdf][314pdf]|[html][313doc]/[pdf][313pdf]|[html][31
 
 <!-- 3.1.4 release asset links -->
 [3.1.4]: https://github.com/visit-dav/visit/releases/tag/v3.1.4 "All GitHub release assets"
-[313w]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4_x64.exe "Windows 10/8/7, 64-bit Visual Studio 2017"
-[313wd]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visitdev3.1.4.exe "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
-[313m1014dmg]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4.darwin-x86_64-10_14.dmg "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
-[313m1014tgz]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4.darwin-x86_64-10_14.tar.gz "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
-[313m1015dmg]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4.darwin-x86_64-10_15.dmg "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
-[313m1015tgz]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4.darwin-x86_64-10_15.tar.gz "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
-[313u20]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 4.19.76-linuxkit #1 SMP, gcc 9.3"
-[313u18]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 4.19.76-linuxkit #1 SMP, gcc 7.5"
-[313u16]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-ubuntu16.tar.gz "Ubuntu 16, 4.19.76-linuxkit #1 SMP, gcc 5.4"
-[313rh]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-rhel7.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5"
-[313rhwm]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-rhel7-wmesa.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5 (Includes Mesa support for rendering without a display. Only use on servers without a display.)"
-[313f31]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-fedora27.tar.gz "Fedora 31, 4.19.76-linuxkit #1 SMP, gcc 9.3.1"
-[313d9]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-debian9.tar.gz "Debian 9, 4.19.76-linuxkit #1 SMP, gcc 6.3"
-[313d10]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-debian10.tar.gz "Debian 10, 4.19.76-linuxkit #1 SMP, gcc 8.3"
-[313c8]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-centos8.tar.gz "CentOS 8, 4.19.76-linuxkit #1 SMP, gcc 8.3.1"
-[313j]: https://github.com/visit-dav/visit/releases/download/v3.1.4/jvisit3.1.4.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
-[313vi]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit-install3_1_4 "Linux installer script needed to install linux binaries"
-[313bv]: https://github.com/visit-dav/visit/releases/download/v3.1.4/build_visit3_1_4 "Download *only* this script to build VisIt from sources"
-[313szip]: https://github.com/visit-dav/visit/archive/v3.1.4.zip
-[313stgz]: https://github.com/visit-dav/visit/archive/v3.1.4.tar.gz
-[313rn]: ../releases/release-notes-3.1.4
-[313in]: https://github.com/visit-dav/visit/blob/3.1RC/src/INSTALL_NOTES
-[313sha256]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
-[313sha1]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
-[313md5]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
-[313fs]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit_filesizes.txt "List of all download file names and their sizes in bytes"
-[313doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.1.4/
-[313pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.1.4/pdf/
+[314w]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4_x64.exe "Windows 10/8/7, 64-bit Visual Studio 2017"
+[314wd]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visitdev3.1.4.exe "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
+[314m1014dmg]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4.darwin-x86_64-10_14.dmg "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[314m1014tgz]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4.darwin-x86_64-10_14.tar.gz "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[314m1015dmg]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4.darwin-x86_64-10_15.dmg "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
+[314m1015tgz]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4.darwin-x86_64-10_15.tar.gz "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
+[314u20]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 4.19.76-linuxkit #1 SMP, gcc 9.3"
+[314u18]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 4.19.76-linuxkit #1 SMP, gcc 7.5"
+[314u16]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-ubuntu16.tar.gz "Ubuntu 16, 4.19.76-linuxkit #1 SMP, gcc 5.4"
+[314rh]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-rhel7.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5"
+[314rhwm]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-rhel7-wmesa.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5 (Includes Mesa support for rendering without a display. Only use on servers without a display.)"
+[314f31]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-fedora27.tar.gz "Fedora 31, 4.19.76-linuxkit #1 SMP, gcc 9.3.1"
+[314d9]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-debian9.tar.gz "Debian 9, 4.19.76-linuxkit #1 SMP, gcc 6.3"
+[314d10]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-debian10.tar.gz "Debian 10, 4.19.76-linuxkit #1 SMP, gcc 8.3"
+[314c8]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-centos8.tar.gz "CentOS 8, 4.19.76-linuxkit #1 SMP, gcc 8.3.1"
+[314j]: https://github.com/visit-dav/visit/releases/download/v3.1.4/jvisit3.1.4.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
+[314vi]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit-install3_1_4 "Linux installer script needed to install linux binaries"
+[314bv]: https://github.com/visit-dav/visit/releases/download/v3.1.4/build_visit3_1_4 "Download *only* this script to build VisIt from sources"
+[314szip]: https://github.com/visit-dav/visit/archive/v3.1.4.zip
+[314stgz]: https://github.com/visit-dav/visit/archive/v3.1.4.tar.gz
+[314rn]: ../releases/release-notes-3.1.4
+[314in]: https://github.com/visit-dav/visit/blob/3.1RC/src/INSTALL_NOTES
+[314sha256]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
+[314sha1]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
+[314md5]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
+[314fs]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit_filesizes.txt "List of all download file names and their sizes in bytes"
+[314doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.1.4/
+[314pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.1.4/pdf/
 
 <!-- 3.1.3 release asset links -->
 [3.1.3]: https://github.com/visit-dav/visit/releases/tag/v3.1.3 "All GitHub release assets"
