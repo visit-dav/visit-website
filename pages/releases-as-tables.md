@@ -27,16 +27,12 @@ Doing so helps us sustain funding for future improvements and on going maintenan
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
-* Catalina users should try to grant full disk permission to the terminal first:
-  [Issue #111](https://github.com/visit-dav/live-customer-response/issues/111)
-  If that still doesn't work, then they can run visit from the command line:
-  `/Applications/VisIt.app/Contents/Resources/bin/visit`
 
 Date | Nov 2020 | Sep 2020 | May 2020 | Feb 2020 | Dec 2019
 ---:|:---:|:---:|:---:|:---:|:---:
 Version     | [3.1.4] | [3.1.3] | [3.1.2] | [3.1.1] | [3.1.0]
 Windows 10/8/7<br>For developers|[exe][314w]<br>[exe][314wd]|[exe][313w]<br>[exe][313wd]|[exe][312w]<br>[exe][312wd]|[exe][311w]<br>[exe][311wd]|[exe][310w]<br>[exe][310wd]
-Mac 10.14<br>10.13|[dmg][314m1014dmg]/[tgz][314m1014tgz]<br>&nbsp;|[dmg][313m1014dmg]/[tgz][313m1014tgz]<br>&nbsp;|[dmg][312m1014dmg]/[tgz][312m1014tgz]<br>&nbsp;|[dmg][311m1014dmg]/[tgz][311m1014tgz]<br>[dmg][311m1013dmg]/[tgz][311m1013tgz]|&nbsp;<br>[dmg][310m1013dmg]/[tgz][310m1013tgz]
+Mac 10.15<br>10.14<br>10.13|[dmg][314m1015dmg]/[tgz][314m1015tgz]<br>[dmg][314m1014dmg]/[tgz][314m1014tgz]<br>&nbsp;|&nbsp;<br>[dmg][313m1014dmg]/[tgz][313m1014tgz]<br>&nbsp;|&nbsp;<br>[dmg][312m1014dmg]/[tgz][312m1014tgz]<br>&nbsp;|&nbsp;<br>[dmg][311m1014dmg]/[tgz][311m1014tgz]<br>[dmg][311m1013dmg]/[tgz][311m1013tgz]|&nbsp;<br>&nbsp;<br>[dmg][310m1013dmg]/[tgz][310m1013tgz]
 20<br>Ubuntu 19<br>18<br>16 |[tgz][314u20]<br><br>[tgz][314u18]<br>[tgz][314u16]|[tgz][313u20]<br><br>[tgz][313u18]<br>[tgz][313u16]|<br>[tgz][312u19]<br>[tgz][312u18]<br>[tgz][312u16]|<br>[tgz][311u19]<br>[tgz][311u18]<br>[tgz][311u16]|<br>[tgz][310u19]<br>[tgz][310u18]<br>[tgz][310u16]
 RedHat EL 7<br>with Mesa|[tgz][314rh]<br>[tgz][314rhwm]|[tgz][313rh]<br>[tgz][313rhwm]|[tgz][312rh]<br>[tgz][312rhwm]|[tgz][311rh]<br>[tgz][311rhwm]|[tgz][310rh]<br>[tgz][310rhwm]
 Fedora 31<br>27 |[tgz][314f31]<br>|[tgz][313f31]<br>|<br>[tgz][312f27]|<br>[tgz][311f27]|<br>[tgz][310f27]
@@ -59,6 +55,8 @@ Manuals     |[html][314doc]/[pdf][314pdf]|[html][313doc]/[pdf][313pdf]|[html][31
 [313wd]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visitdev3.1.4.exe "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
 [313m1014dmg]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4.darwin-x86_64-10_14.dmg "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
 [313m1014tgz]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4.darwin-x86_64-10_14.tar.gz "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[313m1015dmg]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4.darwin-x86_64-10_15.dmg "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
+[313m1015tgz]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4.darwin-x86_64-10_15.tar.gz "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
 [313u20]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 4.19.76-linuxkit #1 SMP, gcc 9.3"
 [313u18]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 4.19.76-linuxkit #1 SMP, gcc 7.5"
 [313u16]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3_1_4.linux-x86_64-ubuntu16.tar.gz "Ubuntu 16, 4.19.76-linuxkit #1 SMP, gcc 5.4"
