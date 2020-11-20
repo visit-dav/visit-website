@@ -41,7 +41,7 @@ Centos 8    |[tgz][314c8]|[tgz][313c8]|[tgz][312c8]|[tgz][311c8]|[tgz][310c8]
 Java client |[tgz][314j]|[tgz][313j]|[tgz][312j]|[tgz][311j]|[tgz][310j]
 [visit-install][vm1]|[sh][314vi]|[sh][313vi]|[sh][312vi]|[sh][311vi]|[sh][310vi]
 [build_visit][vm2] |[sh][314bv]|[sh][313bv]|[sh][312bv]|[sh][311bv]|[sh][310bv]
-Source      |[zip][314szip]/[tgz][314stgz]|[zip][313szip]/[tgz][313stgz]|[zip][312szip]/[tgz][312stgz]|[zip][311szip]/[tgz][311stgz]|[zip][310szip]/[tgz][310stgz]
+Source      |[tgz][314stgz]|[tgz][313stgz]|[tgz][312stgz]|[tgz][311stgz]|[tgz][310stgz]
 Release notes<br>Install notes |[html][314rn]<br>[txt][314in]|[html][313rn]<br>[txt][313in]|[html][312rn]<br>[txt][312in]|[html][311rn]<br>[txt][311in]|[html][310rn]<br>[txt][310in]
 Checksums<br>File sizes   |[md5][314md5]/[sh1][314sha1]/[sh256][314sha256]<br>[txt][314fs]|[md5][313md5]/[sh1][313sha1]/[sh256][313sha256]<br>[txt][313fs]|[md5][312md5]/[sh1][312sha1]/[sh256][312sha256]<br>[txt][312fs]|[md5][311md5]/[sh1][311sha1]/[sh256][311sha256]<br>[txt][311fs]|[md5][310md5]/[sh1][310sha1]/[sh256][310sha256]<br>[txt][310fs]
 Manuals     |[html][314doc]/[pdf][314pdf]|[html][313doc]/[pdf][313pdf]|[html][312doc]/[pdf][312pdf]|[html][311doc]/[pdf][311pdf]|[html][310doc]/[pdf][310pdf]
@@ -69,8 +69,7 @@ Manuals     |[html][314doc]/[pdf][314pdf]|[html][313doc]/[pdf][313pdf]|[html][31
 [314j]: https://github.com/visit-dav/visit/releases/download/v3.1.4/jvisit3.1.4.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
 [314vi]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit-install3_1_4 "Linux installer script needed to install linux binaries"
 [314bv]: https://github.com/visit-dav/visit/releases/download/v3.1.4/build_visit3_1_4 "Download *only* this script to build VisIt from sources"
-[314szip]: https://github.com/visit-dav/visit/archive/v3.1.4.zip
-[314stgz]: https://github.com/visit-dav/visit/archive/v3.1.4.tar.gz
+[314stgz]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4.tar.gz
 [314rn]: ../releases/release-notes-3.1.4
 [314in]: https://github.com/visit-dav/visit/blob/3.1RC/src/INSTALL_NOTES
 [314sha256]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
@@ -98,8 +97,7 @@ Manuals     |[html][314doc]/[pdf][314pdf]|[html][313doc]/[pdf][313pdf]|[html][31
 [313j]: https://github.com/visit-dav/visit/releases/download/v3.1.3/jvisit3.1.3.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
 [313vi]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit-install3_1_3 "Linux installer script needed to install linux binaries"
 [313bv]: https://github.com/visit-dav/visit/releases/download/v3.1.3/build_visit3_1_3 "Download *only* this script to build VisIt from sources"
-[313szip]: https://github.com/visit-dav/visit/archive/v3.1.3.zip
-[313stgz]: https://github.com/visit-dav/visit/archive/v3.1.3.tar.gz
+[313stgz]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit3.1.3.tar.gz
 [313rn]: ../releases/release-notes-3.1.3
 [313in]: https://github.com/visit-dav/visit/blob/3.1RC/src/INSTALL_NOTES
 [313sha256]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
@@ -127,8 +125,7 @@ Manuals     |[html][314doc]/[pdf][314pdf]|[html][313doc]/[pdf][313pdf]|[html][31
 [312j]: https://github.com/visit-dav/visit/releases/download/v3.1.2/jvisit3.1.2.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
 [312vi]: https://github.com/visit-dav/visit/releases/download/v3.1.2/visit-install3_1_2 "Linux installer script needed to install linux binaries"
 [312bv]: https://github.com/visit-dav/visit/releases/download/v3.1.2/build_visit3_1_2 "Download *only* this script to build VisIt from sources"
-[312szip]: https://github.com/visit-dav/visit/archive/v3.1.2.zip
-[312stgz]: https://github.com/visit-dav/visit/archive/v3.1.2.tar.gz
+[312stgz]: https://github.com/visit-dav/visit/releases/download/v3.1.2/visit3.1.2.tar.gz
 [312rn]: ../releases/release-notes-3.1.2
 [312in]: https://github.com/visit-dav/visit/blob/3.1RC/src/INSTALL_NOTES
 [312sha256]: https://github.com/visit-dav/visit/releases/download/v3.1.2/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
@@ -157,8 +154,7 @@ Manuals     |[html][314doc]/[pdf][314pdf]|[html][313doc]/[pdf][313pdf]|[html][31
 [311j]: https://github.com/visit-dav/visit/releases/download/v3.1.1/jvisit3.1.1.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
 [311vi]: https://github.com/visit-dav/visit/releases/download/v3.1.1/visit-install3_1_1 "Linux installer script needed to install linux binaries"
 [311bv]: https://github.com/visit-dav/visit/releases/download/v3.1.1/build_visit3_1_1 "Download *only* this script to build VisIt from sources"
-[311szip]: https://github.com/visit-dav/visit/archive/v3.1.1.zip
-[311stgz]: https://github.com/visit-dav/visit/archive/v3.1.1.tar.gz
+[311stgz]: https://github.com/visit-dav/visit/releases/download/v3.1.1/visit3.1.1.tar.gz
 <!--
 [311rn]: https://wci.llnl.gov/simulation/computer-codes/visit/releases/release-notes-3.1.1
 [311in]: https://github.com/visit-dav/visit/releases/download/v3.1.1/INSTALL_NOTES.txt
@@ -192,8 +188,7 @@ Below is using a special github feature, htmlpreview.github.io to render the htm
 [310j]: https://github.com/visit-dav/visit/releases/download/v3.1.0/jvisit3.1.0.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
 [310vi]: https://github.com/visit-dav/visit/releases/download/v3.1.0/visit-install3_1_0 "Linux installer script needed to install linux binaries"
 [310bv]: https://github.com/visit-dav/visit/releases/download/v3.1.0/build_visit3_1_0 "Download *only* this script to build VisIt from sources"
-[310szip]: https://github.com/visit-dav/visit/archive/v3.1.0.zip
-[310stgz]: https://github.com/visit-dav/visit/archive/v3.1.0.tar.gz
+[310stgz]: https://github.com/visit-dav/visit/releases/download/v3.1.0/visit3.1.0.tar.gz
 [310rn]: ../releases/release-notes-3.1.0
 [310in]: https://github.com/visit-dav/visit/releases/download/v3.1.0/INSTALL_NOTES.txt
 [310sha256]: https://github.com/visit-dav/visit/releases/download/v3.1.0/visit_sha256_checksums.txt
@@ -227,7 +222,7 @@ Centos 8    |[tgz][302c8]|[tgz][301c8]|[tgz][300c8]
 Java client |[tgz][302j]|[tgz][301j]|[tgz][300j]
 [visit-install][vm1]|[sh][302vi]|[sh][301vi]|[sh][300vi]
 [build_visit][vm2]|[sh][302bv]|[sh][301bv]|[sh][300bv]
-Source      |[zip][302szip]/[tgz][302stgz]|[zip][301szip]/[tgz][301stgz]|[zip][300szip]/[tgz][300stgz]
+Source      |[tgz][302stgz]|[tgz][301stgz]|[tgz][300stgz]
 Release notes |[html][302rn]|[html][301rn]|[html][300rn]
 Install notes |[txt][302in]|[txt][301in]|[txt][300in]
 Checksums   |[md5][302md5]/[sh1][302sha1]/[sh256][302sha256]|[md5][301md5]/[sh1][301sha1]/[sh256][301sha256]|[md5][300md5]/[sh1][300sha1]/[sh256][300sha256]
@@ -251,8 +246,7 @@ Manuals     |[html][302doc]/[pdf][302pdf]|[html][301doc]/[pdf][301pdf]|[html][30
 [302j]: https://github.com/visit-dav/visit/releases/download/v3.0.2/jvisit3.0.2.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
 [302vi]: https://github.com/visit-dav/visit/releases/download/v3.0.2/visit-install3_0_2 "Linux installer script needed to install linux binaries"
 [302bv]: https://github.com/visit-dav/visit/releases/download/v3.0.2/build_visit3_0_2 "Download *only* this script to build VisIt from sources"
-[302szip]: https://github.com/visit-dav/visit/archive/v3.0.2.zip
-[302stgz]: https://github.com/visit-dav/visit/archive/v3.0.2.tar.gz
+[302stgz]: https://github.com/visit-dav/visit/releases/download/v3.0.2/visit3.0.2.tar.gz
 [302rn]: ../releases/release-notes-3.0.2
 [302in]: https://github.com/visit-dav/visit/releases/download/v3.0.2/INSTALL_NOTES.txt
 [302sha256]: https://github.com/visit-dav/visit/releases/download/v3.0.2/visit_sha256_checksums.txt
@@ -279,8 +273,7 @@ Manuals     |[html][302doc]/[pdf][302pdf]|[html][301doc]/[pdf][301pdf]|[html][30
 [301j]: https://github.com/visit-dav/visit/releases/download/v3.0.1/jvisit3.0.1.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
 [301vi]: https://github.com/visit-dav/visit/releases/download/v3.0.1/visit-install3_0_1 "Linux installer script needed to install linux binaries"
 [301bv]: https://github.com/visit-dav/visit/releases/download/v3.0.1/build_visit3_0_1 "Download *only* this script to build VisIt from sources"
-[301szip]: https://github.com/visit-dav/visit/archive/v3.0.1.zip
-[301stgz]: https://github.com/visit-dav/visit/archive/v3.0.1.tar.gz
+[301stgz]: https://github.com/visit-dav/visit/releases/download/v3.0.1/visit3.0.1.tar.gz
 [301rn]: ../releases/release-notes-3.0.1
 [301in]: https://github.com/visit-dav/visit/releases/download/v3.0.1/INSTALL_NOTES.txt
 [301sha256]: https://github.com/visit-dav/visit/releases/download/v3.0.1/visit_sha256_checksums.txt
@@ -307,8 +300,7 @@ Manuals     |[html][302doc]/[pdf][302pdf]|[html][301doc]/[pdf][301pdf]|[html][30
 [300j]: https://github.com/visit-dav/visit/releases/download/v3.0.0/jvisit3.0.0.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
 [300vi]: https://github.com/visit-dav/visit/releases/download/v3.0.0/visit-install3_0_0 "Linux installer script needed to install linux binaries"
 [300bv]: https://github.com/visit-dav/visit/releases/download/v3.0.0/build_visit3_0_0 "Download *only* this script to build VisIt from sources"
-[300szip]: https://github.com/visit-dav/visit/archive/v3.0.0.zip
-[300stgz]: https://github.com/visit-dav/visit/archive/v3.0.0.tar.gz
+[300stgz]: https://github.com/visit-dav/visit/releases/download/v3.0.0/visit3.0.0.tar.gz
 [300rn]: ../releases/release-notes-3.0.0
 [300in]: https://github.com/visit-dav/visit/releases/download/v3.0.0/INSTALL_NOTES.txt
 [300sha256]: https://github.com/visit-dav/visit/releases/download/v3.0.0/visit_sha256_checksums.txt
