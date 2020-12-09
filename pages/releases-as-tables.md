@@ -30,8 +30,8 @@ Doing so helps us sustain funding for future improvements and on going maintenan
 
 Date | Nov 2020 | Sep 2020 | May 2020 | Feb 2020 | Dec 2019
 ---:|:---:|:---:|:---:|:---:|:---:
-Version     | [3.1.4] | [3.1.3] | [3.1.2] | [3.1.1] | [3.1.0]
-Win 10/8/7<br>develop|[exe][314w]<br>[exe][314wd]|[exe][313w]<br>[exe][313wd]|[exe][312w]<br>[exe][312wd]|[exe][311w]<br>[exe][311wd]|[exe][310w]<br>[exe][310wd]
+Version&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     | [3.1.4] | [3.1.3] | [3.1.2] | [3.1.1] | [3.1.0]
+Win 10/8/7<br>[dev]|[exe][314w]<br>[exe][314wd]|[exe][313w]<br>[exe][313wd]|[exe][312w]<br>[exe][312wd]|[exe][311w]<br>[exe][311wd]|[exe][310w]<br>[exe][310wd]
 Mac 10.15<br>10.14<br>10.13|[dmg][314m1015dmg]/[tgz][314m1015tgz]<br>[dmg][314m1014dmg]/[tgz][314m1014tgz]<br>&nbsp;|&nbsp;<br>[dmg][313m1014dmg]/[tgz][313m1014tgz]<br>&nbsp;|&nbsp;<br>[dmg][312m1014dmg]/[tgz][312m1014tgz]<br>&nbsp;|&nbsp;<br>[dmg][311m1014dmg]/[tgz][311m1014tgz]<br>[dmg][311m1013dmg]/[tgz][311m1013tgz]|&nbsp;<br>&nbsp;<br>[dmg][310m1013dmg]/[tgz][310m1013tgz]
 20<br>Ubuntu 19<br>18<br>16 |[tgz][314u20]<br><br>[tgz][314u18]<br>[tgz][314u16]|[tgz][313u20]<br><br>[tgz][313u18]<br>[tgz][313u16]|<br>[tgz][312u19]<br>[tgz][312u18]<br>[tgz][312u16]|<br>[tgz][311u19]<br>[tgz][311u18]<br>[tgz][311u16]|<br>[tgz][310u19]<br>[tgz][310u18]<br>[tgz][310u16]
 RedHat EL7<br>w/ Mesa|[tgz][314rh]<br>[tgz][314rhwm]|[tgz][313rh]<br>[tgz][313rhwm]|[tgz][312rh]<br>[tgz][312rhwm]|[tgz][311rh]<br>[tgz][311rhwm]|[tgz][310rh]<br>[tgz][310rhwm]
@@ -42,10 +42,11 @@ Java client |[tgz][314j]|[tgz][313j]|[tgz][312j]|[tgz][311j]|[tgz][310j]
 [visit-install][vm1]|[sh][314vi]|[sh][313vi]|[sh][312vi]|[sh][311vi]|[sh][310vi]
 [build_visit][vm2] |[sh][314bv]|[sh][313bv]|[sh][312bv]|[sh][311bv]|[sh][310bv]
 Source      |[tgz][314stgz]|[tgz][313stgz]|[tgz][312stgz]|[tgz][311stgz]|[tgz][310stgz]
-Rel notes<br>Inst notes |[html][314rn]<br>[txt][314in]|[html][313rn]<br>[txt][313in]|[html][312rn]<br>[txt][312in]|[html][311rn]<br>[txt][311in]|[html][310rn]<br>[txt][310in]
-Checksums<br>File sizes   |[md5][314md5]/[sh1][314sha1]/[sh256][314sha256]<br>[txt][314fs]|[md5][313md5]/[sh1][313sha1]/[sh256][313sha256]<br>[txt][313fs]|[md5][312md5]/[sh1][312sha1]/[sh256][312sha256]<br>[txt][312fs]|[md5][311md5]/[sh1][311sha1]/[sh256][311sha256]<br>[txt][311fs]|[md5][310md5]/[sh1][310sha1]/[sh256][310sha256]<br>[txt][310fs]
+Rel notes<br>Install notes |[html][314rn]<br>[txt][314in]|[html][313rn]<br>[txt][313in]|[html][312rn]<br>[txt][312in]|[html][311rn]<br>[txt][311in]|[html][310rn]<br>[txt][310in]
+Checksums<br><br><br>File sizes   |[md5][314md5]<br>[sh1][314sha1]<br>[sh256][314sha256]<br>[txt][314fs]|[md5][313md5]<br>[sh1][313sha1]<br>[sh256][313sha256]<br>[txt][313fs]|[md5][312md5]<br>[sh1][312sha1]<br>[sh256][312sha256]<br>[txt][312fs]|[md5][311md5]<br>[sh1][311sha1]<br>[sh256][311sha256]<br>[txt][311fs]|[md5][310md5]<br>[sh1][310sha1]<br>[sh256][310sha256]<br>[txt][310fs]
 Manuals     |[html][314doc]/[pdf][314pdf]|[html][313doc]/[pdf][313pdf]|[html][312doc]/[pdf][312pdf]|[html][311doc]/[pdf][311pdf]|[html][310doc]/[pdf][310pdf]
 
+[dev]: # "For development on Windows"
 [vm1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Intro/Installing_VisIt.html?highlight=visit-install#installing-on-linux "Use to install Linux binaries"
 [vm2]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Building/index.html?highlight=build_visit "Using build_visit to build and install VisIt from sources."
 
