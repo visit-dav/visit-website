@@ -5,7 +5,7 @@ header:
   image_fullwidth: mfem-hires-1.png
 permalink: "/releases-as-tables/"
 ---
-* [Series 3.1 (latest)](#series-31)
+* [Series 3.1 (latest)](#latest)
 * [Series 3.0](#series-30)
 * [Older releases](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
 
@@ -18,7 +18,11 @@ If you use VisIt to generate images or movies please help us by
 [citing](citing-visit.md) VisIt in your paper or in the credits of your movie.
 Doing so helps us sustain funding for on going maintenance and future improvements.
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <a name="latest"></a>
+<br>
 ### Series 3.1
 
 * Links to checksums and file sizes are provided for confirming download integrity.
