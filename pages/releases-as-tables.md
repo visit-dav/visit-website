@@ -7,8 +7,6 @@ permalink: "/releases-as-tables/"
 ---
 ### [Latest](#series-31)&nbsp;&nbsp;&nbsp;[Series 3.1](#series-31)&nbsp;&nbsp;&nbsp;[Series 3.0](#series-30)&nbsp;&nbsp;&nbsp;[Older releases](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
 
-<br>
-
 VisIt is supported by the Department of Energy with funding from the
 [Advanced Simulation and Computing Program](https://asc.llnl.gov), the
 [Scientific Discovery through Advanced Computing Program](https://www.scidac.gov),
@@ -195,8 +193,6 @@ Below is using a special github feature, htmlpreview.github.io to render the htm
 [310fs]: https://github.com/visit-dav/visit/releases/download/v3.1.0/visit_filesizes.txt
 [310doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.1.0/
 [310pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.1.0/pdf/
-
-<br>
 
 ### Series 3.0
 
