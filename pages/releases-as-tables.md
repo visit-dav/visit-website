@@ -5,8 +5,7 @@ header:
   image_fullwidth: mfem-hires-1.png
 permalink: "/releases-as-tables/"
 ---
-### [Latest](#series-31)&nbsp;&nbsp;&nbsp;[Series 3.1](#series-31)&nbsp;&nbsp;&nbsp;[Series 3.0](#series-30)
-### [Older releases](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
+### [Latest](#series-31)&nbsp;&nbsp;&nbsp;[Series 3.1](#series-31)&nbsp;&nbsp;&nbsp;[Series 3.0](#series-30)&nbsp;&nbsp;&nbsp;[Older releases](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
 
 <br>
 
