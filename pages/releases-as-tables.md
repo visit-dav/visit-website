@@ -17,7 +17,7 @@ and the [Exascale Computing Project](https://www.exascaleproject.org).
 
 If you use VisIt to generate images or movies please help us by
 [citing](citing-visit.md) VisIt in your paper or in the credits of your movie.
-Doing so helps us sustain funding for future improvements and on going maintenance.
+Doing so helps us sustain funding for on going maintenance and future improvements.
 
 <br>
 
