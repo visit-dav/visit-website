@@ -5,11 +5,9 @@ header:
   image_fullwidth: mfem-hires-1.png
 permalink: "/releases-as-tables/"
 ---
-* [Latest - Series 3.1](#series-31)
+* [Series 3.1 (latest)](#series-31)
 * [Series 3.0](#series-30)
 * [Older releases](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
-
-<br>
 
 VisIt is supported by the Department of Energy with funding from the
 [Advanced Simulation and Computing Program](https://asc.llnl.gov), the
