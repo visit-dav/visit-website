@@ -11,6 +11,7 @@ permalink: "/support/"
 * [Supported Platforms and Operating Systems](#supported-platforms-and-operating-systems)
 
 ## Methods of Contact for Support
+
 Methods of contact we offer differ in *requirements* and *privacy* level. In
 addition, while we try to accommodate a variety of means of *initial contact*,
 any issues involving *ongoing dialog* must use only a *preferred* method of
@@ -48,6 +49,7 @@ If you are so inclined, we welcome you to read more about the VisIt project's
 processes to understand how we aim to respond to inquiries.
 
 ## Supported Platforms and Operating Systems
+
 Various VisIt developers routinely develop and run VisIt on Windows 10,
 macOS 10.14/10.15 and Red Hat Enterprise Linux (RHEL). This means we 
 are able reproduce bugs and test work-arounds and fixes reported on these
@@ -79,35 +81,16 @@ let us know your build recipe so we can improve our binaries.
 [Some]: #some-privacy "Not archived or discoverable on any server"
 [Most]: #most-privacy "Same privacy as any ordinary telephone call"
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-##### None privacy
 ##### None privacy
 
 All communications, including any attached images and data files are discoverable
 and readable by anyone, anywhere in the world with a web browser.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-##### Some privacy
 ##### Some privacy
 
 All communications are *direct* emails (e.g. not an email list) to project members
 and are not archived or discoverable on any email storage servers.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-##### Most privacy
 ##### Most privacy
 
 The same level of privacy as any ordinary telephone call.
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
