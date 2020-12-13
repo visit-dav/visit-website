@@ -35,14 +35,6 @@ active:
     vfocus: VisIt CLI, In-Situ Analysis, Python
     github: https://github.com/cyrush
     email: harrison37@llnl.gov
-  griffin:
-    name: Kevin Griffin
-    pic: https://avatars2.githubusercontent.com/u/26772741?s=460&u=601e8633c1210c113489af163a2c1be0e246c88d&v=4
-    affiliation: "[LLNL](https://www.llnl.gov)"
-    vfocus: OSX, Operator plugins
-    github: https://github.com/griffin28
-    email: griffin28@llnl.gov
-    bio: "Kevin has 5+ years supporting VisIt development and is also the lead developer for [PyDV ](https://github.com/griffin28/PyDV). He is a recent graduate of the U.C. Davis doctoral program in computer science with a focus on computer graphics and visualization. Kevin also holds the rank of Lt. Commander as an Information Warfare Officer in the Naval Reserves."
   larsen:
     name: Matt Larsen
     pic: http://mclarsen.com/images/me.jpg
@@ -99,6 +91,8 @@ former:
     affil: "[SCI](https://www.sci.utah.edu/people/cam.html)"
   - name: Thomas Fogal
     affil: "[NVidia](https://developer.nvidia.com/blog/author/tfogal/)"
+  - name: Kevin Griffin
+    affil: "[NVidia](https://github.com/griffin28)"
   - name: Harinarayan Krishnan
     affil: "[LBNL](https://crd.lbl.gov/departments/data-science-and-technology/data-analytics-and-visualization/)"
   - name: Jeremy Meredith
