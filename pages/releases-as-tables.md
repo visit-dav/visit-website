@@ -18,8 +18,6 @@ If you use VisIt to generate images or movies please help us by
 [citing](citing-visit.md) VisIt in your paper or in the credits of your movie.
 Doing so helps us sustain funding for on going maintenance and future improvements.
 
-<br>
-
 <a name="latest"></a>
 ### Series 3.1
 
