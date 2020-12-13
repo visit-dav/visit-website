@@ -21,7 +21,8 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-### <a name="latest">Series 3.1</a>
+<a name="latest"><br></a>
+### Series 3.1
 
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
