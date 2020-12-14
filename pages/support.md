@@ -7,10 +7,10 @@ header:
 permalink: "/support/"
 ---
 
-* [Methods of Contact for Support](#methods-of-contact-for-support)
-* [Supported Platforms and Operating Systems](#supported-platforms-and-operating-systems)
+* [Methods of Contact](#methods-of-contact)
+* [Supported Platforms](#supported-platforms)
 
-## Methods of Contact for Support
+## Methods of Contact
 
 Methods of contact we offer differ in *requirements* and *privacy* level. In
 addition, while we try to accommodate a variety of means of *initial contact*,
@@ -21,7 +21,7 @@ communication. Please read about our
 ### Options for contacting us
 
 Method | Privacy | Requirements | Preferred
---- | --- | ---
+--- | --- | --- | ---
 [GitHub issue][gh1]    | [None] | Must have a (free) [GitHub account][gh2]|Yes
 [General email][ge1]   | [None] | Must [subscribe to visit-users][ge2] email list|Yes
 [ASC email][ae1]       | [Some] | Must be ASC related work | No
@@ -46,24 +46,45 @@ among many responsibilities.
 
 If you are so inclined, we welcome you to read more about the VisIt project's
 [Site Reliability Engineering](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/dev_manual/SiteReliabilityEngineering.html)
-processes to understand how we aim to respond to inquiries.
+processes to understand how we provide support.
 
-## Supported Platforms and Operating Systems
+## Supported Platforms
 
-Various VisIt developers routinely develop and run VisIt on Windows 10,
-macOS 10.14/10.15 and Red Hat Enterprise Linux (RHEL). This means we 
-are able reproduce bugs and test work-arounds and fixes reported on these
-platforms and in general provide the highest quality of support services.
+**Note:** Supported platforms periodically change to due to any of a number of
+factors including demand, developer access, technology obsolescence, and majority
+stakeholder requirements.
 
-We do make an effort to provide pre-compiled binaries for other variants of
-Linux. However, because we do not routinely develop or test on these platforms,
-we are not able to provide the same level of support for them. We welcome
-help from the community in supporting these platforms. When encountering issues
-with these binaries, you may likely get faster resolution by first building VisIt
-from sources using the
+### Fully Supported
+
+The platforms upon which the majority of contributors regularly develop and
+run VisIt and for which the resources exist to provide *full support* are determined
+primarily by our [host organization](https://wci.llnl.gov). For these platforms, we
+are able reproduce bugs, test bug-fixes, develop work-arounds and in general provide
+the highest quality of support services. These platforms are...
+
+* Windows 7, 8 and 10
+* RedHat Enterprise Linux 7.5
+* macOS 10.14 and 10.15
+
+### Partially Supported
+
+We do make an effort to provide pre-compiled binaries as well as perform minimal testing
+for other variants of Linux. However, because we do not yet routinely develop or test on
+these platforms, we are not able to provide the same level of support.
+
+* Ubunto 16, 18, 19 and 20
+* Centos 8
+* Debian 9 and 10
+* Fedora 27 and 31
+
+### Other Platforms
+
+For other *standard* platforms, building VisIt from sources using the
 [`build_visit`](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Building/index.html?highlight=build_visit)
-script. And, if doing so does indeed resolve the issues you encountered, please
-let us know your build recipe so we can improve our binaries.
+[bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) script is an option.
+If issues are encountered doing so, depending on demand for the associated platform
+we may be interested in collaborating to resolve them. However, the more exotic the
+platform, the less demand and the lower in priority we must make resolving `build_visit` issues.
 
 [gh1]: https://github.com/visit-dav/live-customer-response/issues/new?assignees=&labels=&template=customer-response.md&title= "Submit an issue on GitHub"
 [gh2]: https://github.com/join?source=header-home
@@ -81,16 +102,32 @@ let us know your build recipe so we can improve our binaries.
 [Some]: #some-privacy "Not archived or discoverable on any server"
 [Most]: #most-privacy "Same privacy as any ordinary telephone call"
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ##### None privacy
 
 All communications, including any attached images and data files are discoverable
 and readable by anyone, anywhere in the world with a web browser.
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ##### Some privacy
 
 All communications are *direct* emails (e.g. not an email list) to project members
 and are not archived or discoverable on any email storage servers.
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ##### Most privacy
 
 The same level of privacy as any ordinary telephone call.
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
