@@ -17,7 +17,7 @@ for future improvements and on going maintenance.
 
 ##### Bibtex citation
 
-```
+~~~
 @InCollection{HPV:VisIt,
 author = {Hank Childs and Eric Brugger and Brad Whitlock and Jeremy Meredith and Sean Ahern
           and David Pugmire and Kathleen Biagas and Mark Miller and Cyrus Harrison
@@ -30,4 +30,4 @@ pages = "357-372",
 month = "Oct",
 booktitle = {High Performance Visualization--Enabling Extreme-Scale Scientific Insight},
 }
-```
+~~~
