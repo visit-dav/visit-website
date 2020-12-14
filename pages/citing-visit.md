@@ -11,9 +11,9 @@ VisIt is supported by the Department of Energy with funding from the
 [Scientific Discovery through Advanced Computing Program](https://www.scidac.gov),
 and the [Exascale Computing Project](https://www.exascaleproject.org).
 
-If you use VisIt to generate images or movies, please help us by citing VisIt in
-your paper or in the credits of your movie. Doing so helps us sustain funding
-for future improvements and on going maintenance.
+If you use VisIt to generate images or movies, won't you please help us by crediting 
+VisIt by name or citing VisIt in your paper or in the credits of your movie. Doing so
+helps us sustain funding for on going maintenance and future improvements.
 
 ##### Bibtex citation
 
