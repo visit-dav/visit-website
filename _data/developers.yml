@@ -88,7 +88,7 @@ active:
     affiliation: "[Intelligent Light](http://www.ilight.com/en/)"
     email: bjw@ilight.com
     github: https://github.com/BradWhitlock
-    bio: "Brad is the Chief Software Architect at Intelligent Light and an alumni member of the VisIt development team. Brad contributed to VisIt during his 15 year career at LLNL, adding too many features to name. Brad has applied his deep VisIt experience to the creation of HPC-FieldView and VisIt PRIME and has completed several VisIt projects in industry to instrument simulations, create new readers, port to new platforms, and support high order meshes.  Beyond VisIt, Brad has been involved with in situ research projects such as SENSEI and he has proposed and been PI on software projects such as Scoreboard and AMT FEVER."
+    bio: "Brad is the Chief Software Architect at Intelligent Light and an alumni developer of VisIt. Brad contributed to VisIt during his 15 year career at LLNL, adding too many features to name. Brad has applied his deep VisIt experience to the creation of HPC-FieldView and VisIt PRIME and has completed several VisIt projects in industry to instrument simulations, create new readers, port to new platforms, and support high order meshes.  Beyond VisIt, Brad has been involved with in situ research projects such as SENSEI and he has proposed and been PI on software projects such as Scoreboard and AMT FEVER."
 
 former:
   - name: Sean Ahern
