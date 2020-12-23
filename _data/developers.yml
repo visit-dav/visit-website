@@ -76,6 +76,7 @@ active:
     affiliation: University of Utah
     github: https://github.com/ARSanderson
     email: allen@sci.utah.edu
+    bio:"Allen is a Research Scientist at the Scientific Computing and Imaging Institute at the University of Utah. He has contributed to [VisIt](http://visit.llnl.gov) for over 10 years, most notably many of the application oriented PICS operators. He has also exploited the LibSim functionality for monitoring large scale applications."
   weber:
     name: Gunther Weber
     pic: https://crd.lbl.gov/assets/Images/About/Staff/CDS/VIS/_resampled/SetHeight150-GuntherHWeber.jpg
