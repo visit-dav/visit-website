@@ -73,10 +73,10 @@ active:
   sanderson:
     name: Allen Sanderson
     pic: https://avatars0.githubusercontent.com/u/26089249?s=400&u=57da2d0499b456cb97a84c9ef4143a4005ed306c&v=4
-    affiliation: University of Utah
+    affiliation: "University of Utah"
     github: https://github.com/ARSanderson
     email: allen@sci.utah.edu
-    bio:"Allen is a Research Scientist at the Scientific Computing and Imaging Institute at the University of Utah. He has contributed to [VisIt](http://visit.llnl.gov) for over 10 years, most notably many of the application oriented PICS operators. He has also exploited the LibSim functionality for monitoring large scale applications."
+    bio: "Allen is a Research Scientist at the Scientific Computing and Imaging Institute at the University of Utah. He has contributed to [VisIt](http://visit.llnl.gov) for over 10 years, most notably many of the application oriented PICS operators. He has also exploited the LibSim functionality for monitoring large scale applications."
   weber:
     name: Gunther Weber
     pic: https://crd.lbl.gov/assets/Images/About/Staff/CDS/VIS/_resampled/SetHeight150-GuntherHWeber.jpg
