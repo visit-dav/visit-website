@@ -50,7 +50,7 @@ processes to understand how we provide support.
 
 ## Supported Platforms
 
-**Note:** Supported platforms periodically change to due to any of a number of
+**Note:** Supported platforms periodically change due to any of a number of
 factors including demand, developer access, technology obsolescence, and majority
 stakeholder requirements.
 
@@ -59,8 +59,8 @@ stakeholder requirements.
 The platforms upon which the majority of contributors regularly develop and
 run VisIt and for which the resources exist to provide *full support* are determined
 primarily by our [host organization](https://wci.llnl.gov). For these platforms, we
-are able reproduce bugs, test bug-fixes, develop work-arounds and in general provide
-the highest quality of support services. These platforms are...
+are able to reproduce bugs, test bug-fixes, develop work-arounds and in general provide
+the highest quality support services. These platforms are...
 
 * Windows 7, 8 and 10
 * RedHat Enterprise Linux 7.5
