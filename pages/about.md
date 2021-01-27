@@ -22,7 +22,7 @@ features to enable users to view a wide variety of data including scalar and
 vector fields defined on two- and three-dimensional (2D and 3D) structured,
 adaptive and unstructured meshes. Owing to its customizeable plugin design,
 VisIt is capabable of visualizing data from over 120 different
-[scientific data formats](http://www.visitusers.org/index.php?title=Detailed_list_of_file_formats_VisIt_supports)).
+[scientific data formats](http://www.visitusers.org/index.php?title=Detailed_list_of_file_formats_VisIt_supports).
 
 ## History
 
