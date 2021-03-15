@@ -65,7 +65,7 @@ active:
     vfocus: VisIt Db plugins, Scalable I/O, Data Models
     github: https://github.com/markcmiller86
     email: miller86@llnl.gov
-    bio: "Mark has supported [VisIt](http://visit.llnl.gov) and led development of [Silo](https://silo.llnl.gov) for scalable I/O requirements of LLNL HPC simulation codes such as [ALE3D](https://wci.llnl.gov/simulation/computer-codes/ale3d) [Kull, Ares, LASNEX and Overlink](https://wci.llnl.gov/simulation/computer-codes) for ~20 years.  Mark's interests include data models and their impact on software interoperability, high performance I/O, and Software Quality Engineering ([Smart Libraries](https://sets-and-fields.readthedocs.io/en/latest/docs/safapi_refman.rest/Introduction.html)) for HPC libraries."
+    bio: "Mark has supported [VisIt](http://visit.llnl.gov) and led development of [Silo](https://silo.llnl.gov) for scalable I/O requirements of LLNL HPC simulation codes such as [ALE3D](https://wci.llnl.gov/simulation/computer-codes/ale3d) [Kull, Ares, LASNEX and Overlink](https://wci.llnl.gov/simulation/computer-codes) for ~20 years.  Mark's interests include data models and their impact on software interoperability, high performance I/O, and Software Quality Engineering ([Smart Libraries](https://github.com/markcmiller86/SAF/blob/master/src/safapi/docs/necdc_2004_paper_30Nov04.pdf)) for HPC libraries."
   pugmire:
     name: Dave Pugmire
     affiliation: ORNL
