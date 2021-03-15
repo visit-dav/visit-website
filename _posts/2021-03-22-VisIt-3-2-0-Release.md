@@ -15,11 +15,10 @@ image:
 author: brugger1
 ---
 
-1. VisIt updated to support Python 3.
-
-Python 3 must now be used with VisIt. To support existing Python 2
-scripts, the **-py2to3** command line option has been added that
-performs limited Python 2 to Python 3 conversions.
+1. Updated to support Python 3.
+  - Python 3 must now be used with VisIt. To support existing Python 2
+    scripts, the **-py2to3** command line option has been added that
+    performs limited Python 2 to Python 3 conversions.
 
 2. Many new and enhanced database readers.
   - AVS ucd and FMS readers added.
