@@ -5,6 +5,7 @@ header:
   image_fullwidth: mfem-hires-1.png
 permalink: "/releases-as-tables/"
 ---
+* [Series 3.2 (in progress)](#series-32)
 * [Series 3.1 (latest)](#series-31)
 * [Series 3.0](#series-30)
 * [Older releases](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
@@ -17,6 +18,63 @@ and the [Exascale Computing Project](https://www.exascaleproject.org).
 If you use VisIt to generate images or movies please help us by
 [citing](citing-visit.md) VisIt in your paper or in the credits of your movie.
 Doing so helps us sustain funding for on going maintenance and future improvements.
+
+### Series 3.2
+
+* Links to checksums and file sizes are provided for confirming download integrity.
+* Hover over a link to reveal additional details about a download.
+* For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
+
+Date | Mar 2021
+---:|:---:
+Version               |[3.2.0]
+Win 10/8/7<br>[dev]   |[exe][320w]<br>[exe][320wd]
+Mac 10.15<br>10.14    |[dmg][320m1015dmg]/[tgz][320m1015tgz]<br>[dmg][320m1014dmg]/[tgz][320m1014tgz]
+Ubuntu 20<br>18       |[tgz][320u20]<br>[tgz][320u18]
+RedHat EL7<br>w/ Mesa |[tgz][320rh]<br>[tgz][320rhwm]
+Fedora 31             |[tgz][320f31]
+Debian 10<br>9        |[tgz][320d10]<br>[tgz][320d9]
+Centos 8              |[tgz][320c8]
+Java client           |[tgz][320j]
+[visit-install][vm1]  |[sh][320vi]
+[build_visit][vm2]    |[sh][320bv]
+Source                |[tgz][320stgz]
+Rel notes<br>Install notes |[html][320rn]<br>[txt][320in]
+Checksums<br><br><br>File sizes |[md5][320md5]<br>[sh1][320sha1]<br>[sh256][320sha256]<br>[txt][320fs]
+Manuals               |[html][320doc]/[pdf][320pdf]
+
+[dev]: # "For development on Windows"
+[vm1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Intro/Installing_VisIt.html?highlight=visit-install#installing-on-linux "Use to install Linux binaries"
+[vm2]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Building/index.html?highlight=build_visit "Use build_visit to build and install VisIt from sources."
+
+<!-- 3.2.0 release asset links -->
+[3.2.0]: https://github.com/visit-dav/visit/releases/tag/v3.2.0 "All GitHub release assets"
+[320w]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3.2.0_x64.exe "Windows 10/8/7, 64-bit Visual Studio 2017"
+[320wd]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visitdev3.2.0.exe "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
+[320m1014dmg]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3.2.0.darwin-x86_64-10_14.dmg "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[320m1014tgz]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3.2.0.darwin-x86_64-10_14.tar.gz "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[320m1015dmg]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3.2.0.darwin-x86_64-10_15.dmg "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
+[320m1015tgz]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3.2.0.darwin-x86_64-10_15.tar.gz "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
+[320u20]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 4.19.76-linuxkit #1 SMP, gcc 9.3"
+[320u18]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 4.19.76-linuxkit #1 SMP, gcc 7.5"
+[320rh]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-rhel7.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5"
+[320rhwm]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-rhel7-wmesa.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5 (Includes Mesa support for rendering without a display. Only use on servers without a display.)"
+[320f31]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-fedora27.tar.gz "Fedora 31, 4.19.76-linuxkit #1 SMP, gcc 9.3.1"
+[320d9]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-debian9.tar.gz "Debian 9, 4.19.76-linuxkit #1 SMP, gcc 6.3"
+[320d10]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-debian10.tar.gz "Debian 10, 4.19.76-linuxkit #1 SMP, gcc 8.3"
+[320c8]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-centos8.tar.gz "CentOS 8, 4.19.76-linuxkit #1 SMP, gcc 8.3.1"
+[320j]: https://github.com/visit-dav/visit/releases/download/v3.2.0/jvisit3.2.0.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
+[320vi]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit-install3_2_0 "Linux installer script needed to install linux binaries"
+[320bv]: https://github.com/visit-dav/visit/releases/download/v3.2.0/build_visit3_2_0 "Download *only* this script to build VisIt from sources"
+[320stgz]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3.2.0.tar.gz
+[320rn]: ../releases/release-notes-3.2.0
+[320in]: https://github.com/visit-dav/visit/blob/3.1RC/src/INSTALL_NOTES
+[320sha256]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
+[320sha1]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
+[320md5]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
+[320fs]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit_filesizes.txt "List of all download file names and their sizes in bytes"
+[320doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.2.0/
+[320pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.2.0/pdf/
 
 ### Series 3.1
 
@@ -41,10 +99,6 @@ Source      |[tgz][314stgz]|[tgz][313stgz]|[tgz][312stgz]|[tgz][311stgz]|[tgz][3
 Rel notes<br>Install notes |[html][314rn]<br>[txt][314in]|[html][313rn]<br>[txt][313in]|[html][312rn]<br>[txt][312in]|[html][311rn]<br>[txt][311in]|[html][310rn]<br>[txt][310in]
 Checksums<br><br><br>File sizes   |[md5][314md5]<br>[sh1][314sha1]<br>[sh256][314sha256]<br>[txt][314fs]|[md5][313md5]<br>[sh1][313sha1]<br>[sh256][313sha256]<br>[txt][313fs]|[md5][312md5]<br>[sh1][312sha1]<br>[sh256][312sha256]<br>[txt][312fs]|[md5][311md5]<br>[sh1][311sha1]<br>[sh256][311sha256]<br>[txt][311fs]|[md5][310md5]<br>[sh1][310sha1]<br>[sh256][310sha256]<br>[txt][310fs]
 Manuals     |[html][314doc]/[pdf][314pdf]|[html][313doc]/[pdf][313pdf]|[html][312doc]/[pdf][312pdf]|[html][311doc]/[pdf][311pdf]|[html][310doc]/[pdf][310pdf]
-
-[dev]: # "For development on Windows"
-[vm1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Intro/Installing_VisIt.html?highlight=visit-install#installing-on-linux "Use to install Linux binaries"
-[vm2]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Building/index.html?highlight=build_visit "Use build_visit to build and install VisIt from sources."
 
 <!-- 3.1.4 release asset links -->
 [3.1.4]: https://github.com/visit-dav/visit/releases/tag/v3.1.4 "All GitHub release assets"
