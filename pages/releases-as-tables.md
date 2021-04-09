@@ -25,7 +25,7 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
 
-Date | Mar 2021
+Date | Apr 2021
 ---:|:---:
 Version               |[3.2.0]
 Win 10/8/7<br>[dev]   |[exe][320w]<br>[exe][320wd]
