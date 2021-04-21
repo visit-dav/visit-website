@@ -5,8 +5,8 @@ header:
   image_fullwidth: mfem-hires-1.png
 permalink: "/releases-as-tables/"
 ---
-* [Series 3.2 (in progress)](#series-32)
-* [Series 3.1 (latest)](#series-31)
+* [Series 3.2 (latest)](#series-32)
+* [Series 3.1](#series-31)
 * [Series 3.0](#series-30)
 * [Older releases](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
 
@@ -24,6 +24,7 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
+* The Mac versions are coming soon!
 
 Date | Apr 2021
 ---:|:---:
