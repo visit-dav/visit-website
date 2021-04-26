@@ -9,6 +9,10 @@ layout: page
 <br>
 <video src="../../images/{{ page.image | replace: ".jpg", ".mpeg" }}" style="width:100%;height:100%;" width="100%" height="100%" class="mejs__player" data-mejsoptions='{"alwaysShowControls": "true"}'></video>
 <br>
+<br>
+<video src="../../images/{{ page.image | replace: ".jpg", ".mp4" }}" style="width:100%;height:100%;" width="100%" height="100%" class="mejs__player" data-mejsoptions='{"alwaysShowControls": "true"}'></video>
+<br>
+{% endif %}
 {% endif %}
 
 {% if page.image_credits or page.data_credits or page.compute_credits %}
