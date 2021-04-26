@@ -8,9 +8,9 @@ tags:
 categories:
     - science
 header:
-    image_fullwidth: gallery-43b.jpg
+    image_fullwidth: gallery-44.jpg
 image:
-    thumb: gallery-43b-thumb.jpg
+    thumb: gallery-44-thumb.jpg
 author: miller86
 ---
 
