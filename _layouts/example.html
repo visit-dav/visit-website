@@ -11,17 +11,11 @@ layout: page
 <video src="../../images/{{ page.video }}"  width="100%" class="mejs__player" data-mejsoptions='{"alwaysShowControls": "true"}'></video>
 
 <h1>New way</h1>
-<div class="row">
-  <div class="small-12 columns">
-    <article itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
-      <div class="flex-video">
-        <iframe width="90%" src="../../images/{{ page.video }}" frameborder='0' allowfullscreen></iframe>
-      </div>
-      <div class="row">
-      </div><!-- /.row -->
-    </article>
-  </div><!-- /.small-12.columns -->
-</div><!-- /.row -->
+<article itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
+  <div class="flex-video">
+    <iframe width="90%" src="../../images/{{ page.video }}" frameborder='0' allowfullscreen></iframe>
+  </div>
+</article>
 <br><br>
 {% endif %}
 
