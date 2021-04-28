@@ -6,12 +6,12 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: pres_movie_b_smaller.mp4
+  image_fullwidth: pres_movie_b_smaller_banner_ezgif.gif
 widget1:
   title: "Why use VisIt?"
   url: '/about/'
   text: '= Proven [scaling](./visit-top-50) to &gt;10<sup>12</sup> zone meshes.<br/>= Windows, Mac, <a href="" title="Unbuntu, Centos, Debian, RedHat, Fedora">, 5+ Linux distros.</a><br/>= Free, <a href="https://github.com/visit-dav/visit/blob/develop/LICENSE">BSD Open Source</a>.<br/>= Reads 130+ <a href="https://www.visitusers.org/index.php?title=Detailed_list_of_file_formats_VisIt_supports">File Formats</a>.<br/>= Supported on many <a href="https://science.osti.gov/User-Facilities/User-Facilities-at-a-Glance/ASCR">LCFs</a>'
-  video: '<center><a href="#" data-reveal-id="videoModal"><img src="images/wing_tip_streamlines_thumb.png" width="303" align="middle"/></a></center>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="images/wing_tip_streamlines_thumb.png" width="303" align="middle"/></a>'
 widget2:
   title: "Download Now"
   url: 'https://github.com/visit-dav/visit'
