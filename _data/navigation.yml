@@ -4,7 +4,7 @@
   dropdown:
   - title: "About"
     url: "/about/"
-  - title: "Support"
+  - title: "Getting help"
     url: "/support/"
   - title: "Examples/Gallery"
     url: "/examples/"
@@ -66,5 +66,5 @@
   side: right
 
 - title: "Contact"
-  url: "/contact/"
+  url: "/support/"
   side: right
