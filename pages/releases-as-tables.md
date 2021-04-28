@@ -30,7 +30,6 @@ Date | Apr 2021
 ---:|:---:
 Version               |[3.2.0]
 Win 10/8/7<br>[dev]   |[exe][320w]<br>[exe][320wd]
-Mac 10.15<br>10.14    |[dmg][320m1015dmg]/[tgz][320m1015tgz]<br>[dmg][320m1014dmg]/[tgz][320m1014tgz]
 Ubuntu 20<br>18       |[tgz][320u20]<br>[tgz][320u18]
 RedHat EL7<br>w/ Mesa |[tgz][320rh]<br>[tgz][320rhwm]
 Fedora 31             |[tgz][320f31]
@@ -60,7 +59,7 @@ Manuals               |[html][320doc]/[pdf][320pdf]
 [320u18]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 4.19.76-linuxkit #1 SMP, gcc 7.5"
 [320rh]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-rhel7.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5"
 [320rhwm]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-rhel7-wmesa.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5 (Includes Mesa support for rendering without a display. Only use on servers without a display.)"
-[320f31]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-fedora27.tar.gz "Fedora 31, 4.19.76-linuxkit #1 SMP, gcc 9.3.1"
+[320f31]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-fedora31.tar.gz "Fedora 31, 4.19.76-linuxkit #1 SMP, gcc 9.3.1"
 [320d9]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-debian9.tar.gz "Debian 9, 4.19.76-linuxkit #1 SMP, gcc 6.3"
 [320d10]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-debian10.tar.gz "Debian 10, 4.19.76-linuxkit #1 SMP, gcc 8.3"
 [320c8]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-centos8.tar.gz "CentOS 8, 4.19.76-linuxkit #1 SMP, gcc 8.3.1"
