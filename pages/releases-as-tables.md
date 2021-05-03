@@ -31,7 +31,7 @@ Date | Apr 2021
 Version               |[3.2.0]
 Win 10/8/7<br>[dev]   |[exe][320w]<br>[exe][320wd]
 Ubuntu 20<br>18       |[tgz][320u20]<br>[tgz][320u18]
-RedHat EL7<br>w/ Mesa |[tgz][320rh]<br>[tgz][320rhwm]
+RedHat EL7 w/ Mesa    |[tgz][320rhwm]
 Fedora 31             |[tgz][320f31]
 Debian 10<br>9        |[tgz][320d10]<br>[tgz][320d9]
 Centos 8              |[tgz][320c8]
