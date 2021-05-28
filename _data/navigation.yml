@@ -4,7 +4,7 @@
   dropdown:
   - title: "About"
     url: "/about/"
-  - title: "Getting help"
+  - title: "Get help"
     url: "/support/"
   - title: "Examples/Gallery"
     url: "/examples/"
@@ -24,24 +24,28 @@
   - title: "Example & Test Data"
     url: "/data/"
 
-- title: Documentation
+- title: Users
   url: ""
   side: left
   dropdown:
+  - title: "Get Help"
+    url: "/support/"
   - title: "GUI Manual"
     url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/index.html
   - title: "CLI (Python) Manual"
     url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/cli_manual/index.html
-  - title: "Tutorials"
+  - title: "Tutorials (current)"
     url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/tutorials/index.html
-  - title: "Tutorials (dated)"
+  - title: "Tutorials (older)"
     url: https://www.visitusers.org/index.php?title=VisIt_Tutorial
-  - title: "Getting Data Into VisIt"
+  - title: "Getting data into VisIt"
     url: "/pdfs/GettingDataIntoVisIt2.0.0.pdf"
-  - title: "VisIt Reader Tutorial"
-    url: "/pdfs/Tutorial_FileFormatReader.pdf"
   - title: "VisIt User's Wiki"
-    url: "https://www.visitusers.org"
+    url: "/visit-users-wiki/"
+  - title: "Share a science story"
+    url: "/share-cool-stuff/"
+  - title: "DOE Internal"
+    url: "https://visit-int.llnl.gov"
 
 - title: Developers
   url: ""
@@ -49,7 +53,13 @@
   dropdown:
   - title: "Developing VisIt"
     url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/dev_manual/index.html
-  - title: "Test Dashboard"
+  - title: "Developer resources"
+    url: "/dev-resources/"
+  - title: "VisIt Reader Tutorial"
+    url: "/pdfs/Tutorial_FileFormatReader.pdf"
+  - title: "Database Plugins"
+    url: "/pdfs/GettingDataIntoVisIt2.0.0.pdf?#page=97"
+  - title: "Nightly Test Dashboard"
     url: "/dashboard/"
 
 - title: News

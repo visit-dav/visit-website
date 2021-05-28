@@ -22,11 +22,8 @@ communication. Please read about our
 
 Method | Privacy | Requirements | Preferred
 --- | --- | --- | ---
+[GitHub discussion][ghd] | [None] | Must have a (free) [GitHub account][gh2]|Yes
 [GitHub issue][gh1]    | [None] | Must have a (free) [GitHub account][gh2]|Yes
-[General email][ge1]   | [None] | Must [subscribe to visit-users][ge2] email list|Yes
-[ASC email][ae1]       | [Some] | Must be ASC related work | No
-[SciDAC email][se1]    | [Some] | Must be SciDAC related work | No
-[Developer email][de1] | [Some] | Must be a VisIt developer & [subscribe<br>to visit-developers][de2] email list | Yes
 [Hotline call][hc1]    | [Most] | Must be LLNL employee | No
 [MS Teams Chat][mst]   | [Some] | Must be member of [VisIt channel](mst) | No 
 Announcements | N/A    | Must [subscribe][An1] to get<br>important/release announcements | N/A
@@ -88,10 +85,7 @@ platform, the less demand and the lower in priority we must make resolving `buil
 
 [gh1]: https://github.com/visit-dav/live-customer-response/issues/new?assignees=&labels=&template=customer-response.md&title= "Submit an issue on GitHub"
 [gh2]: https://github.com/join?source=header-home
-[ge1]: mailto:visit-users@ornl.gov "Start an email to visit-users list"
-[ge2]: https://elist.ornl.gov/mailman/listinfo/visit-users "Subscribe to visit-users email list"
-[ae1]: mailto:visit-help-asc@ornl.gov "Start an email to visit-help-asc list"
-[se1]: mailto:visit-help-scidac@ornl.gov "Start an email to visit-help-scidac list"
+[ghd]: https://github.com/visit-dav/visit/discussions
 [hc1]: tel:42847 "Initiate a call to 42-Vis"
 [de1]: mailto:visit-developers@ornl.gov "Start an email to visit-developers list"
 [de2]: https://elist.ornl.gov/mailman/listinfo/visit-developers "Subscribe to visit-developers email list"
