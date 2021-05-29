@@ -6,6 +6,10 @@ header:
 permalink: "/dev-resources/"
 ---
 
+Resources | Issues | Older
+:---|:---|:---
+
+
 ### Current
 
 * [Main code repo](https://github.com/visit-dav/visit)
@@ -28,13 +32,31 @@ permalink: "/dev-resources/"
 * Issues Assigned to:
 <form id="myForm" action="https://github.com/visit-dav/visit/issues" method="GET">
 <select name="assignee">
-<option value="aowen87" ID="aowen87">Alister</option>
-<option value="cyrush" ID="cyrush">Cyrus</option>
-<option value="rusu24edward" ID="rusu24edward">Eddie</option>
-<option value="brugger1" ID="brugger1">Eric</option>
-<option value="biagas" ID="biagas">Kathleen</option>
-<option value="markcmiller86" ID="markcmiller86">Mark</option>
-<option value="mclarsen" ID="mclarsen">Matt</option>
+
+{% comment %} Build string of space separated first name/github handle pairs {% endcomment %}
+{% assign pairs = "" %}
+{% for person in site.data.developers.active %}
+  {% assign pname = person | first %}
+  {% assign pobj = site.data.developers.active[pname] %}
+  {% assign ghhandle =  pobj.github | remove_first: "https://github.com/" %}
+  {% assign name =  pobj.name | split: ' ' | first %}
+  {% assign pair = name | append: "/" | append: ghhandle %}
+  {% assign pairs = pairs | append: " " | append: pair %} 
+{% endfor %}
+
+{% comment %} Turn space separated string into array and sort by first name {% endcomment %}
+{% assign pairs = pairs | split: ' ' | sort %}
+
+{% comment %} Output form options for each first name, github handle pair {% endcomment %}
+{% comment %} Use special - form of liquid to avoid introducing embedding everything in <p></p> {% endcomment %}
+{%- for pair in pairs -%}
+  {%- assign name = pair | split: '/' | first -%}
+  {%- assign ghandle = pair | split: '/' | last -%}
+  {%- capture optline -%}
+  <option value="{{ ghandle }}" ID="{{ ghandle }}">{{ name }}</option>
+  {%- endcapture -%}
+  {{- optline -}}
+{%- endfor -%}
 </select>
     <input type="submit" value="submit" />
 </form>
