@@ -6,16 +6,13 @@ header:
 permalink: "/dev-resources/"
 ---
 
-Resources | Issues | Older
-:---|:---|:---
-
-
 ### Current
 
-* [Main code repo](https://github.com/visit-dav/visit)
-* [RTD manuals](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/)
 * [VisIt organization on GitHub](https://github.com/visit-dav)
+* [Main code repo](https://github.com/visit-dav/visit)
 * [Nightly test results](https://visit-dav.github.io/dashboard/) and [repo](https://github.com/visit-dav/dashboard)
+* [RTD manuals](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/)
+* [Website](https://visit-dav.github.io/visit-website/) and [repo](https://github.com/visit-dav/visit-website)
 * [GitHub developer notes](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/dev_manual/GitHub.html)
 * [Third party repo](https://github.com/visit-dav/visit-deps)
 * [Large data shares](https://visit-dav.github.io/largedata/) and [repo](https://github.com/visit-dav/largedata)
