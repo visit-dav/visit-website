@@ -8,12 +8,12 @@ permalink: "/dev-resources/"
 
 ### Current
 
-* [Main Code Repository](https://github.com/visit-dav/visit)
-* [RTD Manuals](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/)
-* [VisIt Organization on GitHub](https://github.com/visit-dav)
+* [Main code repo](https://github.com/visit-dav/visit)
+* [RTD manuals](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/)
+* [VisIt organization on GitHub](https://github.com/visit-dav)
 * [Nightly test results](https://visit-dav.github.io/dashboard/) and [repo](https://github.com/visit-dav/dashboard)
 * [GitHub developer notes](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/dev_manual/GitHub.html)
-* [Third Party](https://github.com/visit-dav/visit-deps)
+* [Third party repo](https://github.com/visit-dav/visit-deps)
 * [Large data shares](https://visit-dav.github.io/largedata/) and [repo](https://github.com/visit-dav/largedata)
 * [GitHub releases](https://github.com/visit-dav/visit/releases) and [tables](/releases-as-tables/)
 
@@ -42,8 +42,8 @@ permalink: "/dev-resources/"
 ### Older resources
 
 * [Older releases](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
-* [VisIt User's Wiki](https://visitusers.org)
+* [VisIt User's Wiki](/visit-users-wiki/)
 * VisIt User's Email list
   * [Admin Page](https://elist.ornl.gov/mailman/admindb/visit-users)
-  * [Archive](https://elist.ornl.gov/mailman/private/visit-users/)
+  * [Archive](https://elist.ornl.gov/mailman/private/visit-users)
 
