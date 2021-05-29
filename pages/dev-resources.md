@@ -25,11 +25,25 @@ permalink: "/dev-resources/"
 * [High Likelihood / High Impact](https://github.com/visit-dav/visit/issues?q=is%3Aopen+label%3A%22likelihood+high%22+label%3A%22impact+high%22)
 * [Low hanging fruit](https://github.com/visit-dav/visit/issues?q=is%3Aissue+is%3Aopen+label%3A%22low-hanging+fruit%22+)
 * [Good first issues](https://github.com/visit-dav/visit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+* Issues Assigned to:
+<form id="myForm" action="https://github.com/visit-dav/visit/issues" method="GET">
+<select name="assignee">
+<option value="aowen87" ID="aowen87">Alister</option>
+<option value="cyrush" ID="cyrush">Cyrus</option>
+<option value="rusu24edward" ID="rusu24edward">Eddie</option>
+<option value="brugger1" ID="brugger1">Eric</option>
+<option value="biagas" ID="biagas">Kathleen</option>
+<option value="markcmiller86" ID="markcmiller86">Mark</option>
+<option value="mclarsen" ID="mclarsen">Matt</option>
+</select>
+    <input type="submit" value="submit" />
+</form>
 
-### Obsolete
+### Older resources
 
 * [Older releases](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
 * [VisIt User's Wiki](https://visitusers.org)
 * VisIt User's Email list
   * [Admin Page](https://elist.ornl.gov/mailman/admindb/visit-users)
   * [Archive](https://elist.ornl.gov/mailman/private/visit-users/)
+
