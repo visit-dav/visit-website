@@ -16,7 +16,7 @@ permalink: "/dev-resources/"
 * [GitHub developer notes](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/dev_manual/GitHub.html)
 * [Third party repo](https://github.com/visit-dav/visit-deps)
 * [Large data shares](https://visit-dav.github.io/largedata/) and [repo](https://github.com/visit-dav/largedata)
-* [GitHub releases](https://github.com/visit-dav/visit/releases) and [tables]({{baseurl}}/releases-as-tables/)
+* [GitHub releases](https://github.com/visit-dav/visit/releases) and [tables]({{site.baseurl}}/releases-as-tables/)
 
 ### Issues
 
@@ -61,7 +61,7 @@ permalink: "/dev-resources/"
 ### Older resources
 
 * [Older releases](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
-* [VisIt User's Wiki]({{baseurl}}/visit-users-wiki/)
+* [VisIt User's Wiki]({{site.baseurl}}/visit-users-wiki/)
 * VisIt User's Email list
   * [Admin Page](https://elist.ornl.gov/mailman/admindb/visit-users)
   * [Archive](https://elist.ornl.gov/mailman/private/visit-users)
