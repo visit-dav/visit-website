@@ -45,7 +45,7 @@ Manuals               |[html][320doc]/[pdf][320pdf]
 
 [dev]: # "For development on Windows"
 [vm1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Intro/Installing_VisIt.html?highlight=visit-install#installing-on-linux "Use to install Linux binaries"
-[vm2]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Building/index.html?highlight=build_visit "Use build_visit to build and install VisIt from sources."
+[vm2]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/building_visit/index.html#building-visit
 
 <!-- 3.2.0 release asset links -->
 [3.2.0]: https://github.com/visit-dav/visit/releases/tag/v3.2.0 "All GitHub release assets"
