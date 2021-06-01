@@ -29,7 +29,7 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 Date | Apr 2021
 ---:|:---:
 Version               |[3.2.0]
-Win 10/8/7<br>[dev]   |[exe][320w]<br>[exe][320wd]
+Win 10/8/7<br>development   |[use][320w]<br>[dev][320wd]
 Ubuntu 20<br>18       |[tgz][320u20]<br>[tgz][320u18]
 RedHat EL7 w/ Mesa    |[tgz][320rhwm]
 Fedora 31             |[tgz][320f31]
@@ -85,7 +85,7 @@ Manuals               |[html][320doc]/[pdf][320pdf]
 Date | Nov 2020 | Sep 2020 | May 2020 | Feb 2020 | Dec 2019
 ---:|:---:|:---:|:---:|:---:|:---:
 Version&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     | [3.1.4] | [3.1.3] | [3.1.2] | [3.1.1] | [3.1.0]
-Win 10/8/7<br>[dev]|[exe][314w]<br>[exe][314wd]|[exe][313w]<br>[exe][313wd]|[exe][312w]<br>[exe][312wd]|[exe][311w]<br>[exe][311wd]|[exe][310w]<br>[exe][310wd]
+Win 10/8/7<br>development|[user][314w]<br>[dev][314wd]|[user][313w]<br>[dev][313wd]|[user][312w]<br>[dev][312wd]|[user][311w]<br>[dev][311wd]|[user][310w]<br>[dev][310wd]
 Mac 10.15<br>10.14<br>10.13|[dmg][314m1015dmg]/[tgz][314m1015tgz]<br>[dmg][314m1014dmg]/[tgz][314m1014tgz]<br>&nbsp;|&nbsp;<br>[dmg][313m1014dmg]/[tgz][313m1014tgz]<br>&nbsp;|&nbsp;<br>[dmg][312m1014dmg]/[tgz][312m1014tgz]<br>&nbsp;|&nbsp;<br>[dmg][311m1014dmg]/[tgz][311m1014tgz]<br>[dmg][311m1013dmg]/[tgz][311m1013tgz]|&nbsp;<br>&nbsp;<br>[dmg][310m1013dmg]/[tgz][310m1013tgz]
 20<br>Ubuntu 19<br>18<br>16 |[tgz][314u20]<br><br>[tgz][314u18]<br>[tgz][314u16]|[tgz][313u20]<br><br>[tgz][313u18]<br>[tgz][313u16]|<br>[tgz][312u19]<br>[tgz][312u18]<br>[tgz][312u16]|<br>[tgz][311u19]<br>[tgz][311u18]<br>[tgz][311u16]|<br>[tgz][310u19]<br>[tgz][310u18]<br>[tgz][310u16]
 RedHat EL7<br>w/ Mesa|[tgz][314rh]<br>[tgz][314rhwm]|[tgz][313rh]<br>[tgz][313rhwm]|[tgz][312rh]<br>[tgz][312rhwm]|[tgz][311rh]<br>[tgz][311rhwm]|[tgz][310rh]<br>[tgz][310rhwm]
