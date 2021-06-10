@@ -28,38 +28,38 @@
   url: ""
   side: left
   dropdown:
-  - title: "Get Help"
+  - title: "Get help"
     url: "/support/"
   - title: "GUI Manual"
     url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/index.html
-  - title: "CLI (Python) Manual"
+  - title: "Python Manual"
     url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/cli_manual/index.html
-  - title: "Tutorials (current)"
+  - title: "Tutorials"
     url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/tutorials/index.html
-  - title: "Tutorials (older)"
+  - title: "Old tutorials"
     url: https://www.visitusers.org/index.php?title=VisIt_Tutorial
-  - title: "Getting data into VisIt"
+  - title: "Basic data input"
     url: "/pdfs/GettingDataIntoVisIt2.0.0.pdf"
-  - title: "VisIt User's Wiki"
+  - title: "User's Wiki"
     url: "/visit-users-wiki/"
-  - title: "Share a science story"
+  - title: "Science stories"
     url: "/share-cool-stuff/"
-  - title: "DOE Internal"
-    url: "https://visit-int.llnl.gov"
+  - title: "DOE internal"
+    url: "https://wci.llnl.gov/simulation/computer-codes/visit"
 
 - title: Developers
   url: ""
   side: left
   dropdown:
-  - title: "Developing VisIt"
+  - title: "Dev docs"
     url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/dev_manual/index.html
-  - title: "Developer resources"
+  - title: "Dev resources"
     url: "/dev-resources/"
-  - title: "VisIt Reader Tutorial"
+  - title: "Reader tutorial"
     url: "/pdfs/Tutorial_FileFormatReader.pdf"
-  - title: "Database Plugins"
+  - title: "Advanced data input"
     url: "/pdfs/GettingDataIntoVisIt2.0.0.pdf?#page=97"
-  - title: "Nightly Test Dashboard"
+  - title: "Nightly tests"
     url: "/dashboard/"
 
 - title: News
