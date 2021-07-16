@@ -66,7 +66,7 @@ Manuals               |[html][321doc]/[pdf][321pdf]|[html][320doc]/[pdf][320pdf]
 [321bv]: https://github.com/visit-dav/visit/releases/download/v3.2.1/build_visit3_2_1 "Download *only* this script to build VisIt from sources"
 [321stgz]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3.2.1.tar.gz
 [321rn]: ../releases/release-notes-3.2.1
-[321in]: https://github.com/visit-dav/visit/blob/3.1RC/src/INSTALL_NOTES
+[321in]: https://github.com/visit-dav/visit/blob/3.2RC/src/INSTALL_NOTES
 [321sha256]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
 [321sha1]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
 [321md5]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
@@ -93,7 +93,7 @@ Manuals               |[html][321doc]/[pdf][321pdf]|[html][320doc]/[pdf][320pdf]
 [320bv]: https://github.com/visit-dav/visit/releases/download/v3.2.0/build_visit3_2_0 "Download *only* this script to build VisIt from sources"
 [320stgz]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3.2.0.tar.gz
 [320rn]: ../releases/release-notes-3.2.0
-[320in]: https://github.com/visit-dav/visit/blob/3.1RC/src/INSTALL_NOTES
+[320in]: https://github.com/visit-dav/visit/blob/3.2RC/src/INSTALL_NOTES
 [320sha256]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
 [320sha1]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
 [320md5]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
