@@ -25,27 +25,54 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
 
-Date | Apr 2021
----:|:---:
-Version               |[3.2.0]
-Win 10/8/7<br>development   |[use][320w]<br>[dev][320wd]
-Mac 10.14|[dmg][320m1014dmg]/[tgz][320m1014tgz]
-Ubuntu 20<br>18       |[tgz][320u20]<br>[tgz][320u18]
-RedHat EL7 w/ Mesa    |[tgz][320rhwm]
-Fedora 31             |[tgz][320f31]
-Debian 10<br>9        |[tgz][320d10]<br>[tgz][320d9]
-Centos 8              |[tgz][320c8]
-Java client           |[tgz][320j]
-[visit-install][vm1]  |[sh][320vi]
-[build_visit][vm2]    |[sh][320bv]
-Source                |[tgz][320stgz]
-Rel notes<br>Install notes |[html][320rn]<br>[txt][320in]
-Checksums<br><br><br>File sizes |[md5][320md5]<br>[sh1][320sha1]<br>[sh256][320sha256]<br>[txt][320fs]
-Manuals               |[html][320doc]/[pdf][320pdf]
+Date | Jul 2021 | Apr 2021
+---:|:---:|:---:
+Version               |[3.2.1]|[3.2.0]
+Win 10/8/7<br>development   ||[use][320w]<br>[dev][320wd]
+Mac 10.14             ||[dmg][320m1014dmg]/[tgz][320m1014tgz]
+Ubuntu 20<br>18       ||[tgz][320u20]<br>[tgz][320u18]
+RedHat EL7 w/ Mesa    ||[tgz][320rhwm]
+Fedora 31             ||[tgz][320f31]
+Debian 10<br>9        ||[tgz][320d10]<br>[tgz][320d9]
+Centos 8              ||[tgz][320c8]
+Java client           ||[tgz][320j]
+[visit-install][vm1]  |[sh][321vi]|[sh][320vi]
+[build_visit][vm2]    |[sh][321bv]|[sh][320bv]
+Source                |[tgz][321stgz]|[tgz][320stgz]
+Rel notes<br>Install notes |[html][321rn]<br>[txt][321in]|[html][320rn]<br>[txt][320in]
+Checksums<br><br><br>File sizes ||[md5][320md5]<br>[sh1][320sha1]<br>[sh256][320sha256]<br>[txt][320fs]
+Manuals               |[html][321doc]/[pdf][321pdf]|[html][320doc]/[pdf][320pdf]
 
 [dev]: # "For development on Windows"
 [vm1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Intro/Installing_VisIt.html?highlight=visit-install#installing-on-linux "Use to install Linux binaries"
 [vm2]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/building_visit/index.html#building-visit
+
+<!-- 3.2.1 release asset links -->
+[3.2.1]: https://github.com/visit-dav/visit/releases/tag/v3.2.1 "All GitHub release assets"
+[321w]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3.2.1_x64.exe "Windows 10/8/7, 64-bit Visual Studio 2017"
+[321wd]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visitdev3.2.1.exe "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
+[321m1014dmg]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3.2.1.darwin-x86_64-10_14.dmg "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[321m1014tgz]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3.2.1.darwin-x86_64-10_14.tar.gz "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[321u20]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 4.19.76-linuxkit #1 SMP, gcc 9.3"
+[321u18]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 4.19.76-linuxkit #1 SMP, gcc 7.5"
+[321rh]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-rhel7.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5"
+[321rhwm]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-rhel7-wmesa.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5 (Includes Mesa support for rendering without a display. Only use on servers without a display.)"
+[321f31]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-fedora31.tar.gz "Fedora 31, 4.19.76-linuxkit #1 SMP, gcc 9.3.1"
+[321d9]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-debian9.tar.gz "Debian 9, 4.19.76-linuxkit #1 SMP, gcc 6.3"
+[321d10]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-debian10.tar.gz "Debian 10, 4.19.76-linuxkit #1 SMP, gcc 8.3"
+[321c8]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-centos8.tar.gz "CentOS 8, 4.19.76-linuxkit #1 SMP, gcc 8.3.1"
+[321j]: https://github.com/visit-dav/visit/releases/download/v3.2.1/jvisit3.2.1.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
+[321vi]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit-install3_2_1 "Linux installer script needed to install linux binaries"
+[321bv]: https://github.com/visit-dav/visit/releases/download/v3.2.1/build_visit3_2_1 "Download *only* this script to build VisIt from sources"
+[321stgz]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3.2.1.tar.gz
+[321rn]: ../releases/release-notes-3.2.1
+[321in]: https://github.com/visit-dav/visit/blob/3.1RC/src/INSTALL_NOTES
+[321sha256]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
+[321sha1]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
+[321md5]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
+[321fs]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit_filesizes.txt "List of all download file names and their sizes in bytes"
+[321doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.2.1/
+[321pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.2.1/pdf/
 
 <!-- 3.2.0 release asset links -->
 [3.2.0]: https://github.com/visit-dav/visit/releases/tag/v3.2.0 "All GitHub release assets"
