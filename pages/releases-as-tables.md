@@ -24,12 +24,12 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
-* The Mac versions are coming soon!
 
 Date | Apr 2021
 ---:|:---:
 Version               |[3.2.0]
 Win 10/8/7<br>development   |[use][320w]<br>[dev][320wd]
+Mac 10.14|[dmg][320m1014dmg]/[tgz][320m1014tgz]
 Ubuntu 20<br>18       |[tgz][320u20]<br>[tgz][320u18]
 RedHat EL7 w/ Mesa    |[tgz][320rhwm]
 Fedora 31             |[tgz][320f31]
@@ -53,8 +53,6 @@ Manuals               |[html][320doc]/[pdf][320pdf]
 [320wd]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visitdev3.2.0.exe "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
 [320m1014dmg]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3.2.0.darwin-x86_64-10_14.dmg "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
 [320m1014tgz]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3.2.0.darwin-x86_64-10_14.tar.gz "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
-[320m1015dmg]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3.2.0.darwin-x86_64-10_15.dmg "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
-[320m1015tgz]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3.2.0.darwin-x86_64-10_15.tar.gz "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
 [320u20]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 4.19.76-linuxkit #1 SMP, gcc 9.3"
 [320u18]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 4.19.76-linuxkit #1 SMP, gcc 7.5"
 [320rh]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3_2_0.linux-x86_64-rhel7.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5"
