@@ -24,13 +24,14 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
+* The 3.2.1 binary distributions will be added to the table as they become available.
 
 Date | Jul 2021 | Apr 2021
 ---:|:---:|:---:
 Version               |[3.2.1]|[3.2.0]
 Win 10/8/7<br>development   ||[use][320w]<br>[dev][320wd]
 Mac 10.14             ||[dmg][320m1014dmg]/[tgz][320m1014tgz]
-Ubuntu 20<br>18       ||[tgz][320u20]<br>[tgz][320u18]
+Ubuntu 20<br>18       |<br>[tgz][321u18]|[tgz][320u20]<br>[tgz][320u18]
 RedHat EL7 w/ Mesa    ||[tgz][320rhwm]
 Fedora 31             ||[tgz][320f31]
 Debian 10<br>9        ||[tgz][320d10]<br>[tgz][320d9]
