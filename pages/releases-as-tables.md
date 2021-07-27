@@ -31,7 +31,7 @@ Date | Jul 2021 | Apr 2021
 Version               |[3.2.1]|[3.2.0]
 Win 10/8/7<br>development   |[use][321w]<br>[dev][321wd]|[use][320w]<br>[dev][320wd]
 Mac 10.14             ||[dmg][320m1014dmg]/[tgz][320m1014tgz]
-Ubuntu 20<br>18       |[tgz][321u20]<br>[tgz][321u18]|[tgz][320u20]<br>[tgz][320u18]
+21<br>Ubuntu 20<br>18 |[tgz][321u21]<br>[tgz][321u20]<br>[tgz][321u18]|<br>[tgz][320u20]<br>[tgz][320u18]
 RedHat EL7<br>w/ Mesa |[tgz][321rh]<br>[tgz][321rhwm]|<br>[tgz][320rhwm]
 Fedora 31             |[tgz][321f31]|[tgz][320f31]
 Debian 10<br>9        |[tgz][321d10]<br>[tgz][321d9]|[tgz][320d10]<br>[tgz][320d9]
@@ -54,6 +54,7 @@ Manuals               |[html][321doc]/[pdf][321pdf]|[html][320doc]/[pdf][320pdf]
 [321wd]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visitdev3.2.1.exe "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
 [321m1014dmg]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3.2.1.darwin-x86_64-10_14.dmg "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
 [321m1014tgz]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3.2.1.darwin-x86_64-10_14.tar.gz "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[321u21]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-ubuntu21.tar.gz "Ubuntu 21, 4.19.76-linuxkit #1 SMP, gcc 10.3"
 [321u20]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 4.19.76-linuxkit #1 SMP, gcc 9.3"
 [321u18]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 4.19.76-linuxkit #1 SMP, gcc 7.5"
 [321rh]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-rhel7.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5"
