@@ -30,10 +30,7 @@ Announcements | N/A    | Must [subscribe][An1] to get<br>important/release annou
 
 ### More details
 
-More recently, we have been
-[trying get away from plain ole' email](https://github.com/visit-dav/live-customer-response/wiki/How-the-new-GitHub-visit-users-Email-Integration-Works)
-in favor of GitHub issues and for this reason would prefer users contact
-us through our [GitHub issue tracker][gh1] whenever possible.
+More recently, we have ended [plain ole' email](https://github.com/visit-dav/visit/wiki/GitHub-Issues-and-Discussions-vs.-Email) support in favor of GitHub discussions and for this reason ask users contact us through our [GitHub discussions][ghd] whenever possible.
 
 In general, coverage is during normal West Coast business hours, 8am-12pm and
 1-5pm (GMT-8, San Francisco time zone), Monday through Friday excluding
@@ -83,7 +80,6 @@ If issues are encountered doing so, depending on demand for the associated platf
 we may be interested in collaborating to resolve them. However, the more exotic the
 platform, the less demand and the lower in priority we must make resolving `build_visit` issues.
 
-[gh1]: https://github.com/visit-dav/live-customer-response/issues/new?assignees=&labels=&template=customer-response.md&title= "Submit an issue on GitHub"
 [gh2]: https://github.com/join?source=header-home
 [ghd]: https://github.com/visit-dav/visit/discussions
 [hc1]: tel:42847 "Initiate a call to 42-Vis"
