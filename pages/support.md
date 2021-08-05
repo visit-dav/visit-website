@@ -80,6 +80,7 @@ If issues are encountered doing so, depending on demand for the associated platf
 we may be interested in collaborating to resolve them. However, the more exotic the
 platform, the less demand and the lower in priority we must make resolving `build_visit` issues.
 
+[gh1]: https://github.com/visit-dav/visit/issues
 [gh2]: https://github.com/join?source=header-home
 [ghd]: https://github.com/visit-dav/visit/discussions
 [hc1]: tel:42847 "Initiate a call to 42-Vis"
