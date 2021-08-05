@@ -2,7 +2,7 @@
 layout: page
 title: "About VisIt"
 header:
-  image_fullwidth: wing_tip_streamlines.png
+  image_fullwidth: spheres_and_paths.jpg
 permalink: "/about/"
 ---
 
