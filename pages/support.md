@@ -26,7 +26,6 @@ Method | Privacy | Requirements | Preferred
 [GitHub issue][gh1]    | [None] | Must have a (free) [GitHub account][gh2]|Yes
 [Hotline call][hc1]    | [Most] | Must be LLNL employee | No
 [MS Teams Chat][mst]   | [Some] | Must be member of [VisIt channel](mst) | No 
-Announcements | N/A    | Must [subscribe][An1] to get<br>important/release announcements | N/A
 
 ### More details
 
@@ -84,9 +83,6 @@ platform, the less demand and the lower in priority we must make resolving `buil
 [gh2]: https://github.com/join?source=header-home
 [ghd]: https://github.com/visit-dav/visit/discussions
 [hc1]: tel:42847 "Initiate a call to 42-Vis"
-[de1]: mailto:visit-developers@ornl.gov "Start an email to visit-developers list"
-[de2]: https://elist.ornl.gov/mailman/listinfo/visit-developers "Subscribe to visit-developers email list"
-[An1]: https://elist.ornl.gov/mailman/listinfo/visit-announce "Subscribe to visit-announce email list"
 [mst]: https://teams.microsoft.com/l/team/19%3af2ed7be3682d40d1b8e038744e500a09%40thread.skype/conversations?groupId=70162982-9587-4bcc-ad53-20178c76fe11&tenantId=a722dec9-ae4e-4ae3-9d75-fd66e2680a63
 
 [None]: #none-privacy "World readable and discoverable"

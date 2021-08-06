@@ -13,9 +13,9 @@ permalink: "/visit-top-50/"
 
 On this page, we present various examples of using VisIt at scale.
 We would like to keep this information up to date, so we encourage
-anyone who is aware of good examples to please feel welcome to send
-email to visit-users@ornl.gov with information you would like to add
-to this page.
+anyone who is aware of good examples to please feel welcome to post
+a message to our [discussions](https://github.com/visit-dav/visit/discussions)
+with information you would like to add to this page.
 
 Mz=Million Zones (10<sup>6</sup>), Bz=Billion Zones (10<sup>9</sup>), Tz=Trillion Zones (10<sup>12</sup>)
 

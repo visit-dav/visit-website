@@ -62,7 +62,3 @@ permalink: "/dev-resources/"
 
 * [Older releases](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
 * [VisIt User's Wiki]({{site.baseurl}}/visit-users-wiki/)
-* VisIt User's Email list
-  * [Admin Page](https://elist.ornl.gov/mailman/admindb/visit-users)
-  * [Archive](https://elist.ornl.gov/mailman/private/visit-users)
-
