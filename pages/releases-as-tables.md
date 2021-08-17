@@ -30,7 +30,7 @@ Date | Jul 2021 | Apr 2021
 ---:|:---:|:---:
 Version               |[3.2.1]|[3.2.0]
 Win 10/8/7<br>development   |[use][321w]<br>[dev][321wd]|[use][320w]<br>[dev][320wd]
-Mac 10.14             ||[dmg][320m1014dmg]/[tgz][320m1014tgz]
+Mac 10.14             |[dmg][321m1014dmg]|[dmg][320m1014dmg]/[tgz][320m1014tgz]
 21<br>Ubuntu 20<br>18 |[tgz][321u21]<br>[tgz][321u20]<br>[tgz][321u18]|<br>[tgz][320u20]<br>[tgz][320u18]
 RedHat EL7<br>w/ Mesa |[tgz][321rh]<br>[tgz][321rhwm]|<br>[tgz][320rhwm]
 Fedora 31             |[tgz][321f31]|[tgz][320f31]
