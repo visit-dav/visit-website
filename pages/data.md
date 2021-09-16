@@ -23,7 +23,7 @@ send an e-mail to the VisIt Webmaster.
 |[VisIt Test Data][silo]|[![](../images/visit_data_files.jpg)][silo]|[ESRI Shapefile][esri]|[![](../images/gallery-14.jpg){:width="150px"}][esri]|
 |[DEM][dem]|[![](../images/gallery-13.jpg){:width="150px"}][dem]|[NetCDF][netcdf]|[![](../images/gallery-09.jpg){:width="150px"}][netcdf]|
 
-[silo]: https://wci.llnl.gov/content/assets/docs/simulation/computer-codes/visit/visit_data_files.tar.gz
+[silo]: https://visit-dav.github.io/largedata/datarchives/visit_data_files
 [esri]: http://arcdata.esri.com/data/tiger2000/tiger_download.cfm
 [dem]: http://data.geocomm.com/dem/demdownload.html
 [netcdf]: http://www.unidata.ucar.edu/software/netcdf/examples/files.html
