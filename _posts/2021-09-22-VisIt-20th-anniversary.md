@@ -1,6 +1,5 @@
 ---
 layout: page
-show_meta: false
 title: "Happy Anniversary VisIt"
 subheadline: "From tersa-scale to the dawn of exa-scale, VisIt celebrates 20 years"
 categories:
