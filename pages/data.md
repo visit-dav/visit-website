@@ -7,17 +7,15 @@ permalink: "/data/"
 date: "2015-10-15"
 ---
 
-VisIt comes preinstalled with a small set of example Silo files that
-you can plot to familiarize yourself with using VisIt. VisIt can read
-and process data from many different file formats. For a partial list
-of the supported file formats, you can look at the file formats table
-on the Frequently Asked Questions page. This page provides links to
-other sites where you can download data in some of the other file
-formats that VisIt supports. If you want to know how to create data
-files that VisIt can read, please read the Getting Data Into VisIt
-manual. You can find additional information on getting your data into
-VisIt at visitusers.org. If you want us to add a link to your data here,
-send an e-mail to the VisIt Webmaster.
+VisIt comes preinstalled with a small set of example Silo files that you can plot to familiarize yourself with using VisIt.
+VisIt can read and process data from [many different file formats](https://www.visitusers.org/index.php?title=Detailed_list_of_file_formats_VisIt_supports).
+In addition, we have a lot of [example data](https://github.com/visit-dav/visit/tree/develop/data) we use in our nightly testing.
+
+This page provides a few links to other sites where you can download data in some of the other file formats that VisIt supports.
+
+If you want to know how to create data files that VisIt can read, please read the [Getting Data Into VisIt manual](https://visit-dav.github.io/visit-website/pdfs/GettingDataIntoVisIt2.0.0.pdf) or read about how to [develop a new database plugin](https://visit-dav.github.io/visit-website/pdfs/GettingDataIntoVisIt2.0.0.pdf?#page=97).
+
+If you want us to add a link to your data here, please [contact us](https://visit-dav.github.io/visit-website/support/#methods-of-contact).
 
 |**File Format**|**Example Image**|**File Format**|**Example Image**|
 |[VisIt Test Data][silo]|[![](../images/visit_data_files.jpg)][silo]|[ESRI Shapefile][esri]|[![](../images/gallery-14.jpg){:width="150px"}][esri]|
