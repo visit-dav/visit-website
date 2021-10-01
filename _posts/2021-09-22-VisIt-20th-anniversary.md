@@ -19,9 +19,10 @@ The first release of VisIt was completed almost two years later involving about 
 Today, the code base comprises nearly 4.1 million lines of code and 10,500 source files, [139 database plugins](https://github.com/visit-dav/visit/tree/develop/src/databases), [73 operator plugins](https://github.com/visit-dav/visit/tree/develop/src/operators) and [21 plot plugins.](https://github.com/visit-dav/visit/tree/develop/src/plots)
 
 In addition to Hank, [Eric Brugger](https://str.llnl.gov/content/pages/2021-05/images/1-brugger-3.png), [Kathleen Biagas (then Bonnell)](https://github.com/biagas), [Jeremy Meredith](https://github.com/jsmeredith) and [Brad Whitlock](https://github.com/BradWhitlock) formed the original, core development team.
+During the intervening 20 years, the team has grown to include many active [contributors](https://visit-dav.github.io/visit-website/contributors/).
 Remarkably, Eric and Kathleen still lead development of VisIt today and Hank and Brad remain involved through external collaborations.
 
-Throughout its lifetime, the VisIt project has benefited from and is grateful for the hard work of many other [contributors](https://visit-dav.github.io/visit-website/contributors/) through either [development](https://github.com/visit-dav/visit/graphs/contributors), use, sponsorship, collaboration or advocacy.
-In particular, we thank staff and leadership of [the WCI program](https://wci.llnl.gov/) at LLNL for entrusting us to sustain this critical capability.
+Throughout its lifetime, the VisIt project has benefited from and is grateful for the hard work of many [other contributors](http://localhost:4000/contributors/#former-developers) through either [development](https://github.com/visit-dav/visit/graphs/contributors), use, sponsorship, collaboration or advocacy.
+In particular, we thank staff and leadership of [the WCI program](https://wci.llnl.gov/) at LLNL for entrusting us to sustain the critical capabilities VisIt provides.
 
 Read more about [VisIt's history.](https://str.llnl.gov/2021-05/brugger)
