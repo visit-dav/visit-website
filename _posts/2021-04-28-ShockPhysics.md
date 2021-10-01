@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Shock physics movies produced with VisIt"
-subheadline: "Simulation and flow physics of a shocked and reshocked high-energy-density mixing layer"
+subheadline: "Simulation of a high-energy-density mixing layer"
 tags:
     - post format
 categories:
