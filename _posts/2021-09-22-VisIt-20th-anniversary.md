@@ -3,13 +3,15 @@ layout: page
 show_meta: false
 title: "Happy Anniversary VisIt"
 subheadline: "From tersa-scale to the dawn of exa-scale, VisIt celebrates 20 years"
+categories:
+    - admin
 tags:
     - post format
 header:
     image_fullwidth: 20thanniv5.png
 image:
     thumb: 20thanniv5-thumb.png
-author: markcmiller86
+author: miller86
 ---
 VisIt is celebrating 20 years of service!
 
