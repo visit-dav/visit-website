@@ -4,8 +4,6 @@ title: "Happy Anniversary VisIt"
 subheadline: "From tersa-scale to the dawn of exa-scale, VisIt celebrates 20 years"
 categories:
     - admin
-tags:
-    - post format
 header:
     image_fullwidth: 20thanniv5.png
 image:
