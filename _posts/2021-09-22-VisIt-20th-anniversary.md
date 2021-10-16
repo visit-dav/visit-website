@@ -21,7 +21,7 @@ In addition to Hank, [Eric Brugger](https://str.llnl.gov/content/pages/2021-05/i
 During the intervening 20 years, the team has grown to include many active [contributors](https://visit-dav.github.io/visit-website/contributors/).
 Remarkably, Eric and Kathleen still lead development of VisIt today and Hank and Brad remain involved through external collaborations.
 
-Throughout its lifetime, the VisIt project has benefited from and is grateful for the hard work of many [other contributors](http://localhost:4000/contributors/#former-developers) through either [development](https://github.com/visit-dav/visit/graphs/contributors), sponsorship, collaboration or advocacy.
+Throughout its lifetime, the VisIt project has benefited from and is grateful for the hard work of many [other contributors](https://visit-dav.github.io/visit-website/contributors/#former-developers) through either [development](https://github.com/visit-dav/visit/graphs/contributors), sponsorship, collaboration or advocacy.
 In particular, we thank staff and leadership of [the WCI program](https://wci.llnl.gov/) at LLNL for providing a majority of the funding and entrusting us to sustain the critical capabilities VisIt provides.
 
 Finally, we thank our many dedicated users for your confidence in VisIt, your patience and help in diagnosing and fixing bugs, your suggestions for improvements, your willingness to try to build VisIt for a new platform or to roll up your sleeves and dig into the code, your sharing your data and results, your advocacy and citations of VisIt in presentations and papers, your ever more creative ways in using VisIt to perform an analysis and for your committment to making VisIt better.
