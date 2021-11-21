@@ -14,4 +14,4 @@ author: miller86
 
 This one slide captures 20 years of effort in Continuous Technology Refresh (CTR) on the VisIt project.
 
-[![](../../images/ctr_one_slide.png)]({{ site.url }}/pdfs/ctr_one_slide.pdf)
+[![](../../images/ctr_one_slide.png)]({{ site.baseurl }}/pdfs/ctr_one_slide.pdf)
