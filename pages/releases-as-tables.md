@@ -34,7 +34,7 @@ Mac 10.14             |[dmg][321m1014dmg]|[dmg][320m1014dmg]/[tgz][320m1014tgz]
 21<br>Ubuntu 20<br>18 |[tgz][321u21]<br>[tgz][321u20]<br>[tgz][321u18]|<br>[tgz][320u20]<br>[tgz][320u18]
 RedHat EL7<br>w/ Mesa |[tgz][321rh]<br>[tgz][321rhwm]|<br>[tgz][320rhwm]
 Fedora 31             |[tgz][321f31]|[tgz][320f31]
-Debian 10<br>9        |[tgz][321d10]<br>[tgz][321d9]|[tgz][320d10]<br>[tgz][320d9]
+11<br>Debian 10<br>9  |[tgz][321d11]<br>[tgz][321d10]<br>[tgz][321d9]|<br>[tgz][320d10]<br>[tgz][320d9]
 Centos 8              |[tgz][321c8]|[tgz][320c8]
 Java client           |[tgz][321j]|[tgz][320j]
 [visit-install][vm1]  |[sh][321vi]|[sh][320vi]
@@ -54,15 +54,16 @@ Manuals               |[html][321doc]/[pdf][321pdf]|[html][320doc]/[pdf][320pdf]
 [321wd]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visitdev3.2.1.exe "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
 [321m1014dmg]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3.2.1.darwin-x86_64-10_14.dmg "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
 [321m1014tgz]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3.2.1.darwin-x86_64-10_14.tar.gz "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
-[321u21]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-ubuntu21.tar.gz "Ubuntu 21, 4.19.76-linuxkit #1 SMP, gcc 10.3"
-[321u20]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 4.19.76-linuxkit #1 SMP, gcc 9.3"
-[321u18]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 4.19.76-linuxkit #1 SMP, gcc 7.5"
+[321u21]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-ubuntu21.tar.gz "Ubuntu 21, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 10.3"
+[321u20]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 9.3"
+[321u18]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 7.5"
 [321rh]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-rhel7.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5"
 [321rhwm]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-rhel7-wmesa.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5 (Includes Mesa support for rendering without a display. Only use on servers without a display.)"
-[321f31]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-fedora31.tar.gz "Fedora 31, 4.19.76-linuxkit #1 SMP, gcc 9.3.1"
-[321d9]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-debian9.tar.gz "Debian 9, 4.19.76-linuxkit #1 SMP, gcc 6.3"
-[321d10]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-debian10.tar.gz "Debian 10, 4.19.76-linuxkit #1 SMP, gcc 8.3"
-[321c8]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-centos8.tar.gz "CentOS 8, 4.19.76-linuxkit #1 SMP, gcc 8.3.1"
+[321f31]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-fedora31.tar.gz "Fedora 31, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 9.3.1"
+[321d9]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-debian9.tar.gz "Debian 9, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 6.3"
+[321d10]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-debian10.tar.gz "Debian 10, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 8.3"
+[321d11]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-debian11.tar.gz "Debian 11, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 10.2"
+[321c8]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-centos8.tar.gz "CentOS 8, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 8.3.1"
 [321j]: https://github.com/visit-dav/visit/releases/download/v3.2.1/jvisit3.2.1.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
 [321vi]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit-install3_2_1 "Linux installer script needed to install linux binaries"
 [321bv]: https://github.com/visit-dav/visit/releases/download/v3.2.1/build_visit3_2_1 "Download *only* this script to build VisIt from sources"
