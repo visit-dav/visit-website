@@ -24,29 +24,58 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
-* The 3.2.1 binary distributions will be added to the table as they become available.
+* The 3.2.2 binary distributions will be added to the table as they become available. Some of the links may be broken until all the files are added. The files should all be available by 2/4/2022. 
 
-Date | Jul 2021 | Apr 2021
+Date | Jan 2022 | Jul 2021 | Apr 2021
 ---:|:---:|:---:
-Version               |[3.2.1]|[3.2.0]
-Win 10/8/7<br>development   |[use][321w]<br>[dev][321wd]|[use][320w]<br>[dev][320wd]
-Mac 10.14             |[dmg][321m1014dmg]|[dmg][320m1014dmg]/[tgz][320m1014tgz]
-21<br>Ubuntu 20<br>18 |[tgz][321u21]<br>[tgz][321u20]<br>[tgz][321u18]|<br>[tgz][320u20]<br>[tgz][320u18]
-RedHat EL7<br>w/ Mesa |[tgz][321rh]<br>[tgz][321rhwm]|<br>[tgz][320rhwm]
-Fedora 31             |[tgz][321f31]|[tgz][320f31]
-11<br>Debian 10<br>9  |[tgz][321d11]<br>[tgz][321d10]<br>[tgz][321d9]|<br>[tgz][320d10]<br>[tgz][320d9]
-Centos 8              |[tgz][321c8]|[tgz][320c8]
-Java client           |[tgz][321j]|[tgz][320j]
-[visit-install][vm1]  |[sh][321vi]|[sh][320vi]
-[build_visit][vm2]    |[sh][321bv]|[sh][320bv]
-Source                |[tgz][321stgz]|[tgz][320stgz]
-Rel notes<br>Install notes |[html][321rn]<br>[txt][321in]|[html][320rn]<br>[txt][320in]
-Checksums<br><br><br>File sizes ||[md5][320md5]<br>[sh1][320sha1]<br>[sh256][320sha256]<br>[txt][320fs]
-Manuals               |[html][321doc]/[pdf][321pdf]|[html][320doc]/[pdf][320pdf]
+Version               |[3.2.2]|[3.2.1]|[3.2.0]
+Win 10/8/7<br>development   |[use][322w]<br>[dev][322wd]|[use][321w]<br>[dev][321wd]|[use][320w]<br>[dev][320wd]
+Mac 10.14             ||[dmg][321m1014dmg]|[dmg][320m1014dmg]/[tgz][320m1014tgz]
+21<br>Ubuntu 20<br>18 |[tgz][322u21]<br>[tgz][322u20]<br>[tgz][322u18]|[tgz][321u21]<br>[tgz][321u20]<br>[tgz][321u18]|<br>[tgz][320u20]<br>[tgz][320u18]
+RedHat EL7<br>w/ Mesa |[tgz][322rh]<br>[tgz][322rhwm]|[tgz][321rh]<br>[tgz][321rhwm]|<br>[tgz][320rhwm]
+Fedora 31             |[tgz][322f31]|[tgz][321f31]|[tgz][320f31]
+11<br>Debian 10<br>9  |[tgz][322d11]<br>[tgz][322d10]<br>[tgz][322d9]|[tgz][321d11]<br>[tgz][321d10]<br>[tgz][321d9]|<br>[tgz][320d10]<br>[tgz][320d9]
+Centos 8              |[tgz][322c8]|[tgz][321c8]|[tgz][320c8]
+Java client           |[tgz][322j]|[tgz][321j]|[tgz][320j]
+[visit-install][vm1]  |[sh][322vi]|[sh][321vi]|[sh][320vi]
+[build_visit][vm2]    |[sh][322bv]|[sh][321bv]|[sh][320bv]
+Source                |[tgz][322stgz]|[tgz][321stgz]|[tgz][320stgz]
+Rel notes<br>Install notes |[html][322rn]<br>[txt][322in]|[html][321rn]<br>[txt][321in]|[html][320rn]<br>[txt][320in]
+Checksums<br><br><br>File sizes |[md5][322md5]<br>[sh1][322sha1]<br>[sh256][322sha256]<br>[txt][322fs]|[md5][321md5]<br>[sh1][321sha1]<br>[sh256][321sha256]<br>[txt][321fs]|[md5][320md5]<br>[sh1][320sha1]<br>[sh256][320sha256]<br>[txt][320fs]
+Manuals               |[html][322doc]/[pdf][322pdf]|[html][321doc]/[pdf][321pdf]|[html][320doc]/[pdf][320pdf]
 
 [dev]: # "For development on Windows"
 [vm1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Intro/Installing_VisIt.html?highlight=visit-install#installing-on-linux "Use to install Linux binaries"
 [vm2]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/building_visit/index.html#building-visit
+
+<!-- 3.2.2 release asset links -->
+[3.2.2]: https://github.com/visit-dav/visit/releases/tag/v3.2.2 "All GitHub release assets"
+[322w]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3.2.2_x64.exe "Windows 10/8/7, 64-bit Visual Studio 2017"
+[322wd]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visitdev3.2.2.exe "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
+[322m1014dmg]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3.2.2.darwin-x86_64-10_14.dmg "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[322m1014tgz]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3.2.2.darwin-x86_64-10_14.tar.gz "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[322u21]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3_2_2.linux-x86_64-ubuntu21.tar.gz "Ubuntu 21, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 10.3"
+[322u20]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3_2_2.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 9.3"
+[322u18]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3_2_2.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 7.5"
+[322rh]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3_2_2.linux-x86_64-rhel7.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5"
+[322rhwm]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3_2_2.linux-x86_64-rhel7-wmesa.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5 (Includes Mesa support for rendering without a display. Only use on servers without a display.)"
+[322f31]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3_2_2.linux-x86_64-fedora31.tar.gz "Fedora 31, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 9.3.1"
+[322d9]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3_2_2.linux-x86_64-debian9.tar.gz "Debian 9, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 6.3"
+[322d10]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3_2_2.linux-x86_64-debian10.tar.gz "Debian 10, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 8.3"
+[322d11]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3_2_2.linux-x86_64-debian11.tar.gz "Debian 11, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 10.2"
+[322c8]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3_2_2.linux-x86_64-centos8.tar.gz "CentOS 8, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 8.3.1"
+[322j]: https://github.com/visit-dav/visit/releases/download/v3.2.2/jvisit3.2.2.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
+[322vi]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit-install3_2_2 "Linux installer script needed to install linux binaries"
+[322bv]: https://github.com/visit-dav/visit/releases/download/v3.2.2/build_visit3_2_2 "Download *only* this script to build VisIt from sources"
+[322stgz]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3.2.2.tar.gz
+[322rn]: ../releases/release-notes-3.2.2
+[322in]: https://github.com/visit-dav/visit/releases/download/v3.2.2/src/INSTALL_NOTES.txt
+[322sha256]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
+[322sha1]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
+[322md5]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
+[322fs]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit_filesizes.txt "List of all download file names and their sizes in bytes"
+[322doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.2.2/
+[322pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.2.2/pdf/
 
 <!-- 3.2.1 release asset links -->
 [3.2.1]: https://github.com/visit-dav/visit/releases/tag/v3.2.1 "All GitHub release assets"
@@ -69,7 +98,7 @@ Manuals               |[html][321doc]/[pdf][321pdf]|[html][320doc]/[pdf][320pdf]
 [321bv]: https://github.com/visit-dav/visit/releases/download/v3.2.1/build_visit3_2_1 "Download *only* this script to build VisIt from sources"
 [321stgz]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3.2.1.tar.gz
 [321rn]: ../releases/release-notes-3.2.1
-[321in]: https://github.com/visit-dav/visit/blob/3.2RC/src/INSTALL_NOTES
+[321in]: https://github.com/visit-dav/visit/releases/download/v3.2.1/INSTALL_NOTES.txt
 [321sha256]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
 [321sha1]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
 [321md5]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
@@ -96,7 +125,7 @@ Manuals               |[html][321doc]/[pdf][321pdf]|[html][320doc]/[pdf][320pdf]
 [320bv]: https://github.com/visit-dav/visit/releases/download/v3.2.0/build_visit3_2_0 "Download *only* this script to build VisIt from sources"
 [320stgz]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit3.2.0.tar.gz
 [320rn]: ../releases/release-notes-3.2.0
-[320in]: https://github.com/visit-dav/visit/blob/3.2RC/src/INSTALL_NOTES
+[320in]: https://github.com/visit-dav/visit/releases/download/v3.2.0/INSTALL_NOTES.txt
 [320sha256]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
 [320sha1]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
 [320md5]: https://github.com/visit-dav/visit/releases/download/v3.2.0/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
@@ -150,7 +179,7 @@ Manuals     |[html][314doc]/[pdf][314pdf]|[html][313doc]/[pdf][313pdf]|[html][31
 [314bv]: https://github.com/visit-dav/visit/releases/download/v3.1.4/build_visit3_1_4 "Download *only* this script to build VisIt from sources"
 [314stgz]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit3.1.4.tar.gz
 [314rn]: ../releases/release-notes-3.1.4
-[314in]: https://github.com/visit-dav/visit/blob/3.1RC/src/INSTALL_NOTES
+[314in]: https://github.com/visit-dav/visit/releases/download/v3.1.4/INSTALL_NOTES.txt
 [314sha256]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
 [314sha1]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
 [314md5]: https://github.com/visit-dav/visit/releases/download/v3.1.4/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
@@ -178,7 +207,7 @@ Manuals     |[html][314doc]/[pdf][314pdf]|[html][313doc]/[pdf][313pdf]|[html][31
 [313bv]: https://github.com/visit-dav/visit/releases/download/v3.1.3/build_visit3_1_3 "Download *only* this script to build VisIt from sources"
 [313stgz]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit3.1.3.tar.gz
 [313rn]: ../releases/release-notes-3.1.3
-[313in]: https://github.com/visit-dav/visit/blob/3.1RC/src/INSTALL_NOTES
+[313in]: https://github.com/visit-dav/visit/releases/download/v3.1.3/INSTALL_NOTES.txt
 [313sha256]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
 [313sha1]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
 [313md5]: https://github.com/visit-dav/visit/releases/download/v3.1.3/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
@@ -206,7 +235,7 @@ Manuals     |[html][314doc]/[pdf][314pdf]|[html][313doc]/[pdf][313pdf]|[html][31
 [312bv]: https://github.com/visit-dav/visit/releases/download/v3.1.2/build_visit3_1_2 "Download *only* this script to build VisIt from sources"
 [312stgz]: https://github.com/visit-dav/visit/releases/download/v3.1.2/visit3.1.2.tar.gz
 [312rn]: ../releases/release-notes-3.1.2
-[312in]: https://github.com/visit-dav/visit/blob/3.1RC/src/INSTALL_NOTES
+[312in]: https://github.com/visit-dav/visit/releases/download/v3.1.2/INSTALL_NOTES.txt
 [312sha256]: https://github.com/visit-dav/visit/releases/download/v3.1.2/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
 [312sha1]: https://github.com/visit-dav/visit/releases/download/v3.1.2/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
 [312md5]: https://github.com/visit-dav/visit/releases/download/v3.1.2/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
