@@ -30,7 +30,7 @@ Date | Jan 2022 | Jul 2021 | Apr 2021
 ---:|:---:|:---:
 Version               |[3.2.2]|[3.2.1]|[3.2.0]
 Win 10/8/7<br>development   |[use][322w]<br>[dev][322wd]|[use][321w]<br>[dev][321wd]|[use][320w]<br>[dev][320wd]
-Mac 10.14             ||[dmg][321m1014dmg]|[dmg][320m1014dmg]/[tgz][320m1014tgz]
+Mac 10.15<br>10.14    |[dmg][322m1015dmg]<br>|<br>[dmg][321m1014dmg]|<br>[dmg][320m1014dmg]/[tgz][320m1014tgz]
 21<br>Ubuntu 20<br>18 |[tgz][322u21]<br>[tgz][322u20]<br>[tgz][322u18]|[tgz][321u21]<br>[tgz][321u20]<br>[tgz][321u18]|<br>[tgz][320u20]<br>[tgz][320u18]
 RedHat EL7<br>w/ Mesa |[tgz][322rh]<br>[tgz][322rhwm]|[tgz][321rh]<br>[tgz][321rhwm]|<br>[tgz][320rhwm]
 Fedora 31             |[tgz][322f31]|[tgz][321f31]|[tgz][320f31]
@@ -51,9 +51,8 @@ Manuals               |[html][322doc]/[pdf][322pdf]|[html][321doc]/[pdf][321pdf]
 <!-- 3.2.2 release asset links -->
 [3.2.2]: https://github.com/visit-dav/visit/releases/tag/v3.2.2 "All GitHub release assets"
 [322w]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3.2.2_x64.exe "Windows 10/8/7, 64-bit Visual Studio 2017"
-[322wd]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visitdev3.2.2.exe "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
-[322m1014dmg]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3.2.2.darwin-x86_64-10_14.dmg "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
-[322m1014tgz]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3.2.2.darwin-x86_64-10_14.tar.gz "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[322wd]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit_windowsdev_3.2.2.zip "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
+[322m1015dmg]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3.2.2.darwin-x86_64-10_15.dmg "Darwin 10.15, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
 [322u21]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3_2_2.linux-x86_64-ubuntu21.tar.gz "Ubuntu 21, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 10.3"
 [322u20]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3_2_2.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 9.3"
 [322u18]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3_2_2.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 7.5"
@@ -82,7 +81,6 @@ Manuals               |[html][322doc]/[pdf][322pdf]|[html][321doc]/[pdf][321pdf]
 [321w]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3.2.1_x64.exe "Windows 10/8/7, 64-bit Visual Studio 2017"
 [321wd]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visitdev3.2.1.exe "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
 [321m1014dmg]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3.2.1.darwin-x86_64-10_14.dmg "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
-[321m1014tgz]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3.2.1.darwin-x86_64-10_14.tar.gz "Darwin 10.14, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
 [321u21]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-ubuntu21.tar.gz "Ubuntu 21, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 10.3"
 [321u20]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 9.3"
 [321u18]: https://github.com/visit-dav/visit/releases/download/v3.2.1/visit3_2_1.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 7.5"
