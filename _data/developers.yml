@@ -42,14 +42,7 @@ active:
     vfocus: OSX, Operator plugins, Volume rendering
     github: https://github.com/griffin28
     email: kgriffin@nvidia.com
-    bio: "Kevin joined the VisIt team in 2015 and during his time on the project completed a Ph.D in computer science from U.C. Davis with a focus on visualization techniques. Kevin also lead the first several years of development of [PyDV](https://github.com/LLNL/PyDV). Although Kevin has since moved to NVidia, he continues to contribute to VisIt development. Kevin also holds the rank of Lt. Commander as an Information Warfare Officer in the Naval Reserves."
-  larsen:
-    name: Matt Larsen
-    pic: http://mclarsen.com/images/me.jpg
-    vfocus: In-Situ, GPUs, Ascent
-    affiliation: "[LLNL](https://www.llnl.gov)"
-    email: larsen30@llnl.gov
-    github: https://github.com/mclarsen
+    bio: "Kevin Griffin is a Senior Developer Technology Engineer at NVIDIA where he is working on the integration of scientific visualization software with NVIDIA’s Omniverse platform and a high-level API called ANARI (Analytic Rendering Interface) that supports diverse rendering back-ends. He is also an Adjunct Associate Professor at San Joaquin Delta College where he teaches computer science courses. Kevin has previously worked at Lawrence Livermore National Laboratory where he was a Group Leader, Software Developer, and Solutions Executive for the High-Performance Computing Innovation Center."
   maguire:
     name: Alister Maguire
     pic: https://avatars0.githubusercontent.com/u/11658578?s=460&u=4894582cc0791544cc0eb04a81e1cc5c047f88e2&v=4
@@ -65,7 +58,7 @@ active:
     vfocus: VisIt Db plugins, Scalable I/O, Data Models
     github: https://github.com/markcmiller86
     email: miller86@llnl.gov
-    bio: "Mark has supported [VisIt](http://visit.llnl.gov) and led development of [Silo](https://silo.llnl.gov) for scalable I/O requirements of LLNL HPC simulation codes such as [ALE3D](https://wci.llnl.gov/simulation/computer-codes/ale3d) [Kull, Ares, LASNEX and Overlink](https://wci.llnl.gov/simulation/computer-codes) for ~20 years.  Mark's interests include data models and their impact on software interoperability, high performance I/O, and Software Quality Engineering ([Smart Libraries](https://github.com/markcmiller86/SAF/blob/master/src/safapi/docs/necdc_2004_paper_30Nov04.pdf)) for HPC libraries."
+    bio: "Mark has supported [VisIt](http://visit.llnl.gov) and led development of [Silo](https://silo.llnl.gov) for scalable I/O requirements of LLNL HPC simulation codes such as [ALE3D](https://wci.llnl.gov/simulation/computer-codes/ale3d) [Kull, Ares, LASNEX and Overlink](https://wci.llnl.gov/simulation/computer-codes) for 25+ years.  Mark's interests include data models and their impact on software interoperability, high performance I/O, and Software Quality Engineering ([Smart Libraries](https://github.com/markcmiller86/SAF/blob/master/src/safapi/docs/necdc_2004_paper_30Nov04.pdf)) for HPC libraries."
   pugmire:
     name: Dave Pugmire
     affiliation: ORNL
@@ -86,6 +79,7 @@ active:
     email: ghweber@lbl.gov
   whitlock:
     name: Brad Whitlock 
+    pic: https://3bug37j57ki33bea113xyd0s-wpengine.netdna-ssl.com/wp-content/uploads/Capture-2-239x300.png
     affiliation: "[Intelligent Light](http://www.ilight.com/en/)"
     email: bjw@ilight.com
     github: https://github.com/BradWhitlock
@@ -104,6 +98,8 @@ former:
     affil: "[NVidia](https://developer.nvidia.com/blog/author/tfogal/)"
   - name: Harinarayan Krishnan
     affil: "[LBNL](https://crd.lbl.gov/departments/data-science-and-technology/data-analytics-and-visualization/)"
+  - name: Matt Larsen
+    affil: "[Unspecified](https://github.com/mclarsen)"
   - name: Jeremy Meredith
     affil: "[ORNL](https://www.ornl.gov/directorate/ccsd)"
   - name: Shelly Prevost

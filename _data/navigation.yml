@@ -38,13 +38,15 @@
     url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/tutorials/index.html
   - title: "Old tutorials"
     url: https://www.visitusers.org/index.php?title=VisIt_Tutorial
-  - title: "Basic data input"
+  - title: "Data input examples"
+    url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/data_into_visit/index.html
+  - title: "Data input manual"
     url: "/pdfs/GettingDataIntoVisIt2.0.0.pdf"
   - title: "User's Wiki"
     url: "/visit-users-wiki/"
   - title: "Science stories"
     url: "/share-cool-stuff/"
-  - title: "DOE internal"
+  - title: "LLNL/WCI pages"
     url: "https://wci.llnl.gov/simulation/computer-codes/visit"
 
 - title: Developers
