@@ -24,7 +24,7 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
-* The link to the 3.2.2 Mac OS version will be added when distribution becomes available.
+* The links to the 3.2.2 Mac OS version and 3.2.2 RedHat EL7 versions will be added when distribution becomes available.
 
 Date | Jan 2022 | Jul 2021 | Apr 2021
 ---:|:---:|:---:
