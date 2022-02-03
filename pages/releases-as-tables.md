@@ -24,13 +24,13 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
-* The 3.2.2 binary distributions will be added to the table as they become available. Some of the links may be broken until all the files are added. The files should all be available by 2/4/2022. 
+* The link to the 3.2.2 Mac OS version will be added when distribution becomes available.
 
 Date | Jan 2022 | Jul 2021 | Apr 2021
 ---:|:---:|:---:
 Version               |[3.2.2]|[3.2.1]|[3.2.0]
 Win 10/8/7<br>development   |[use][322w]<br>[dev][322wd]|[use][321w]<br>[dev][321wd]|[use][320w]<br>[dev][320wd]
-Mac 10.15<br>10.14    |[dmg][322m1015dmg]<br>|<br>[dmg][321m1014dmg]|<br>[dmg][320m1014dmg]/[tgz][320m1014tgz]
+Mac 10.15<br>10.14    |<br>|<br>[dmg][321m1014dmg]|<br>[dmg][320m1014dmg]/[tgz][320m1014tgz]
 21<br>Ubuntu 20<br>18 |[tgz][322u21]<br>[tgz][322u20]<br>[tgz][322u18]|[tgz][321u21]<br>[tgz][321u20]<br>[tgz][321u18]|<br>[tgz][320u20]<br>[tgz][320u18]
 RedHat EL7<br>w/ Mesa |[tgz][322rh]<br>[tgz][322rhwm]|[tgz][321rh]<br>[tgz][321rhwm]|<br>[tgz][320rhwm]
 Fedora 31             |[tgz][322f31]|[tgz][321f31]|[tgz][320f31]
@@ -41,7 +41,7 @@ Java client           |[tgz][322j]|[tgz][321j]|[tgz][320j]
 [build_visit][vm2]    |[sh][322bv]|[sh][321bv]|[sh][320bv]
 Source                |[tgz][322stgz]|[tgz][321stgz]|[tgz][320stgz]
 Rel notes<br>Install notes |[html][322rn]<br>[txt][322in]|[html][321rn]<br>[txt][321in]|[html][320rn]<br>[txt][320in]
-Checksums<br><br><br>File sizes |[md5][322md5]<br>[sh1][322sha1]<br>[sh256][322sha256]<br>[txt][322fs]|[md5][321md5]<br>[sh1][321sha1]<br>[sh256][321sha256]<br>[txt][321fs]|[md5][320md5]<br>[sh1][320sha1]<br>[sh256][320sha256]<br>[txt][320fs]
+Checksums<br><br><br>File sizes ||[md5][321md5]<br>[sh1][321sha1]<br>[sh256][321sha256]<br>[txt][321fs]|[md5][320md5]<br>[sh1][320sha1]<br>[sh256][320sha256]<br>[txt][320fs]
 Manuals               |[html][322doc]/[pdf][322pdf]|[html][321doc]/[pdf][321pdf]|[html][320doc]/[pdf][320pdf]
 
 [dev]: # "For development on Windows"
@@ -68,7 +68,7 @@ Manuals               |[html][322doc]/[pdf][322pdf]|[html][321doc]/[pdf][321pdf]
 [322bv]: https://github.com/visit-dav/visit/releases/download/v3.2.2/build_visit3_2_2 "Download *only* this script to build VisIt from sources"
 [322stgz]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit3.2.2.tar.gz
 [322rn]: ../releases/release-notes-3.2.2
-[322in]: https://github.com/visit-dav/visit/releases/download/v3.2.2/src/INSTALL_NOTES.txt
+[322in]: https://github.com/visit-dav/visit/releases/download/v3.2.2/INSTALL_NOTES.txt
 [322sha256]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
 [322sha1]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
 [322md5]: https://github.com/visit-dav/visit/releases/download/v3.2.2/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
