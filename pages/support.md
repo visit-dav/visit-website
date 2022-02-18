@@ -57,7 +57,7 @@ the highest quality support services. These platforms are...
 
 * Windows 7, 8 and 10
 * RedHat Enterprise Linux 7.5
-* macOS 10.14 and 10.15
+* macOS 10.15
 
 ### Partially Supported
 
@@ -65,10 +65,10 @@ We do make an effort to provide pre-compiled binaries as well as perform minimal
 for other variants of Linux. However, because we do not yet routinely develop or test on
 these platforms, we are not able to provide the same level of support.
 
-* Ubunto 16, 18, 19 and 20
+* Ubunto 18, 20 and 21
 * Centos 8
-* Debian 9 and 10
-* Fedora 27 and 31
+* Debian 9, 10 and 11
+* Fedora 31
 
 ### Other Platforms
 

@@ -38,6 +38,8 @@
                 {% assign site_baseurl = site.baseurl %}
               {% endif %}
 
+
+
           {% comment %}   If there are links for right side begin   {% endcomment %}
           {% if link.side == 'right' %}
             {% comment %}   If right side WITHOUT dropdown menu do   {% endcomment %}
@@ -91,6 +93,7 @@
                 {% assign site_baseurl = '' %}
               {% elsif link.url == '#' %}
                 {% assign domain = '' %}
+                {% assign _baseurl = site.baseurl %}
               {% else %}
                 {% assign domain = site.url %}
                 {% assign site_baseurl = site.baseurl %}
