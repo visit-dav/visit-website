@@ -15,6 +15,7 @@ If you use VisIt to generate images or movies, won't you please help us by credi
 VisIt by name or citing VisIt in your paper or in the credits of your movie. Doing so
 helps us sustain funding for on going maintenance and future improvements.
 
-* Go to the *Cite this repository* button from our main [repository](https://github.com/visit-dav/visit) page on GitHub as pictured below.
-  ![]({{ site.urlimg }}cite_this_repo_button_screenshot.png)
 * View the raw [`CITATION.cff`](https://raw.githubusercontent.com/visit-dav/visit/develop/CITATION.cff) file
+* Go to the *Cite this repository* button from our main [repository](https://github.com/visit-dav/visit) page on GitHub as pictured below...
+
+![]({{ site.urlimg }}cite_this_repo_button_screenshot.png)
