@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "One slide: 20 Years of Continuous Technology Refresh (CTR)"
+title: "One slide: 20 Years CTR"
 categories:
     - admin
 header:
