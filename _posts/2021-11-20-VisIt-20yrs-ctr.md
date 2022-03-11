@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "One slide: 20 Years CTR"
+title: "One slide: 20 Years of CTR"
 categories:
     - admin
 header:
