@@ -12,6 +12,6 @@ image:
 author: miller86
 ---
 
-This one slide captures 20 years of effort in [Continuous Technology Refresh]({% post_url 2019-04-12-ContinuousTechnologyRefreshment %}) (CTR) on the VisIt project.
+This one slide captures 20 years of effort in [Continuous Technology Refresh]({% post_url design/2019-04-12-ContinuousTechnologyRefreshment %}) (CTR) on the VisIt project.
 
 [![](../../images/ctr_one_slide.png)]({{ site.baseurl }}/pdfs/ctr_one_slide.pdf)
