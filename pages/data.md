@@ -15,7 +15,7 @@ This page provides a few links to other sites where you can download data in som
 
 If you want to know how to create data files that VisIt can read, please read the [Getting Data Into VisIt manual](https://visit-dav.github.io/visit-website/pdfs/GettingDataIntoVisIt2.0.0.pdf) or read about how to [develop a new database plugin](https://visit-dav.github.io/visit-website/pdfs/GettingDataIntoVisIt2.0.0.pdf?#page=97).
 
-If you want us to add a link to your data here, please [contact us](https://visit-dav.github.io/visit-website/support/#methods-of-contact).
+If you want us to add a link to your data here, please [contact us]({{site.baseurl}}/support/#methods-of-contact).
 
 |**File Format**|**Example Image**|**File Format**|**Example Image**|
 |[VisIt Test Data][silo]|[![](../images/visit_data_files.jpg)][silo]|[ESRI Shapefile][esri]|[![](../images/gallery-14.jpg){:width="150px"}][esri]|
