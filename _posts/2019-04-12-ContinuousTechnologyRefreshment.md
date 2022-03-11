@@ -21,7 +21,7 @@ image:
 author: miller86
 ---
 The practice of
-[*Continuous Technology Refreshment (CTR)*](http://info.alphanumeric.com/blog/benefits-establishing-technology-refresh-cycle)
+[*Continuous Technology Refreshment (CTR)*](https://securityintelligence.com/articles/why-every-company-needs-software-update-schedule/)
 is defined as the *periodic upgrade or replacement of infrastructure to deliver continued reliability, improved speed,
 capacity, and/or new features*. The term is used primarily in the IT world when replacing obsolete *hardware*.
 However, long-lived software projects often wind up having to engage in equivalent activity.
