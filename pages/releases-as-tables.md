@@ -24,6 +24,7 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
+* **WARNING**: Except as otherwise noted in *hover text details*, pre-built binaries **DO NOT** include support for parallel execution. In general, MPI parallelism is platform-specific enough that VisIt must be built from sources for parallel execution support.
 
 Date | Jan 2022 | Jul 2021 | Apr 2021
 ---:|:---:|:---:
