@@ -22,6 +22,6 @@ If you want us to add a link to your data here, please [contact us]({{site.baseu
 |[DEM][dem]|[![](../images/gallery-13.jpg){:width="150px"}][dem]|[NetCDF][netcdf]|[![](../images/gallery-09.jpg){:width="150px"}][netcdf]|
 
 [silo]: https://visit-dav.github.io/largedata/datarchives/visit_data_files
-[esri]: http://arcdata.esri.com/data/tiger2000/tiger_download.cfm
-[dem]: http://data.geocomm.com/dem/demdownload.html
+[esri]: https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
+[dem]: https://www.usgs.gov/search?keywords=DEM&f%5B0%5D=usgs_facet%3Aproducts_data
 [netcdf]: http://www.unidata.ucar.edu/software/netcdf/examples/files.html
