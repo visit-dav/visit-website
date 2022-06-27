@@ -22,7 +22,7 @@ enhancements and bug-fixes that were added to this release.
         * When color table filtering is off all the color tables are displayed in the color table controls in the rest of the GUI.
         * When color table filtering is on only the color tables associated with the active flags are displayed.
         * The user can select if only the color tables that contain all the tags or any of the tags gets displayed.
-    * The color table categroies have been eliminated since that functionality is now redundant with the introduction of the more flexible tagging system.
+    * The color table categories have been eliminated since that functionality is now redundant with the introduction of the more flexible tagging system.
     * Changed *active* to *default* for everything related to color tables, including the GUI and the Python scripting interface.
 * New capabilities have been added to allow repartitioning or flattening domain decomposed data when exporting to Blueprint.
     * When repartitioning data, the user can specify the number of domains to repartition the data into. The current repartitioning algoithm uses a simple spatial decomposition algorithm. The user can also specify a field to control the partitioning, enabling an arbitrary repartitioning.
@@ -33,7 +33,7 @@ enhancements and bug-fixes that were added to this release.
 * Support for *SeedMe* was removed since the service was retired.
 * References to old email lists (@ornl.gov) throughout the code and documentation were replaced with references to the help pages of the new website.
 * The behavior of Python's `help` was modified to first present what `help` would normally produce followed by the output from `apropos` when that output is non-empty.
-* The French translation was updated thanks to [@cessenat](//github.com/cessenat). We are still looking for volunteers for translations in other languages. If interested, please [contact us](//visit-dav.github.io/visit-website/support/).
+* The French translation was updated thanks to [@cessenat](//github.com/cessenat). We are still looking for volunteers for translations in other languages. If interested, please [contact us](//visit-sphinx-github-user-manual.readthedocs.io/en/develop/getting_help/index.html).
 * A new (beta) [Castilian Spanish](//en.wikipedia.org/wiki/Names_given_to_the_Spanish_language) translation was created thanks to [@cessenat](//github.com/cessenat) using auto-translation from English. It likely still requires review by someone who is fluent in Spanish and we would welcome any volunteers.
 * Added support and examples of 2D structured grids representing surfaces in 3 dimensions.
 
