@@ -27,7 +27,7 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
 
 Date | Jun 2022
----:
+---:|:---:
 Version                   |[3.3.0]
 Win 10/8/7<br>development |[use][330w]<br>[dev][330wd]
 Mac 10.15                 |[dmg][330m1015dmg]/[tgz][330m1015tgz]
