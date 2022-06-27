@@ -29,11 +29,11 @@
   side: left
   dropdown:
   - title: "Get help"
-    url: "/support/"
-  - title: "GUI Manual"
-    url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/index.html
-  - title: "Python Manual"
-    url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/cli_manual/index.html
+    url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/getting_help/index.html
+  - title: "Using VisIt"
+    url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/using_visit/index.html
+  - title: "Python Scripting"
+    url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/python_scripting/index.html
   - title: "Tutorials"
     url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/tutorials/index.html
   - title: "Old tutorials"
