@@ -5,7 +5,7 @@
   - title: "About"
     url: "/about/"
   - title: "Get help"
-    url: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/getting_help/index.html
+    url: "/support/"
   - title: "Examples/Gallery"
     url: "/examples/"
   - title: "Citing VisIt"
