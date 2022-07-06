@@ -5,8 +5,8 @@ header:
   image_fullwidth: mfem-hires-1.png
 permalink: "/releases-as-tables/"
 ---
-* [Series 3.3(upcoming)](#series-33)
-* [Series 3.2 (latest)](#series-32)
+* [Series 3.3 (latest)](#series-33)
+* [Series 3.2](#series-32)
 * [Series 3.1](#series-31)
 * [Series 3.0](#series-30)
 * [Older releases](https://wci.llnl.gov/simulation/computer-codes/visit/executables)
@@ -25,16 +25,19 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
+* The MacOS version will be coming soon!
+* We are working on an Ubuntu 22 version.
+<!-- Mac 10.15                 |[dmg][330m1015dmg]/[tgz][330m1015tgz] -->
 
 Date | Jun 2022
 ---:|:---:
 Version                   |[3.3.0]
 Win 10/8/7<br>development |[use][330w]<br>[dev][330wd]
-Mac 10.15                 |[dmg][330m1015dmg]/[tgz][330m1015tgz]
-22<br>Ubuntu 20<br>18     |<br>[tgz][330u20]<br>[tgz][330u18]
-RedHat EL7<br>w/ Mesa     |<br>[tgz][330rhwm]
+Mac 10.15                 |
+Ubuntu 20<br>18           |[tgz][330u20]<br>[tgz][330u18]
+RedHat EL7<br>w/ Mesa     |[tgz][330rh]<br>[tgz][330rhwm]
 Fedora 31                 |[tgz][330f31]
-11<br>Debian 10<br>9      |[tgz][330d11]<br>[tgz][330d10]<br>[tgz][330d9]
+Debian 11<br>10           |[tgz][330d11]<br>[tgz][330d10]
 Java client               |[tgz][330j]
 [visit-install][vm1]      |[sh][330vi]
 [build_visit][vm2]        |[sh][330bv]
