@@ -25,7 +25,6 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
-* The MacOS version will be coming soon!
 * We are working on an Ubuntu 22 version.
 
 Date | Jun 2022
