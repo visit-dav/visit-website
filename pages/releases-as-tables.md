@@ -27,13 +27,12 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
 * The MacOS version will be coming soon!
 * We are working on an Ubuntu 22 version.
-<!-- Mac 10.15                 |[dmg][330m1015dmg]/[tgz][330m1015tgz] -->
 
 Date | Jun 2022
 ---:|:---:
 Version                   |[3.3.0]
 Win 10/8/7<br>development |[use][330w]<br>[dev][330wd]
-Mac 10.15                 |
+Mac 10.15                 |[dmg][330m1015dmg]/[tgz][330m1015tgz]
 Ubuntu 20<br>18           |[tgz][330u20]<br>[tgz][330u18]
 RedHat EL7<br>w/ Mesa     |[tgz][330rh]<br>[tgz][330rhwm]
 Fedora 31                 |[tgz][330f31]
