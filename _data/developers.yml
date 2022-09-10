@@ -53,7 +53,7 @@ active:
     bio: "Alister joined the VisIt team in 2017 after receiving his B.S. in computer science from the University of Oregon. At the UO, he studied scientific visualization under Hank Childs and bioinformatics under John Conery. His primary contributions to VisIt have been in relation to supporting the engineering department at LLNL. Alister is also a primary contributor to the LAGER project at LLNL, which develops machine learning solutions for applied relaxtion in Arbitrary Lagrangian-Eulerian simulations."
   miller:
     name: Mark C. Miller
-    pic: https://people.llnl.gov/getImage?per_intr_no=1011807
+    pic: https://avatars.githubusercontent.com/u/5720676
     affiliation: "[LLNL](https://www.llnl.gov)"
     vfocus: VisIt Db plugins, Scalable I/O, Data Models
     github: https://github.com/markcmiller86
