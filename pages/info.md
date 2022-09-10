@@ -2,5 +2,5 @@
 layout: redirect
 sitemap: false
 permalink: /info/
-redirect_to: /about/
+redirect_to: /visit-website/about/
 ---
