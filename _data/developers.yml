@@ -61,6 +61,7 @@ active:
     bio: "Mark has supported [VisIt](http://visit.llnl.gov) and led development of [Silo](https://silo.llnl.gov) for scalable I/O requirements of LLNL HPC simulation codes such as [ALE3D](https://wci.llnl.gov/simulation/computer-codes/ale3d) [Kull, Ares, LASNEX and Overlink](https://wci.llnl.gov/simulation/computer-codes) for 25+ years.  Mark's interests include data models and their impact on software interoperability, high performance I/O, and Software Quality Engineering ([Smart Libraries](https://github.com/markcmiller86/SAF/blob/master/src/safapi/docs/necdc_2004_paper_30Nov04.pdf)) for HPC libraries."
   pugmire:
     name: Dave Pugmire
+    pic: https://pbs.twimg.com/profile_images/781245226765602816/hRxZqZce_400x400.jpg
     affiliation: ORNL
     github: https://github.com/dpugmire
     email: pugmire@ornl.gov
