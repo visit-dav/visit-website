@@ -16,4 +16,4 @@ There, we believe such content is more likely to remain current as we now employ
 We've started with key user tutorials.
 
 Migrating content involves converting it from [WikiMedia](https://www.mediawiki.org/wiki/Help:Formatting) format to [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html).
-If anyone is interested in helping us in this quest, please get in touch with us by opening a new [*Make VisIt better* discussion](https://github.com/visit-dav/visit/discussions/new).
+For anyone interested in helping us in this quest, please get in touch with us by opening a new [*Make VisIt better* discussion](https://github.com/visit-dav/visit/discussions/new?category=make-visit-better).
