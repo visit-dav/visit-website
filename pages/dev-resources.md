@@ -6,26 +6,26 @@ header:
 permalink: "/dev-resources/"
 ---
 
-### Current
+### Resources
 
 * [VisIt organization on GitHub](https://github.com/visit-dav)
 * [Main code repo](https://github.com/visit-dav/visit)
 * [Nightly test results](https://visit-dav.github.io/dashboard/) and [repo](https://github.com/visit-dav/dashboard)
-* [RTD manuals](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/)
+* [Read the Doc manuals](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/)
 * [Website](https://visit-dav.github.io/visit-website/) and [repo](https://github.com/visit-dav/visit-website)
-* [GitHub developer notes](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/dev_manual/GitHub.html)
+* [Git/GitHub primer](https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/dev_manual/GitHub.html)
 * [Third party repo](https://github.com/visit-dav/visit-deps)
 * [Large data shares](https://visit-dav.github.io/largedata/) and [repo](https://github.com/visit-dav/largedata)
-* [GitHub releases](https://github.com/visit-dav/visit/releases) and [tables]({{site.baseurl}}/releases-as-tables/)
+* [Releases](https://github.com/visit-dav/visit/releases) and [hosted tables]({{site.baseurl}}/releases-as-tables/)
 
 ### Issues
 
-* [Unanswered Discussions](https://github.com/visit-dav/visit/discussions?discussions_q=is%3Aunanswered+-label%3Asre)
-* [Unreviewed](https://github.com/visit-dav/visit/issues?utf8=✓&q=is%3Aissue+is%3Aopen+-label%3Areviewed)
-* [All Open](https://github.com/visit-dav/visit/issues)
-* [Priority](https://github.com/visit-dav/visit/issues?q=is%3Aissue+is%3Aopen+label%3Apriority+sort%3Acreated-desc)
-* [High Likelihood / High Impact](https://github.com/visit-dav/visit/issues?q=is%3Aopen+label%3A%22likelihood+high%22+label%3A%22impact+high%22)
-* [Low hanging fruit](https://github.com/visit-dav/visit/issues?q=is%3Aissue+is%3Aopen+label%3A%22low-hanging+fruit%22+)
+* [Unanswered discussions](https://github.com/visit-dav/visit/discussions?discussions_q=is%3Aunanswered+-label%3Asre)
+* [Unreviewed issues](https://github.com/visit-dav/visit/issues?utf8=✓&q=is%3Aissue+is%3Aopen+-label%3Areviewed)
+* [All open issues](https://github.com/visit-dav/visit/issues)
+* [Priority issues](https://github.com/visit-dav/visit/issues?q=is%3Aissue+is%3Aopen+label%3Apriority+sort%3Acreated-desc)
+* [High Likelihood / High Impact issues](https://github.com/visit-dav/visit/issues?q=is%3Aopen+label%3A%22likelihood+high%22+label%3A%22impact+high%22)
+* [Low hanging fruit issues](https://github.com/visit-dav/visit/issues?q=is%3Aissue+is%3Aopen+label%3A%22low-hanging+fruit%22+)
 * [Good first issues](https://github.com/visit-dav/visit/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 * Issues Assigned to:
 <form id="myForm" action="https://github.com/visit-dav/visit/issues" method="GET">
