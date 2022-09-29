@@ -31,7 +31,7 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 Date | Jun 2022 | Sep 2022
 ---:|:---:|:---:
 Version                   |[3.3.0]|[3.3.1]
-Win 10/8/7<br>development |[use][330w]<br>[dev][330wd]|use][331w]<br>[dev][331wd]
+Win 10/8/7<br>development |[use][330w]<br>[dev][330wd]|[use][331w]<br>[dev][331wd]
 Mac 10.15                 |[dmg][330m1015dmg]/[tgz][330m1015tgz]|[dmg][331m1015dmg]/[tgz][331m1015tgz]
 Ubuntu 20<br>18           |[tgz][330u20]<br>[tgz][330u18]|[tgz][331u20]<br>[tgz][331u18]
 RedHat EL7<br>w/ Mesa     |[tgz][330rh]<br>[tgz][330rhwm]|[tgz][331rh]<br>[tgz][331rhwm]
