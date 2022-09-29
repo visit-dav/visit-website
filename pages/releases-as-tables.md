@@ -25,24 +25,25 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
-* We are working on an Ubuntu 22 version.
+* The Ubuntu 20 version will run on Ubuntu 22.
+* VisIt 3.3.1 is work in progress and the release files will be added in the next few days (9/29/2022)
 
-Date | Jun 2022
----:|:---:
-Version                   |[3.3.0]
-Win 10/8/7<br>development |[use][330w]<br>[dev][330wd]
-Mac 10.15                 |[dmg][330m1015dmg]/[tgz][330m1015tgz]
-Ubuntu 20<br>18           |[tgz][330u20]<br>[tgz][330u18]
-RedHat EL7<br>w/ Mesa     |[tgz][330rh]<br>[tgz][330rhwm]
-Fedora 31                 |[tgz][330f31]
-Debian 11<br>10           |[tgz][330d11]<br>[tgz][330d10]
-Java client               |[tgz][330j]
-[visit-install][vm1]      |[sh][330vi]
-[build_visit][vm2]        |[sh][330bv]
-Source                    |[tgz][330stgz]
-Rel notes<br>Install notes |[html][330rn]<br>[txt][330in]
-Checksums<br><br><br>File sizes |[md5][330md5]<br>[sh1][330sha1]<br>[sh256][330sha256]<br>[txt][320fs]
-Manuals                   |[html][330doc]/[pdf][330pdf]
+Date | Jun 2022 | Sep 2022
+---:|:---:|:---:
+Version                   |[3.3.0]|[3.3.1]
+Win 10/8/7<br>development |[use][330w]<br>[dev][330wd]|use][331w]<br>[dev][331wd]
+Mac 10.15                 |[dmg][330m1015dmg]/[tgz][330m1015tgz]|[dmg][331m1015dmg]/[tgz][331m1015tgz]
+Ubuntu 20<br>18           |[tgz][330u20]<br>[tgz][330u18]|[tgz][331u20]<br>[tgz][331u18]
+RedHat EL7<br>w/ Mesa     |[tgz][330rh]<br>[tgz][330rhwm]|[tgz][331rh]<br>[tgz][331rhwm]
+Fedora 31                 |[tgz][330f31]|[tgz][331f31]
+Debian 11<br>10           |[tgz][330d11]<br>[tgz][330d10]|[tgz][331d11]<br>[tgz][331d10]
+Java client               |[tgz][330j]|[tgz][331j]
+[visit-install][vm1]      |[sh][330vi]|[sh][331vi]
+[build_visit][vm2]        |[sh][330bv]|[sh][331bv]
+Source                    |[tgz][330stgz]|[tgz][331stgz]
+Rel notes<br>Install notes |[html][330rn]<br>[txt][330in]|[html][331rn]<br>[txt][331in]
+Checksums<br><br><br>File sizes |[md5][330md5]<br>[sh1][330sha1]<br>[sh256][330sha256]<br>[txt][330fs]|[md5][331md5]<br>[sh1][331sha1]<br>[sh256][331sha256]<br>[txt][331fs]
+Manuals                   |[html][330doc]/[pdf][330pdf]|[html][331doc]/[pdf][331pdf]
 
 <!-- 3.3.0 release asset links -->
 [3.3.0]: https://github.com/visit-dav/visit/releases/tag/v3.3.0 "All GitHub release assets"
@@ -71,6 +72,34 @@ Manuals                   |[html][330doc]/[pdf][330pdf]
 [330fs]: https://github.com/visit-dav/visit/releases/download/v3.3.0/visit_filesizes.txt "List of all download file names and their sizes in bytes"
 [330doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.3.0/
 [330pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.3.0/pdf/
+
+<!-- 3.3.1 release asset links -->
+[3.3.1]: https://github.com/visit-dav/visit/releases/tag/v3.3.1 "All GitHub release assets"
+[331w]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3.3.1_x64.exe "Windows 10/8/7, 64-bit Visual Studio 2017"
+[331wd]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit_windowsdev_3.3.1.zip "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
+[331m1015dmg]: https://github.com/visit-dav/visit/releases/download/v3.3.1/Visit-3.3.1.dmg "Darwin 10.15, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[331m1015tgz]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3.3.1.darwin-x86_64-10_15.tar.gz "Darwin 10.15, Darwin Kernel Version 18.7.0, clang-1000.11.45.5, MPICH"
+[331u22]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-ubuntu22.tar.gz "Ubuntu 22, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 10.3"
+[331u20]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 9.3"
+[331u18]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 7.5"
+[331rh]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-rhel7.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5"
+[331rhwm]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-rhel7-wmesa.tar.gz "Redhat Enterprise Linux 7.5, 4.18.9-1.el7.elrepo.x86_64 #1 SMP, gcc 4.8.5 (Includes Mesa support for rendering without a display. Only use on servers without a display.)"
+[331f31]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-fedora31.tar.gz "Fedora 31, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 9.3.1"
+[331d9]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-debian9.tar.gz "Debian 9, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 6.3"
+[331d10]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-debian10.tar.gz "Debian 10, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 8.3"
+[331d11]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-debian11.tar.gz "Debian 11, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 10.2"
+[331j]: https://github.com/visit-dav/visit/releases/download/v3.3.1/jvisit3.3.1.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
+[331vi]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit-install3_3_1 "Linux installer script needed to install linux binaries"
+[331bv]: https://github.com/visit-dav/visit/releases/download/v3.3.1/build_visit3_3_1 "Download *only* this script to build VisIt from sources"
+[331stgz]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3.3.1.tar.gz
+[331rn]: ../releases/release-notes-3.3.1
+[331in]: https://github.com/visit-dav/visit/releases/download/v3.3.1/INSTALL_NOTES.txt
+[331sha256]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
+[331sha1]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
+[331md5]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
+[331fs]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit_filesizes.txt "List of all download file names and their sizes in bytes"
+[331doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.3.1/
+[331pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.3.1/pdf/
 
 ### Series 3.2
 
