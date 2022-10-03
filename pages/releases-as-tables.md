@@ -26,13 +26,12 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
 * The Ubuntu 20 version will run on Ubuntu 22.
-* VisIt 3.3.1 is work in progress and the release files will be added in the next few days (9/29/2022)
 
 Date | Jun 2022 | Sep 2022
 ---:|:---:|:---:
 Version                   |[3.3.0]|[3.3.1]
 Win 10/8/7<br>development |[use][330w]<br>[dev][330wd]|[use][331w]<br>[dev][331wd]
-Mac 10.15                 |[dmg][330m1015dmg]/[tgz][330m1015tgz]|[dmg][331m1015dmg]/[tgz][331m1015tgz]
+Mac 10.15                 |[dmg][330m1015dmg]/[tgz][330m1015tgz]| Coming Soon!
 Ubuntu 20<br>18           |[tgz][330u20]<br>[tgz][330u18]|[tgz][331u20]<br>[tgz][331u18]
 RedHat EL7<br>w/ Mesa     |[tgz][330rh]<br>[tgz][330rhwm]|[tgz][331rh]<br>[tgz][331rhwm]
 Fedora 31                 |[tgz][330f31]|[tgz][331f31]
