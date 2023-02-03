@@ -24,6 +24,9 @@ enhancements and bug-fixes that were added to this release.
 * Fixed a rare issue with the color table window that caused it to resize horizontally larger than the screen, causing buttons to be off the screen.
 * Fixed a bug with Pick where it incorrectly used the node origin.
 * Fixed a bug where "atan2" did not show up in the list of expressions in the Expressions window.
+* Fixed a bug with the Mili reader where variables that were only defined on a portion of the nodes weren't being placed on the correct nodes.
+* Fixed the default attributes repr() behavior in the CLI to again print attribute details. This was unintended change introduced with Python 3 support.
+* VisIt's internal ssh (qtssh) was updated with latest putty version (0.78) to fix client-server connection issues from Windows.
 
 ### Enhancements in version 3.3.2
 
@@ -38,4 +41,7 @@ enhancements and bug-fixes that were added to this release.
 * Updated the Silo reader to support a rare decomposition format discovered in the wild.
 * Added support for reading Blueprint data with blueprint_index per-mesh partition maps to the Blueprint reader.
 * Extended support for reading sparsely populated Blueprint trees in the Blueprint reader.
-* Enhanced the make movie script so that it sets the number of digits in the output file names based on the number needed rather than always using four. Note that it uses a minimum of four digits to maintain backwards compatibility and a maximum of seven digits on the assumption you will not create a movie longer than 92 hours.
+* Enhanced the make movie script so that it sets the number of digits in the output file names based on the number needed rather than always using four when the number of frames in the movie is known ahead of time, which is when a session file or the current plot is used. Note that it uses a minimum of four digits to maintain backwards compatibility and a maximum of seven digits on the assumption you will not create a movie longer than 92 hours.
+* Added initial support for reading Blueprint structured meshes with non-trivial strides to the Blueprint reader.
+* The X Ray Image Query Documentation has been expanded. It now has its own [page]("https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/using_visit/Quantitative/XRayImageQuery.html), where all of the additions and features are extensively documented.
+* Made some usability enhancements to the color table window; specifically, changed which color tables appear by default and removed some color tables that are superfluous.
