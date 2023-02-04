@@ -31,7 +31,7 @@ Date | Jun 2022 | Sep 2022
 ---:|:---:|:---:
 Version                   |[3.3.0]|[3.3.1]
 Win 10/8/7<br>development |[use][330w]<br>[dev][330wd]|[use][331w]<br>[dev][331wd]
-Mac 10.15                 |[dmg][330m1015dmg]/[tgz][330m1015tgz]| [dmg][331m1015dmg]/[tgz][331m1015tgz]
+Mac 10.15<br>12.6 (M1)                 |[dmg][330m1015dmg]/[tgz][330m1015tgz]| [dmg][331m1015dmg]/[tgz][331m1015tgz]<br>[txz][331m126txz]
 Ubuntu 20<br>18           |[tgz][330u20]<br>[tgz][330u18]|[tgz][331u20]<br>[tgz][331u18]
 RedHat EL7<br>w/ Mesa     |[tgz][330rh]<br>[tgz][330rhwm]|[tgz][331rh]<br>[tgz][331rhwm]
 Fedora 31                 |[tgz][330f31]|[tgz][331f31]
@@ -78,6 +78,7 @@ Manuals                   |[html][330doc]/[pdf][330pdf]|[html][331doc]/[pdf][331
 [331wd]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit_windowsdev_3.3.1.zip "Windows 10/8/7 for VisIt development, 64-bit Visual Studio 2017"
 [331m1015dmg]: https://github.com/visit-dav/visit/releases/download/v3.3.1/Visit-3.3.1.dmg "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
 [331m1015tgz]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3.3.1.darwin-x86_64-10_15.tar.gz "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
+[331m126txz]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.darwin-arm64.tar.xz "Darwin 12.6, Darwin Kernel Version 21.6.0, clang-1400.0.29.202, arm64, Python 3.9.6"
 [331u22]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-ubuntu22.tar.gz "Ubuntu 22, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 10.3"
 [331u20]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 9.3"
 [331u18]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 7.5"
