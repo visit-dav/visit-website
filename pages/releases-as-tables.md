@@ -31,7 +31,7 @@ Date | Dec 2022 | Sep 2022 | Jun 2022
 ---:|:---:|:---:|:---:
 Version                   |[3.3.2]|[3.3.1]|[3.3.0]
 Win 10<br>development     |[use][332w]<br>[dev][332wd]|[use][331w]<br>[dev][331wd]|[use][330w]<br>[dev][330wd]
-Mac 10.15<br>12.6 (M1)    |[dmg][332m1015dmg]/[tgz][332m1015tgz]<br>|[dmg][331m1015dmg]/[tgz][331m1015tgz]<br>[txz][331m126txz]|[dmg][330m1015dmg]/[tgz][330m1015tgz]<br>[txz][330m126txz]
+Mac 10.15<br>12.6 (M1)    |[dmg][332m1015dmg]/[tgz][332m1015tgz]<br>|[dmg][331m1015dmg]/[tgz][331m1015tgz]<br>[txz][331m126txz]|[dmg][330m1015dmg]/[tgz][330m1015tgz]<br>
 Ubuntu 20<br>18           |[tgz][332u20]<br>[tgz][332u18]|[tgz][331u20]<br>[tgz][331u18]|[tgz][330u20]<br>[tgz][330u18]
 RedHat EL7<br>w/ Mesa     |[tgz][332rh]<br>[tgz][332rhwm]|[tgz][331rh]<br>[tgz][331rhwm]|[tgz][330rh]<br>[tgz][330rhwm]
 Fedora 31                 |[tgz][332f31]|[tgz][331f31]|[tgz][330f31]
