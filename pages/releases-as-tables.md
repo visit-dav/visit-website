@@ -35,7 +35,7 @@ Mac 10.15<br>12.6 (M1)    |Coming soon!|[dmg][332m1015dmg]/[tgz][332m1015tgz]<br
 Ubuntu 20<br>18           |[tgz][333u20]<br>[tgz][333u18]|[tgz][332u20]<br>[tgz][332u18]|[tgz][331u20]<br>[tgz][331u18]|[tgz][330u20]<br>[tgz][330u18]
 RedHat EL7<br>w/ Mesa     |[tgz][333rh]<br>[tgz][333rhwm]|[tgz][332rh]<br>[tgz][332rhwm]|[tgz][331rh]<br>[tgz][331rhwm]|[tgz][330rh]<br>[tgz][330rhwm]
 Fedora 31                 |[tgz][333f31]|[tgz][332f31]|[tgz][331f31]|[tgz][330f31]
-11<br>Debian 10<br>9      [tgz][333d11]<br>[tgz][333d10]<br>[tgz][333d9]|[tgz][332d11]<br>[tgz][332d10]<br>[tgz][332d9]|[tgz][331d11]<br>[tgz][331d10]<br>|[tgz][330d11]<br>[tgz][330d10]<br>
+11<br>Debian 10<br>9      |[tgz][333d11]<br>[tgz][333d10]<br>[tgz][333d9]|[tgz][332d11]<br>[tgz][332d10]<br>[tgz][332d9]|[tgz][331d11]<br>[tgz][331d10]<br>|[tgz][330d11]<br>[tgz][330d10]<br>
 Java client               |[tgz][333j]|[tgz][332j]|[tgz][331j]|[tgz][330j]
 [visit-install][vm1]      |[sh][333vi]|[sh][332vi]|[sh][331vi]|[sh][330vi]
 [build_visit][vm2]        |[sh][333bv]|[sh][332bv]|[sh][331bv]|[sh][330bv]
