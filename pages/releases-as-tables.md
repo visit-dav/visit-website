@@ -31,7 +31,7 @@ Date | Mar 2023 | Dec 2022 | Sep 2022 | Jun 2022
 ---:|:---:|:---:|:---:|:---:
 Version                   |[3.3.3]|[3.3.2]|[3.3.1]|[3.3.0]
 Win 10<br>development     |[use][333w]<br>[dev][333wd]|[use][332w]<br>[dev][332wd]|[use][331w]<br>[dev][331wd]|[use][330w]<br>[dev][330wd]
-Mac 10.15<br>12.6 (M1)    |Coming soon!|[dmg][332m1015dmg]/[tgz][332m1015tgz]<br>|[dmg][331m1015dmg]/[tgz][331m1015tgz]<br>[txz][331m126txz]|[dmg][330m1015dmg]/[tgz][330m1015tgz]<br>
+10.15<br>Mac&nbsp;&nbsp;&nbsp; 12.6<br>(M1) 12.6|<br>[dmg][333m126dmg]/[tgz][333m126tgz]|[dmg][332m1015dmg]/[tgz][332m1015tgz]<br>|[dmg][331m1015dmg]/[tgz][331m1015tgz]<br><br>[txz][331m126txz]|[dmg][330m1015dmg]/[tgz][330m1015tgz]<br>
 Ubuntu 20<br>18           |[tgz][333u20]<br>[tgz][333u18]|[tgz][332u20]<br>[tgz][332u18]|[tgz][331u20]<br>[tgz][331u18]|[tgz][330u20]<br>[tgz][330u18]
 RedHat EL7<br>w/ Mesa     |[tgz][333rh]<br>[tgz][333rhwm]|[tgz][332rh]<br>[tgz][332rhwm]|[tgz][331rh]<br>[tgz][331rhwm]|[tgz][330rh]<br>[tgz][330rhwm]
 Fedora 31                 |[tgz][333f31]|[tgz][332f31]|[tgz][331f31]|[tgz][330f31]
@@ -107,7 +107,6 @@ Manuals                   |[html][333doc]/[pdf][333pdf]|[html][332doc]/[pdf][332
 [332wd]: https://github.com/visit-dav/visit/releases/download/v3.3.2/visit_windowsdev_3.3.2.zip "Windows 10 for VisIt development, 64-bit Visual Studio 2017"
 [332m1015dmg]: https://github.com/visit-dav/visit/releases/download/v3.3.2/Visit-3.3.2.dmg "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
 [332m1015tgz]: https://github.com/visit-dav/visit/releases/download/v3.3.2/visit3.3.2.darwin-x86_64-10_15.tar.gz "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
-[332m126txz]: https://github.com/visit-dav/visit/releases/download/v3.3.2/visit3_3_2.darwin-arm64.tar.xz "Darwin 12.6, Darwin Kernel Version 21.6.0, clang-1400.0.29.202, arm64, Python 3.9.6"
 [332u22]: https://github.com/visit-dav/visit/releases/download/v3.3.2/visit3_3_2.linux-x86_64-ubuntu22.tar.gz "Ubuntu 22, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 10.3"
 [332u20]: https://github.com/visit-dav/visit/releases/download/v3.3.2/visit3_3_2.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 9.3"
 [332u18]: https://github.com/visit-dav/visit/releases/download/v3.3.2/visit3_3_2.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 7.5"
@@ -134,9 +133,8 @@ Manuals                   |[html][333doc]/[pdf][333pdf]|[html][332doc]/[pdf][332
 [3.3.3]: https://github.com/visit-dav/visit/releases/tag/v3.3.3 "All GitHub release assets"
 [333w]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit3.3.3_x64.exe "Windows 10, 64-bit Visual Studio 2017"
 [333wd]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit_windowsdev_3.3.3.zip "Windows 10 for VisIt development, 64-bit Visual Studio 2017"
-[333m1015dmg]: https://github.com/visit-dav/visit/releases/download/v3.3.3/Visit-3.3.3.dmg "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
-[333m1015tgz]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit3.3.3.darwin-x86_64-10_15.tar.gz "Darwin 10.15, Darwin Kernel Version 19.6.0, clang-1100.0.33.16, MPICH"
-[333m126txz]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit3_3_3.darwin-arm64.tar.xz "Darwin 12.6, Darwin Kernel Version 21.6.0, clang-1400.0.29.202, arm64, Python 3.9.6"
+[333m126dmg]: https://github.com/visit-dav/visit/releases/download/v3.3.3/Visit-3.3.3.dmg "Darwin 12.6, Darwin Kernel Version 21.6.0, clang-1316.0.21.2.5, Intel, Python 3.7.7"
+[333m126tgz]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit3_3_3.darwin.tar.gz "Darwin 12.6, Darwin Kernel Version 21.6.0, clang-1316.0.21.2.5, Intel, Python 3.7.7"
 [333u22]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit3_3_3.linux-x86_64-ubuntu22.tar.gz "Ubuntu 22, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 10.3"
 [333u20]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit3_3_3.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 9.3"
 [333u18]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit3_3_3.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 7.5"
