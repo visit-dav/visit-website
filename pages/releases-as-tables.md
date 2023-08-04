@@ -134,7 +134,7 @@ Manuals                   |[html][333doc]/[pdf][333pdf]|[html][332doc]/[pdf][332
 [333w]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit3.3.3_x64.exe "Windows 10, 64-bit Visual Studio 2017"
 [333wd]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit_windowsdev_3.3.3.zip "Windows 10 for VisIt development, 64-bit Visual Studio 2017"
 [333m126dmg]: https://github.com/visit-dav/visit/releases/download/v3.3.3/Visit-3.3.3.dmg "Darwin 12.6, Darwin Kernel Version 21.6.0, clang-1316.0.21.2.5, Intel, Python 3.7.7"
-[333m126tgz]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit3_3_3.darwin.tar.gz "Darwin 12.6, Darwin Kernel Version 21.6.0, clang-1316.0.21.2.5, Intel, Python 3.7.7"
+[333m126tgz]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit3_3_3.darwin-x86_64.tar.gz "Darwin 12.6, Darwin Kernel Version 21.6.0, clang-1316.0.21.2.5, Intel, Python 3.7.7"
 [333u22]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit3_3_3.linux-x86_64-ubuntu22.tar.gz "Ubuntu 22, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 10.3"
 [333u20]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit3_3_3.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 9.3"
 [333u18]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit3_3_3.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, 5.4.72-microsoft-standard-WSL2 #1 SMP, gcc 7.5"
