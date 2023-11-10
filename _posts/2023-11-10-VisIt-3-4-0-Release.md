@@ -30,6 +30,7 @@ Coming Soon!
   - VisIt's Blueprint reader has been enhanced so related high order volume fraction fields from a matset are grouped into a material that can be used with the FilledBoundary plot. The high order material data fields are refined through MFEM LOR, whose refinement level can be controlled with the MultiresControl operator.
   - VisIt's Blueprint reader now supports materials with material numbers that do NOT fall in the range \[0, N\), where N is the number of materials.
   - VisIt's Blueprint reader now detects high-order volume fractions fields following the naming pattern volume_fraction_ZZZ as a material.
+  - VisIt’s Blueprint reader now limits the total number of open HDF5 file handles.
 
 3. A number of key libraries used by VisIt have been upgraded.
 
