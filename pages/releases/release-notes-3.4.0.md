@@ -51,6 +51,7 @@ enhancements and bug-fixes that were added to this release.
 * Removed the HDF 4 support in the Enzo reader.
 * VisIt's Blueprint reader now supports materials with material numbers that do NOT fall in the range \[0, N\), where N is the number of materials.
 * VisIt's Blueprint reader now detects high-order volume fractions fields following the naming pattern *volume_fraction_ZZZ* as a material.
+* VisIt's Blueprint reader now limits the total number of open HDF5 file handles.
 
 ### Changes to VisIt's plots in version 3.4
 
