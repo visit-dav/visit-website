@@ -34,7 +34,7 @@ enhancements and bug-fixes that were added to this release.
 
 ### Changes in GUI behavior for in version 3.4
 
-* Added $\<T\>tafile\<I\>gt [text annotation macros](//visit-sphinx-github-user-manual.readthedocs.io/en/develop/using_visit/MakingItPretty/Annotations.html?highlight=text%20annotation#named-database-values-in-text-annotations) to read each time step's annotation, line-by-line, from a text file.
+* Added `$<T>tafile<I>` [text annotation macros](//visit-sphinx-github-user-manual.readthedocs.io/en/develop/using_visit/MakingItPretty/Annotations.html?highlight=text%20annotation#named-database-values-in-text-annotations) to read each time step's annotation, line-by-line, from a text file.
 
 ### File format reader changes in version 3.4
 
@@ -68,8 +68,8 @@ enhancements and bug-fixes that were added to this release.
 * The X Ray Image Query warns users if their camera setup is error-prone.
 * The X Ray Image Query now allows users to specify a view width, which can cause pixels in the output to not be square.
 * The X Ray Image Query now defaults to using its complete camera specification instead of its simplified camera specification. Both are still available.
-* The X Ray Image Query now returns a Python Dictionary containing information about the files written using the query. This object is None if the query failed, making it easy to check if the query was successful or not.
-* The CLI function "GetQueryOutputValue" now returns "None" when there is no return value. This typically happens when an error with the query occurs.
+* The X Ray Image Query now returns a Python Dictionary containing information about the files written using the query. This object is `None` if the query failed, making it easy to check if the query was successful or not.
+* The CLI function `GetQueryOutputValue` now returns `None` when there is no return value. This typically happens when an error with the query occurs.
 
 ### Other bugs fixed in version 3.4
 
@@ -79,12 +79,12 @@ enhancements and bug-fixes that were added to this release.
 * Fixed a bug reading particle data from Mili files. The particle data would not appear and could cause the engine to crash if the number of particles was larger than the number of elements.
 * Fixed a bug where the pseudocolor plot would have NaNs in the legend if the mesh contained no elements or all the elements were ghost elements. Now it prints an error message with a description of the error.
 * Fixed a bug where 'LaunchNowin' would fail on Windows when additional launch arguments were specified with `AddArgument`.
-* Fixed a bug where the time scale and offset were not honored by the time slider annotation or $time annotation macro.
+* Fixed a bug where the time scale and offset were not honored by the time slider annotation or `$time` annotation macro.
 * Fixed a bug that caused VisIt's viewer to crash in rare occasions involving failed queries.
 * Fixed an issue that caused VisIt to treat color tables created via the CLI as though they were built-in color tables.
 * Fixed an issue that caused the "No Tags" tag to not appear in the tag table.
 * The Color Table Attributes now no longer can set default continuous and/or default discrete color tables to not continuous and not discrete color tables, respectively, when a color table is removed.
-* Fixed a bug with the python cli's TurnOffMaterials() method where it would give a poor error message when passing an integer instead of a string.
+* Fixed a bug with the python cli's `TurnOffMaterials()` method where it would give a poor error message when passing an integer instead of a string.
 * The `GetLastError()` CLI method now accepts an optional integer argument indicating whether to clear out the last error message after retrieving it.
 * For the Mili plugin, if a class is missing from a top level mili file, the plugin will now throw an exception explaining what happened instead of failing mysteriously.
 * Fixed a bug where the Pseudocolor plot's legend would state 'Constant' when the data limits weren't constant.
