@@ -5,6 +5,7 @@ header:
   image_fullwidth: mfem-hires-1.png
 permalink: "/releases-as-tables/"
 ---
+* [Series 3.4 (coming soon)](#series-34)
 * [Series 3.3 (latest)](#series-33)
 * [Series 3.2](#series-32)
 * [Series 3.1](#series-31)
@@ -20,11 +21,50 @@ If you use VisIt to generate images or movies please help us by
 [citing](citing-visit.md) VisIt in your paper or in the credits of your movie.
 Doing so helps us sustain funding for on going maintenance and future improvements.
 
+### Series 3.4
+
+* Links to checksums and file sizes are provided for confirming download integrity.
+* Hover over a link to reveal additional details about a download.
+* For linux, the [`visit-install`][vm1] script is needed to complete an *install*.
+* This release has a couple of known bugs.
+    - The rendering of transparent geometry is incorrect when rendering in scalable parallel mode.
+    - In rare instances a single pixel width horizontal mesh line will disappear. This can be fixed by changing the view or image size slightly or switching to a thicker line width.
+* We are currently working on more binary downloads. They will be added as they become available.
+
+Date | Nov 2023
+---:|:---:
+Version                    |[3.4.0]
+Win 10<br>development      |[use][340w]<br>[dev][340wd]
+Java client                |[tgz][340j]
+[visit-install][vm1]       |[sh][340vi]
+[build_visit][vm2]         |[sh][340bv]
+Source                     |[tgz][340stgz]
+Rel notes<br>Install notes |[html][340rn]<br>[txt][340in]
+Checksums<br><br><br>File sizes |[md5][340md5]<br>[sh1][340sha1]<br>[sh256][340sha256]<br>[txt][340fs]
+Manuals                    |[html][340doc]/[pdf][340pdf]
+
+<!-- 3.4.0 release asset links -->
+[3.4.0]: https://github.com/visit-dav/visit/releases/tag/v3.4.0 "All GitHub release assets"
+[340w]: https://github.com/visit-dav/visit/releases/download/v3.4.0/visit3.4.0_x64.exe "Windows 10, 64-bit Visual Studio 2022"
+[340wd]: https://github.com/visit-dav/visit/releases/download/v3.4.0/visit_windowsdev_3.4.0.zip "Windows 10 for VisIt development, 64-bit Visual Studio 2022"
+[340j]: https://github.com/visit-dav/visit/releases/download/v3.4.0/jvisit3.4.0.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
+[340vi]: https://github.com/visit-dav/visit/releases/download/v3.4.0/visit-install3_4_0 "Linux installer script needed to install linux binaries"
+[340bv]: https://github.com/visit-dav/visit/releases/download/v3.4.0/build_visit3_4_0 "Download *only* this script to build VisIt from sources"
+[340stgz]: https://github.com/visit-dav/visit/releases/download/v3.4.0/visit3.4.0.tar.gz
+[340rn]: ../releases/release-notes-3.4.0
+[340in]: https://github.com/visit-dav/visit/releases/download/v3.4.0/INSTALL_NOTES.txt
+[340sha256]: https://github.com/visit-dav/visit/releases/download/v3.4.0/visit_sha256_checksums.txt "List of all download file names and their sha256 checksums"
+[340sha1]: https://github.com/visit-dav/visit/releases/download/v3.4.0/visit_sha1_checksums.txt "List of all download file names and their sha1 checksums"
+[340md5]: https://github.com/visit-dav/visit/releases/download/v3.4.0/visit_md5_checksums.txt "List of all download file names and their md5 checksums"
+[340fs]: https://github.com/visit-dav/visit/releases/download/v3.4.0/visit_filesizes.txt "List of all download file names and their sizes in bytes"
+[340doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.4.0/
+[340pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.4.0/pdf/
+
 ### Series 3.3
 
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
-* For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
+* For linux, the [`visit-install`][vm1] script is needed to complete an *install*.
 * The Ubuntu 20 version will run on Ubuntu 22.
 
 Date | Mar 2023 | Dec 2022 | Sep 2022 | Jun 2022
@@ -161,7 +201,7 @@ Manuals                   |[html][333doc]/[pdf][333pdf]|[html][332doc]/[pdf][332
 
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
-* For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
+* For linux, the [`visit-install`][vm1] script is needed to complete an *install*.
 
 Date | Jan 2022 | Jul 2021 | Apr 2021
 ---:|:---:|:---:
@@ -272,7 +312,7 @@ Manuals               |[html][322doc]/[pdf][322pdf]|[html][321doc]/[pdf][321pdf]
 
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
-* For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
+* For linux, the [`visit-install`][vm1] script is needed to complete an *install*.
 
 Date | Nov 2020 | Sep 2020 | May 2020 | Feb 2020 | Dec 2019
 ---:|:---:|:---:|:---:|:---:|:---:
@@ -445,7 +485,7 @@ Below is using a special github feature, htmlpreview.github.io to render the htm
 
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
-* For linux, the [`visit-install`][vm2] script is needed to complete an *install*.
+* For linux, the [`visit-install`][vm1] script is needed to complete an *install*.
 
 Date | Sep 2019 | Jul 2019 | Apr 2019
 ---:|:---:|:---:|:---:
