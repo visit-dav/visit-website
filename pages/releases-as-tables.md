@@ -25,7 +25,7 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
-* For linux, the [`visit-install`][vm1] script is needed to complete an *install*.
+* For linux, the [`visit-install`][vm1.1] script is needed to complete an *install*.
 * This release has a couple of known bugs.
     - The rendering of transparent geometry is incorrect when rendering in scalable parallel mode.
     - In rare instances a single pixel width horizontal mesh line will disappear. This can be fixed by changing the view or image size slightly or switching to a thicker line width.
@@ -36,7 +36,7 @@ Date | Nov 2023
 Version                    |[3.4.0]
 Win 10<br>development      |[use][340w]<br>[dev][340wd]
 Java client                |[tgz][340j]
-[visit-install][vm1]       |[sh][340vi]
+[visit-install][vm1.1]       |[sh][340vi]
 [build_visit][vm2]         |[sh][340bv]
 Source                     |[tgz][340stgz]
 Rel notes<br>Install notes |[html][340rn]<br>[txt][340in]
@@ -64,7 +64,7 @@ Manuals                    |[html][340doc]/[pdf][340pdf]
 
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
-* For linux, the [`visit-install`][vm1] script is needed to complete an *install*.
+* For linux, the [`visit-install`][vm1.1] script is needed to complete an *install*.
 * The Ubuntu 20 version will run on Ubuntu 22.
 
 Date | Mar 2023 | Dec 2022 | Sep 2022 | Jun 2022
@@ -77,7 +77,7 @@ RedHat EL7<br>w/ Mesa     |[tgz][333rh]<br>[tgz][333rhwm]|[tgz][332rh]<br>[tgz][
 Fedora 31                 |[tgz][333f31]|[tgz][332f31]|[tgz][331f31]|[tgz][330f31]
 11<br>Debian 10<br>9      |[tgz][333d11]<br>[tgz][333d10]<br>[tgz][333d9]|[tgz][332d11]<br>[tgz][332d10]<br>[tgz][332d9]|[tgz][331d11]<br>[tgz][331d10]<br>|[tgz][330d11]<br>[tgz][330d10]<br>
 Java client               |[tgz][333j]|[tgz][332j]|[tgz][331j]|[tgz][330j]
-[visit-install][vm1]      |[sh][333vi]|[sh][332vi]|[sh][331vi]|[sh][330vi]
+[visit-install][vm1.1]      |[sh][333vi]|[sh][332vi]|[sh][331vi]|[sh][330vi]
 [build_visit][vm2]        |[sh][333bv]|[sh][332bv]|[sh][331bv]|[sh][330bv]
 Source                    |[tgz][333stgz]|[tgz][332stgz]|[tgz][331stgz]|[tgz][330stgz]
 Rel notes<br>Install notes |[html][333rn]<br>[txt][333in]|[html][332rn]<br>[txt][332in]|[html][331rn]<br>[txt][331in]|[html][330rn]<br>[txt][330in]
@@ -196,6 +196,7 @@ Manuals                   |[html][333doc]/[pdf][333pdf]|[html][332doc]/[pdf][332
 [333fs]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit_filesizes.txt "List of all download file names and their sizes in bytes"
 [333doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.3.3/
 [333pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.3.3/pdf/
+[vm1.1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/getting_started/Installing_VisIt.html "Use to install Linux binaries"
 
 ### Series 3.2
 
