@@ -196,7 +196,7 @@ Manuals                   |[html][333doc]/[pdf][333pdf]|[html][332doc]/[pdf][332
 [333fs]: https://github.com/visit-dav/visit/releases/download/v3.3.3/visit_filesizes.txt "List of all download file names and their sizes in bytes"
 [333doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.3.3/
 [333pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.3.3/pdf/
-[vm1.1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/getting_started/Installing_VisIt.html "Use to install Linux binaries"
+[vm1.1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.3.3/getting_started/Installing_VisIt.html "Use to install Linux binaries"
 
 ### Series 3.2
 
@@ -223,7 +223,7 @@ Checksums<br><br><br>File sizes |[md5][322md5]<br>[sh1][322sha1]<br>[sh256][322s
 Manuals               |[html][322doc]/[pdf][322pdf]|[html][321doc]/[pdf][321pdf]|[html][320doc]/[pdf][320pdf]
 
 [dev]: # "For development on Windows"
-[vm1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/gui_manual/Intro/Installing_VisIt.html?highlight=visit-install#installing-on-linux "Use to install Linux binaries"
+[vm1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.2.2/gui_manual/Intro/Installing_VisIt.html "Use to install Linux binaries"
 [vm2]: https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/building_visit/index.html#building-visit
 
 <!-- 3.2.2 release asset links -->
