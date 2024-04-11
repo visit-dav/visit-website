@@ -51,7 +51,7 @@ Manuals                    |[html][341doc]/[pdf][341pdf]|[html][340doc]/[pdf][34
 [341u20]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, gcc 9.3"
 [341u18]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, gcc 7.5"
 [341f31]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-fedora31.tar.gz "Fedora 31, gcc 9.3.1"
-[341d11]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-debian12.tar.gz "Debian 12, gcc 12"
+[341d12]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-debian12.tar.gz "Debian 12, gcc 12"
 [341d11]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-debian11.tar.gz "Debian 11, gcc 10.2"
 [341d10]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-debian10.tar.gz "Debian 10, gcc 8.3"
 
