@@ -5,8 +5,8 @@ header:
   image_fullwidth: mfem-hires-1.png
 permalink: "/releases-as-tables/"
 ---
-* [Series 3.4 (coming soon)](#series-34)
-* [Series 3.3 (latest)](#series-33)
+* [Series 3.4 (latest)](#series-34)
+* [Series 3.3](#series-33)
 * [Series 3.2](#series-32)
 * [Series 3.1](#series-31)
 * [Series 3.0](#series-30)
@@ -47,13 +47,14 @@ Manuals                    |[html][341doc]/[pdf][341pdf]|[html][340doc]/[pdf][34
 [341w]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3.4.1_x64.exe "Windows 10, 64-bit Visual Studio 2022"
 [341wd]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit_windowsdev_3.4.1.zip "Windows 10 for VisIt development, 64-bit Visual Studio 2022"
 [341j]: https://github.com/visit-dav/visit/releases/download/v3.4.1/jvisit3.4.1.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
-[331u22]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-ubuntu22.tar.gz "Ubuntu 22, gcc 10.3"
-[331u20]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, gcc 9.3"
-[331u18]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, gcc 7.5"
-[331f31]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-fedora31.tar.gz "Fedora 31, gcc 9.3.1"
-[331d10]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-debian10.tar.gz "Debian 10, gcc 8.3"
-[331d11]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-debian11.tar.gz "Debian 11, gcc 10.2"
-[331d11]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-debian11.tar.gz "Debian 12, gcc 12"
+[341u22]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-ubuntu22.tar.gz "Ubuntu 22, gcc 10.3"
+[341u20]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, gcc 9.3"
+[341u18]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, gcc 7.5"
+[341f31]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-fedora31.tar.gz "Fedora 31, gcc 9.3.1"
+[341d11]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-debian12.tar.gz "Debian 12, gcc 12"
+[341d11]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-debian11.tar.gz "Debian 11, gcc 10.2"
+[341d10]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-debian10.tar.gz "Debian 10, gcc 8.3"
+
 
 [341vi]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit-install3_4_1 "Linux installer script needed to install linux binaries"
 [341bv]: https://github.com/visit-dav/visit/releases/download/v3.4.1/build_visit3_4_1 "Download *only* this script to build VisIt from sources"
