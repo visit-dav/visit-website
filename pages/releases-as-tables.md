@@ -26,22 +26,43 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm1.1] script is needed to complete an *install*.
-* This release has a couple of known bugs.
-    - The rendering of transparent geometry is incorrect when rendering in scalable parallel mode.
-    - In rare instances a single pixel width horizontal mesh line will disappear. This can be fixed by changing the view or image size slightly or switching to a thicker line width.
-* We are currently working on more binary downloads. They will be added as they become available.
 
-Date | Nov 2023
----:|:---:
-Version                    |[3.4.0]
-Win 10<br>development      |[use][340w]<br>[dev][340wd]
-Java client                |[tgz][340j]
-[visit-install][vm1.1]       |[sh][340vi]
-[build_visit][vm2]         |[sh][340bv]
-Source                     |[tgz][340stgz]
-Rel notes<br>Install notes |[html][340rn]<br>[txt][340in]
-Checksums<br><br><br>File sizes |[md5][340md5]<br>[sh1][340sha1]<br>[sh256][340sha256]<br>[txt][340fs]
-Manuals                    |[html][340doc]/[pdf][340pdf]
+Date | April 2024 | Nov 2023
+---:|---:|:---:
+Version                    |[3.4.1]|[3.4.0]
+Win 10<br>development      |[use][341w]<br>[dev][341wd]|[use][340w]<br>[dev][340wd]
+Java client                |[tgz][341j] |[tgz][340j]
+[visit-install][vm1.1]     |[sh][341vi] |[sh][340vi]
+[build_visit][vm2]         |[sh][341bv] |[sh][340bv]
+Ubuntu 22<br>20<br>18      |[tgz][341u22]<br>[tgz][341u20]<br>[tgz][341u18] |
+Fedora 31                  |[tgz][341f31] |
+Debian 12<br>11<br>10      |[tgz][341d12]<br>[tgz][341d11]<br>[tgz][341d10] |
+Source                     |[tgz][341stgz]|[tgz][340stgz]
+Rel notes<br>Install notes |[html][341rn]<br>[txt][341in]|[html][340rn]<br>[txt][340in]
+Checksums<br><br><br>File sizes | [txt][341chk] |[md5][340md5]<br>[sh1][340sha1]<br>[sh256][340sha256]<br>[txt][340fs]
+Manuals                    |[html][341doc]/[pdf][341pdf]|[html][340doc]/[pdf][340pdf]
+
+<!-- 3.4.01release asset links -->
+[3.4.1]: https://github.com/visit-dav/visit/releases/tag/v3.4.1 "All GitHub release assets"
+[341w]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3.4.1_x64.exe "Windows 10, 64-bit Visual Studio 2022"
+[341wd]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit_windowsdev_3.4.1.zip "Windows 10 for VisIt development, 64-bit Visual Studio 2022"
+[341j]: https://github.com/visit-dav/visit/releases/download/v3.4.1/jvisit3.4.1.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
+[331u22]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-ubuntu22.tar.gz "Ubuntu 22, gcc 10.3"
+[331u20]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, gcc 9.3"
+[331u18]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-ubuntu18.tar.gz "Ubuntu 18, gcc 7.5"
+[331f31]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-fedora31.tar.gz "Fedora 31, gcc 9.3.1"
+[331d10]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-debian10.tar.gz "Debian 10, gcc 8.3"
+[331d11]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-debian11.tar.gz "Debian 11, gcc 10.2"
+[331d11]: https://github.com/visit-dav/visit/releases/download/v3.3.1/visit3_3_1.linux-x86_64-debian11.tar.gz "Debian 12, gcc 12"
+
+[341vi]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit-install3_4_1 "Linux installer script needed to install linux binaries"
+[341bv]: https://github.com/visit-dav/visit/releases/download/v3.4.1/build_visit3_4_1 "Download *only* this script to build VisIt from sources"
+[341stgz]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3.4.1.tar.gz
+[341rn]: ../releases/release-notes-3.4.1
+[341in]: https://github.com/visit-dav/visit/releases/download/v3.4.1/INSTALL_NOTES_3_4_1.txt
+[341chk]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit_checksums_and_sizes.txt "List of release assets with checksums and file sizes"
+[341doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.4.1/
+[341pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.4.1/pdf/
 
 <!-- 3.4.0 release asset links -->
 [3.4.0]: https://github.com/visit-dav/visit/releases/tag/v3.4.0 "All GitHub release assets"
