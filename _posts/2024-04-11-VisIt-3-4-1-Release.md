@@ -16,4 +16,4 @@ author: cyrush
 ---
 
 * [Downloads]({{ site.baseurl }}/releases-as-tables#latest)
-* [More details]({{ site.baseurl }}/releases/release-notes-3.4.0)
+* [More details]({{ site.baseurl }}/releases/release-notes-3.4.1)
