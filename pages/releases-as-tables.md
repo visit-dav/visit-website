@@ -31,6 +31,7 @@ Date | April 2024 | Nov 2023
 ---:|---:|:---:
 Version                    |[3.4.1]|[3.4.0]
 Win 10<br>development      |[use][341w]<br>[dev][341wd]|[use][340w]<br>[dev][340wd]
+Mac 12.7                   |[dmg][341m127dmg]/[tgz][341m127tgz]|
 Java client                |[tgz][341j] |[tgz][340j]
 [visit-install][vm1.1]     |[sh][341vi] |[sh][340vi]
 [build_visit][vm2]         |[sh][341bv] |[sh][340bv]
@@ -46,6 +47,8 @@ Manuals                    |[html][341doc]/[pdf][341pdf]|[html][340doc]/[pdf][34
 [3.4.1]: https://github.com/visit-dav/visit/releases/tag/v3.4.1 "All GitHub release assets"
 [341w]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3.4.1_x64.exe "Windows 10, 64-bit Visual Studio 2022"
 [341wd]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit_windowsdev_3.4.1.zip "Windows 10 for VisIt development, 64-bit Visual Studio 2022"
+[341m127dmg]: https://github.com/visit-dav/visit/releases/download/v3.4.1/VisIt-3.4.1.dmg "Darwin 12.7.4, Darwin Kernel Version 21.6.0, clang-1316.0.21.2.5, MPICH-3.3.1"
+[341m127tgz]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.darwin-x86_64.tar.gz "Darwin 12.7.4, Darwin Kernel Version 21.6.0, clang-1316.0.21.2.5, MPICH-3.3.1"
 [341j]: https://github.com/visit-dav/visit/releases/download/v3.4.1/jvisit3.4.1.tar.gz "VisIt client only: Java(TM) SE Runtime Environment (build 1.6.0_161-b13) Java HotSpot(TM) 64-Bit Server VM (build 20.161-b13, mixed mode)"
 [341u22]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-ubuntu22.tar.gz "Ubuntu 22, gcc 10.3"
 [341u20]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3_4_1.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, gcc 9.3"
