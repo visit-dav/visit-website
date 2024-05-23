@@ -22,7 +22,7 @@ permalink: "/dev-resources/"
 
 * [Issues](https://github.com/visit-dav/visit/labels/deliberation) and [Discussions](https://github.com/visit-dav/visit/discussions?discussions_q=label%3Adeliberation+) requiring further deliberation
 * [Unanswered discussions](https://github.com/visit-dav/visit/discussions?discussions_q=is%3Aunanswered+-label%3Asre)
-* [Unreviewed issues](https://github.com/visit-dav/visit/issues?utf8=✓&q=is%3Aissue+is%3Aopen+-label%3Areviewed)
+* [Unreviewed issues](https://github.com/visit-dav/visit/issues?q=is%3Aissue+is%3Aopen+-label%3Areviewed+sort%3Acreated-asc)
 * [All open issues](https://github.com/visit-dav/visit/issues)
 * [Priority issues](https://github.com/visit-dav/visit/issues?q=is%3Aissue+is%3Aopen+label%3Apriority+sort%3Acreated-desc)
 * [High Likelihood / High Impact issues](https://github.com/visit-dav/visit/issues?q=is%3Aopen+label%3A%22likelihood+high%22+label%3A%22impact+high%22)
