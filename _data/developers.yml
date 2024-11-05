@@ -24,8 +24,8 @@ active:
     bio: "Cyrus is Computer Scientist and Associate Division Leader in the Applications, Simulations, and Quality (ASQ) division of LLNL's Computing directorate. He develops data management, analysis, and visualization tools that support large scale multi-physics simulations. He is the software architect of the VisIt open source visualization tool and leads major aspects of the technical direction of the project. Cyrus also provides custom data analysis solutions for WCI's WSC and WPD programs. Cyrus obtained a B.S. (2003) and Masters (2004) of Computer Engineering from the University of Florida. He joined LLNL in February 2005."
   griffin:
     name: Kevin Griffin
-    pic: https://avatars2.githubusercontent.com/u/26772741?s=460&u=601e8633c1210c113489af163a2c1be0e246c88d&v=4
-    affiliation: "[LLNL](https://www.llnl.gov)"
+    pic: https://media.licdn.com/dms/image/v2/D5603AQFjv0koFJVYgA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710019866959?e=2147483647&v=beta&t=u5mmPVxhbVNMLkKMAEVJUuDZwGqu-LoSNTGYSGqRjWc
+    affiliation: "NVIDIA"
     vfocus: OSX, Operator plugins, Volume rendering
     github: https://github.com/griffin28
     email: kgriffin@nvidia.com
