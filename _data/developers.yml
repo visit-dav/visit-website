@@ -41,6 +41,7 @@ active:
   privitera:
     name: Justin Privitera
     pic: https://media.licdn.com/dms/image/v2/C5603AQGbtu_hDyi1wQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1545612922134?e=2147483647&v=beta&t=8dXJYA2UjW1nabQxqQtnWvAWzxpPbcyAl3UEJvoH6C0
+    affiliation: "[LLNL](https://www.llnl.gov)"
     github: https://github.com/JustinPrivitera
     email: privitera1@llnl.gov
 
