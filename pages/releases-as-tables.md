@@ -27,23 +27,53 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 * Hover over a link to reveal additional details about a download.
 * For linux, the [`visit-install`][vm1.1] script is needed to complete an *install*.
 
-Date | April 2024 | Nov 2023
----:|---:|:---:
-Version                    |[3.4.1]|[3.4.0]
-Win 10<br>development      |[use][341w]<br>[dev][341wd]|[use][340w]<br>[dev][340wd]
-Mac 12.7                   |[dmg][341m127dmg]/[tgz][341m127tgz]|
-Java client                |[tgz][341j] |[tgz][340j]
-[visit-install][vm1.1]     |[sh][341vi] |[sh][340vi]
-[build_visit][vm2]         |[sh][341bv] |[sh][340bv]
-Ubuntu 22<br>20<br>18      |[tgz][341u22]<br>[tgz][341u20]<br>[tgz][341u18] |
-Fedora 31                  |[tgz][341f31] |
-Debian 12<br>11<br>10      |[tgz][341d12]<br>[tgz][341d11]<br>[tgz][341d10] |
-Source                     |[tgz][341stgz]|[tgz][340stgz]
-Rel notes<br>Install notes |[html][341rn]<br>[txt][341in]|[html][340rn]<br>[txt][340in]
-Checksums<br><br><br>File sizes | [txt][341chk] |[md5][340md5]<br>[sh1][340sha1]<br>[sh256][340sha256]<br>[txt][340fs]
-Manuals                    |[html][341doc]/[pdf][341pdf]|[html][340doc]/[pdf][340pdf]
+Date | December 2024 | April 2024 | Nov 2023
+---:|---:|---:|:---:
+Version                    [3.4.2]|[3.4.1]|[3.4.0]
+Win 10<br>development      [use][342w]<br>|[use][341w]<br>[dev][341wd]|[use][340w]<br>[dev][340wd]
+macOS 14 (arm64)           |[dmg][342armdmg]/[tgz][342armtgz]|
+macOS 13 (x86_64)          |[dmg][341m127dmg]/[tgz][341m127tgz]|
+Java client                |[tgz][342j]|[tgz][341j] |[tgz][340j]
+[visit-install][vm1.1]     |[sh][342vi] |[sh][341vi] |[sh][340vi]
+[build_visit][vm2]         |[sh][342bv]|[sh][341bv] |[sh][340bv]
+Ubuntu 24<br>22<br>20<br>18|[tgz][342u24]<br>[tgz][342u22]<br>[tgz][342u20]|<br>[tgz][341u22]<br>[tgz][341u20]<br>[tgz][341u18] |
+Fedora 40<br>39<br>31      |[tgz][342f40]<br>[tgz][342f39]|<br><br>[tgz][341f31] |
+Debian 12<br>11<br>10      |[tgz][342d12]<br>[tgz][342d11]<br> |[tgz][341d12]<br>[tgz][341d11]<br>[tgz][341d10] |
+Rocky  9<br>8<br>          |[tgz][342rocky9]<br>[tgz][342rocky8]||
+Source                     |[tgz][342stgz]|[tgz][341stgz]|[tgz][340stgz]
+Rel notes<br>Install notes |[html][342rn]<br>[txt][342in]|[html][342rn]<br>[txt][341in]|[html][340rn]<br>[txt][340in]
+Checksums<br><br><br>File sizes | [txt][342chk] | [txt][341chk] |[md5][340md5]<br>[sh1][340sha1]<br>[sh256][340sha256]<br>[txt][340fs]
+Manuals                    |[html][342doc]/[pdf][342pdf]|[html][341doc]/[pdf][341pdf]|[html][340doc]/[pdf][340pdf]
 
-<!-- 3.4.01release asset links -->
+<!-- 3.4.2 release asset links -->
+[3.4.2]: https://github.com/visit-dav/visit/releases/tag/v3.4.2 "All GitHub release assets"
+[342w]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3.4.2_x64.exe "Windows 10, 64-bit Visual Studio 2022"
+[342wd]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit_windowsdev_3.4.2.zip "Windows 10 for VisIt development, 64-bit Visual Studio 2022"
+[342armdmg]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.darwin23-arm64.dmg "Darwin 23, arm64, MPICH"
+[341armtgz]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.darwin23-arm64.tar.gz "Darwin 23, arm64, MPICH"
+[342m127dmg]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.darwin22-x86_64.dmg "Darwin 22, x86_64, MPICH"
+[341m127tgz]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.darwin22-x86_64.tar.gz "Darwin 22, x86_64, MPICH"
+[341j]: https://github.com/visit-dav/visit/releases/download/v3.4.2/jvisit3.4.2.tar.gz "VisIt client only: Java(TM) SE Runtime Environment"
+[342u24]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-ubuntu24.tar.gz "Ubuntu 24, Mesa GL, MPICH"
+[342u22]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-ubuntu22.tar.gz "Ubuntu 22, Mesa GL, MPICH"
+[342u20]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-ubuntu20.tar.gz "Ubuntu 20, Mesa GL, MPICH"
+[342f40]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-fedora40.tar.gz "Fedora 40, Mesa GL, MPICH"
+[342f39]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-fedora39.tar.gz "Fedora 39, Mesa GL, MPICH"
+[342d12]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-debian12.tar.gz "Debian 12, Mesa GL, MPICH"
+[342d11]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-debian11.tar.gz "Debian 11, Mesa GL, MPICH"
+[342rocky9]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-rocky9.tar.gz "Rocky 9, Mesa GL, MPICH"
+[342rocky8]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-rocky8.tar.gz "Rocky 8, Mesa GL, MPICH"
+
+[341vi]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit-install3_4_2 "Linux installer script needed to install linux binaries"
+[341bv]: https://github.com/visit-dav/visit/releases/download/v3.4.2/build_visit3_4_2 "Download *only* this script to build VisIt from sources"
+[341stgz]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3.4.2.tar.gz
+[342rn]: ../releases/release-notes-3.4.2
+[342in]: https://github.com/visit-dav/visit/releases/download/v3.4.2/INSTALL_NOTES_3_4_2.txt
+[342chk]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit_checksums_and_sizes.txt "List of release assets with checksums and file sizes"
+[342doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.4.2/
+[342pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.4.2/pdf/
+
+<!-- 3.4.1 release asset links -->
 [3.4.1]: https://github.com/visit-dav/visit/releases/tag/v3.4.1 "All GitHub release assets"
 [341w]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit3.4.1_x64.exe "Windows 10, 64-bit Visual Studio 2022"
 [341wd]: https://github.com/visit-dav/visit/releases/download/v3.4.1/visit_windowsdev_3.4.1.zip "Windows 10 for VisIt development, 64-bit Visual Studio 2022"
