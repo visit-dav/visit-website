@@ -31,8 +31,8 @@ Date | December 2024 | April 2024 | Nov 2023
 ---:|---:|---:|:---:
 Version                     |[3.4.2]|[3.4.1]|[3.4.0]
 Win 10<br>development       |[use][342w]<br>|[use][341w]<br>[dev][341wd]|[use][340w]<br>[dev][340wd]
-macOS 14 (arm64)            |[dmg][342armdmg]/[tgz][342armtgz]|
-macOS 13 (x86_64)           |[dmg][341m127dmg]/[tgz][341m127tgz]|[dmg][341m127dmg]/[tgz][341m127tgz]|
+macOS 14 (arm64)            |[dmg][342armdmg]/[txz][342armtxz]|
+macOS 13 (x86_64)           |[dmg][342m127dmg]/[txz][342m127txz]|[dmg][341m127dmg]/[tgz][341m127tgz]|
 Java client                 |[tgz][342j]|[tgz][341j] |[tgz][340j]
 [visit-install][vm1.1]      |[sh][342vi] |[sh][341vi] |[sh][340vi]
 [build_visit][vm2]          |[sh][342bv]|[sh][341bv] |[sh][340bv]
@@ -50,9 +50,9 @@ Manuals                     |[html][342doc]/[pdf][342pdf]|[html][341doc]/[pdf][3
 [342w]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3.4.2_x64.exe "Windows 10, 64-bit Visual Studio 2022"
 [342wd]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit_windowsdev_3.4.2.zip "Windows 10 for VisIt development, 64-bit Visual Studio 2022"
 [342armdmg]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.darwin23-arm64.dmg "Darwin 23, arm64, MPICH"
-[342armtgz]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.darwin23-arm64.tar.gz "Darwin 23, arm64, MPICH"
+[342armtxz]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.darwin23-arm64.tar.gz "Darwin 23, arm64, MPICH"
 [342m127dmg]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.darwin22-x86_64.dmg "Darwin 22, x86_64, MPICH"
-[342m127tgz]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.darwin22-x86_64.tar.gz "Darwin 22, x86_64, MPICH"
+[342m127txz]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.darwin22-x86_64.tar.gz "Darwin 22, x86_64, MPICH"
 [342j]: https://github.com/visit-dav/visit/releases/download/v3.4.2/jvisit3.4.2.tar.gz "VisIt client only: Java(TM) SE Runtime Environment"
 [342u24]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-ubuntu24.tar.gz "Ubuntu 24, Mesa GL, MPICH"
 [342u22]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-ubuntu22.tar.gz "Ubuntu 22, Mesa GL, MPICH"
