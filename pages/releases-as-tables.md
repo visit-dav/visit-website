@@ -39,7 +39,7 @@ Java client                 |[tgz][342j]|[tgz][341j] |[tgz][340j]
 Ubuntu 24<br>22<br>20<br>18 |[tgz][342u24]<br>[tgz][342u22]<br>[tgz][342u20]|<br>[tgz][341u22]<br>[tgz][341u20]<br>[tgz][341u18] |
 Fedora 40<br>39<br>31       |[tgz][342f40]<br>[tgz][342f39]|<br><br>[tgz][341f31] |
 Debian 12<br>11<br>10       |[tgz][342d12]<br>[tgz][342d11]<br> |[tgz][341d12]<br>[tgz][341d11]<br>[tgz][341d10] |
-Rocky  9<br>8<br>           |[tgz][342rocky9]<br>[tgz][342rocky8]||
+Rocky  9<br>(aka RedHat) 8<br>|[tgz][342rocky9]<br>[tgz][342rocky8]||
 Source                      |[tgz][342stgz]|[tgz][341stgz]|[tgz][340stgz]
 Rel notes<br>Install notes  |[html][342rn]<br>[txt][342in]|[html][342rn]<br>[txt][341in]|[html][340rn]<br>[txt][340in]
 Checksums<br><br><br>File sizes | [txt][342chk] | [txt][341chk] |[md5][340md5]<br>[sh1][340sha1]<br>[sh256][340sha256]<br>[txt][340fs]
@@ -61,8 +61,8 @@ Manuals                     |[html][342doc]/[pdf][342pdf]|[html][341doc]/[pdf][3
 [342f39]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-fedora39.tar.gz "Fedora 39, Mesa GL, MPICH"
 [342d12]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-debian12.tar.gz "Debian 12, Mesa GL, MPICH"
 [342d11]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-debian11.tar.gz "Debian 11, Mesa GL, MPICH"
-[342rocky9]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-rocky9.tar.gz "Rocky 9, Mesa GL, MPICH"
-[342rocky8]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-rocky8.tar.gz "Rocky 8, Mesa GL, MPICH"
+[342rocky9]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-rocky9.tar.gz "Rocky 9, Mesa GL, MPICH (ok on RedHat 9)"
+[342rocky8]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit3_4_2.linux-x86_64-rocky8.tar.gz "Rocky 8, Mesa GL, MPICH (ok on RedHat 8)"
 
 [342vi]: https://github.com/visit-dav/visit/releases/download/v3.4.2/visit-install3_4_2 "Linux installer script needed to install linux binaries"
 [342bv]: https://github.com/visit-dav/visit/releases/download/v3.4.2/build_visit3_4_2 "Download *only* this script to build VisIt from sources"
