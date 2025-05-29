@@ -7,7 +7,7 @@ permalink: "/examples/"
 ---
 
 {% comment %}
-This Liquid coding is doing a few things. First, it is using Liquid's shuffle filter to
+This Liquid coding is doing a few things. First, it is using Liquid's sample filter to
 randomize the contents of the gallery each time the site is generated. This helps newer
 content appear near the top of the gallery instead of always at the bottom. Next, it 
 is using Liquid's cycle filter to produce output lines in groups of 5. Next, it
@@ -24,7 +24,8 @@ This is actually an image that is itself a link to another URL. The image refern
 {% capture newline %}
 {% endcapture %}
 
-{% assign shuffled_examples = site.examples | shuffle %}
+{% assign n = site.examples | size %}
+{% assign shuffled_examples = site.examples | sample: n %}
 {%- for ex in shuffled_examples -%}
 {%- assign split_url = ex.image | split: '.' -%}
 {%- capture thumb_url -%}{{split_url[0]}}-thumb.{{split_url[1]}}{%- endcapture -%}
