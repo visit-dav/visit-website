@@ -12,7 +12,7 @@
 *
 {% endcomment %}
 <div>
-	<ul class="clearing-thumbs small-block-grid-4" data-clearing>
+	<ul class="clearing-thumbs small-block-grid-6" data-clearing>
 		{% assign imglist = include.images | split: ';' %}
                 {% for item in imglist %}
                   {% assign item_parts = item | split: ':' %}

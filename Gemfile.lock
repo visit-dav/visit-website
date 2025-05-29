@@ -84,6 +84,7 @@ GEM
 PLATFORMS
   universal-darwin-19
   universal-darwin-21
+  x86_64-darwin-18
 
 DEPENDENCIES
   asciidoctor (~> 1.5.4)
