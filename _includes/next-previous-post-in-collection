@@ -15,13 +15,14 @@
 {% endcomment %}
 
 {% assign collection = site.collections | where: "label", page.collection | first %}
-{% for post in collection.docs %}
+{% assign reversed_docs = collection.docs | reverse %}
+{% for post in reversed_docs %}
 {% if post.url == page.url %}
 {% assign post_index0 = forloop.index0 %}
 {% assign post_index1 = forloop.index %}
 {% endif %}
 {% endfor %}
-{% for post in collection.docs %}
+{% for post in reversed_docs %}
 {% if post_index0 == forloop.index %}
 {% assign next_post = post.url %}
 {% endif %}
