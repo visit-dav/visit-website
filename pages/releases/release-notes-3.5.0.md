@@ -137,8 +137,12 @@ enhancements and bug-fixes that were added to this release.
 
 * Removed support for VTK-8, VTK version is now 9.5.0.
 * Removed support for Qt 5, QT version is now 6.4.2.
+* Removed support for SZIP compression library.
 * CMake updated to version 3.31.8.
 * Zlib updated to version 1.3.1.
+* HDF5 updated to version 2.0.0.
+* Silo updated to version 4.12.0.
+* NetCDF updated to version 4.9.3.
 * Added support for building `meson`, `ninja`, `xcb` and `xkbcommon` to allow building VisIt with Qt6 on systems that do not have all the `xcb` and `xkbcommon` development packages installed. `xcb` and `xkbcommon` are used by Qt6. `meson` and `ninja` are used to build `xkbcommon`. By enabling all four of these packages, Qt6 can be built on systems that don't have `xcb` and `xkbcommon` installed on them.
 * Added a patch for building MPICH on a system that has a newer version of SLURM installed.
 * Fixed a bug where cloning and checking out VisIt could fail silently without providing error messages.
