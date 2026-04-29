@@ -5,7 +5,8 @@ header:
   image_fullwidth: mfem-hires-1.png
 permalink: "/releases-as-tables/"
 ---
-* [Series 3.4 (latest)](#series-34)
+* [Series 3.5 (latest)](#series-34)
+* [Series 3.4](#series-34)
 * [Series 3.3](#series-33)
 * [Series 3.2](#series-32)
 * [Series 3.1](#series-31)
@@ -20,6 +21,52 @@ and the [Exascale Computing Project](https://www.exascaleproject.org).
 If you use VisIt to generate images or movies please help us by
 [citing](citing-visit.md) VisIt in your paper or in the credits of your movie.
 Doing so helps us sustain funding for on going maintenance and future improvements.
+
+### Series 3.5
+
+* Links to checksums and file sizes are provided for confirming download integrity.
+* Hover over a link to reveal additional details about a download.
+* For linux, the [`visit-install`][vm1.1] script is needed to complete an *install*.
+
+Date | April 2026
+---:|---:
+Version                     |[3.5.0]
+Win 11<br>development       |[use][350w]<br>[dev][350wd]
+Darwin 24 (arm64)           |[dmg][350armdmg]/[txz][350armtgz]|
+Java client                 |[tgz][350j]
+[visit-install][vm1.1]      |[sh][340vi]
+[build_visit][vm2]          |[sh][340bv]
+Ubuntu 24<br>22             |[tgz][350u24]<br>[tgz][350u22]
+Fedora 40                   |[tgz][350f40]
+Debian 12                   |[tgz][350d12]
+Rocky  9<br>(aka RedHat) 8  |[tgz][350rocky9]<br>[tgz][350rocky8]
+Source                      |[tgz][350stgz]
+Rel notes<br>Install notes  |[html][350rn]<br>[txt][350in]
+Checksums                   |[txt][350chk]
+Manuals                     |[html][350doc]/[pdf][350pdf]
+
+<!-- 3.5.0 release asset links -->
+[3.5.0]: https://github.com/visit-dav/visit/releases/tag/v3.5.0 "All GitHub release assets"
+[350w]: https://github.com/visit-dav/visit/releases/download/v3.5.0/visit3_5_0.win11.exe "Windows 11, 64-bit"
+[350wd]: https://github.com/visit-dav/visit/releases/download/v3.5.0/visit_3_5_0.windowsdev.zip "Windows 11 for VisIt development, 64-bit"
+[350armdmg]: https://github.com/visit-dav/visit/releases/download/v3.5.0/visit3_5_0.darwin24-arm64.dmg "Darwin 24, arm64, MPICH"
+[350armtgz]: https://github.com/visit-dav/visit/releases/download/v3.5.0/visit3_5_0.darwin24-arm64.tar.gz "Darwin 24, arm64, MPICH"
+[350j]: https://github.com/visit-dav/visit/releases/download/v3.5.0/jvisit3.5.0.tar.gz "VisIt client only: Java(TM) SE Runtime Environment"
+[350u24]: https://github.com/visit-dav/visit/releases/download/v3.5.0/visit3_5_0.linux-x86_64-ubuntu24.tar.gz "Ubuntu 24, x86_64, Mesa GL, MPICH"
+[350u22]: https://github.com/visit-dav/visit/releases/download/v3.5.0/visit3_5_0.linux-x86_64-ubuntu22.tar.gz "Ubuntu 22, x86_64, Mesa GL, MPICH"
+[350f40]: https://github.com/visit-dav/visit/releases/download/v3.5.0/visit3_5_0.linux-x86_64-fedora40.tar.gz "Fedora 40, x86_64, Mesa GL, MPICH"
+[350d12]: https://github.com/visit-dav/visit/releases/download/v3.5.0/visit3_5_0.linux-x86_64-debian12.tar.gz "Debian 12, x86_64, Mesa GL, MPICH"
+[350rocky9]: https://github.com/visit-dav/visit/releases/download/v3.5.0/visit3_5_0.linux-x86_64-rockylinux9.tar.gz "Rocky 9, x86_64, Mesa GL, MPICH (ok on RedHat 9)"
+[350rocky8]: https://github.com/visit-dav/visit/releases/download/v3.5.0/visit3_5_0.linux-x86_64-rocky8.9.tar.gz "Rocky 8.9, x86_64, Mesa GL, MPICH (ok on RedHat 8)"
+
+[350vi]: https://github.com/visit-dav/visit/releases/download/v3.5.0/visit-install3_5_0 "Linux installer script needed to install linux binaries"
+[350bv]: https://github.com/visit-dav/visit/releases/download/v3.5.0/build_visit3_5_0 "Download *only* this script to build VisIt from sources"
+[350stgz]: https://github.com/visit-dav/visit/releases/download/v3.5.0/visit3_5_0.src.tar.gz
+[350rn]: ../releases/release-notes-3.5.0
+[350in]: https://github.com/visit-dav/visit/releases/download/v3.5.0/INSTALL_NOTES_3_5_0.txt
+[350chk]: https://github.com/visit-dav/visit/releases/download/v3.5.0/visit_checksums_and_sizes.txt "List of release assets with checksums and file sizes"
+[350doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.5.0/
+[350pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.5.0/pdf/
 
 ### Series 3.4
 
