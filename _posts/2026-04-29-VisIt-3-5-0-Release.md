@@ -32,6 +32,7 @@ author: brugger1
   - Conduit has been updated to 0.9.4.
   - MFEM has been updated to 4.8.
   - Python has been updated to 3.13.9.
+  - NetCDF has been updated to 4.9.3.
   - VTK-m has been updated to 2.3.0.
   - CMake has been upgraded to 3.31.8.
   - OpenEXR has been upgraded to 3.3.4.
