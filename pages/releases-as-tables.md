@@ -68,7 +68,7 @@ Manuals                     |[html][350doc]/[pdf][350pdf]
 [350doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.5.0/
 [350pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.5.0/pdf/
 
-[350vm1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.5.0/gui_manual/Intro/Installing_VisIt.html "Use to install Linux binaries"
+[350vm1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.5.0/getting_started/Installing_VisIt.html "Use to install Linux binaries"
 [350vm2]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.5.0/building_visit/index.html#building-visit
 
 ### Series 3.4
