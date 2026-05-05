@@ -75,7 +75,7 @@ Manuals                     |[html][350doc]/[pdf][350pdf]
 
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
-* For linux, the [`visit-install`][vm1.1] script is needed to complete an *install*.
+* For linux, the [`visit-install`][340vm1] script is needed to complete an *install*.
 
 Date | December 2024 | April 2024 | Nov 2023
 ---:|---:|---:|:---:
@@ -84,8 +84,8 @@ Win 10<br>development       |[use][342w]<br>|[use][341w]<br>[dev][341wd]|[use][3
 macOS 14 (arm64)            |[dmg][342armdmg]/[txz][342armtxz]|
 macOS 13 (x86_64)           |[dmg][342m127dmg]/[txz][342m127txz]|[dmg][341m127dmg]/[tgz][341m127tgz]|
 Java client                 |[tgz][342j]|[tgz][341j] |[tgz][340j]
-[visit-install][vm1.1]      |[sh][342vi] |[sh][341vi] |[sh][340vi]
-[build_visit][vm2]          |[sh][342bv]|[sh][341bv] |[sh][340bv]
+[visit-install][340vm1]     |[sh][342vi] |[sh][341vi] |[sh][340vi]
+[build_visit][340vm2]       |[sh][342bv]|[sh][341bv] |[sh][340bv]
 Ubuntu 24<br>22<br>20<br>18 |[tgz][342u24]<br>[tgz][342u22]<br>[tgz][342u20]|<br>[tgz][341u22]<br>[tgz][341u20]<br>[tgz][341u18] |
 Fedora 40<br>39<br>31       |[tgz][342f40]<br>[tgz][342f39]|<br><br>[tgz][341f31] |
 Debian 12<br>11<br>10       |[tgz][342d12]<br>[tgz][342d11]<br> |[tgz][341d12]<br>[tgz][341d11]<br>[tgz][341d10] |
@@ -164,6 +164,9 @@ Manuals                     |[html][342doc]/[pdf][342pdf]|[html][341doc]/[pdf][3
 [340fs]: https://github.com/visit-dav/visit/releases/download/v3.4.0/visit_filesizes.txt "List of all download file names and their sizes in bytes"
 [340doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.4.0/
 [340pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.4.0/pdf/
+
+[340vm1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.4.0/getting_started/Installing_VisIt.html "Use to install Linux binaries"
+[340vm2]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.4.0/building_visit/index.html#building-visit
 
 ### Series 3.3
 
