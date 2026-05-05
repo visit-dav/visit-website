@@ -5,7 +5,7 @@ header:
   image_fullwidth: mfem-hires-1.png
 permalink: "/releases-as-tables/"
 ---
-* [Series 3.5 (latest)](#series-34)
+* [Series 3.5 (latest)](#series-35)
 * [Series 3.4](#series-34)
 * [Series 3.3](#series-33)
 * [Series 3.2](#series-32)
