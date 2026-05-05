@@ -26,7 +26,7 @@ Doing so helps us sustain funding for on going maintenance and future improvemen
 
 * Links to checksums and file sizes are provided for confirming download integrity.
 * Hover over a link to reveal additional details about a download.
-* For linux, the [`visit-install`][vm1.1] script is needed to complete an *install*.
+* For linux, the [`visit-install`][350vm1] script is needed to complete an *install*.
 
 Date | April 2026
 ---:|---:
@@ -34,8 +34,8 @@ Version                     |[3.5.0]
 Win 11<br>development       |[use][350w]<br>[dev][350wd]
 Darwin 24 (arm64)           |[dmg][350armdmg]/[txz][350armtgz]|
 Java client                 |[tgz][350j]
-[visit-install][vm1.1]      |[sh][350vi]
-[build_visit][vm2]          |[sh][350bv]
+[visit-install][350vm1]     |[sh][350vi]
+[build_visit][350vm2]       |[sh][350bv]
 Ubuntu 24<br>22             |[tgz][350u24]<br>[tgz][350u22]
 Fedora 40                   |[tgz][350f40]
 Debian 12                   |[tgz][350d12]
@@ -67,6 +67,9 @@ Manuals                     |[html][350doc]/[pdf][350pdf]
 [350chk]: https://github.com/visit-dav/visit/releases/download/v3.5.0/visit_checksums_and_sizes.txt "List of release assets with checksums and file sizes"
 [350doc]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.5.0/
 [350pdf]: https://visit-sphinx-github-user-manual.readthedocs.io/_/downloads/en/v3.5.0/pdf/
+
+[350vm1]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.5.0/gui_manual/Intro/Installing_VisIt.html "Use to install Linux binaries"
+[350vm2]: https://visit-sphinx-github-user-manual.readthedocs.io/en/v3.5.0/building_visit/index.html#building-visit
 
 ### Series 3.4
 
