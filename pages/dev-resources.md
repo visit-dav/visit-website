@@ -18,8 +18,10 @@ permalink: "/dev-resources/"
 * [Large data shares](https://visit-dav.github.io/largedata/) and [repo](https://github.com/visit-dav/largedata)
 * [Releases](https://github.com/visit-dav/visit/releases) and [hosted tables]({{site.baseurl}}/releases-as-tables/)
 
-### Issues and Discussions
+### PRs, Issues and Discussions
 
+* [PRs awaiting my action](https://github.com/search?q=is%3Aopen%20is%3Apr%20reviewed-by%3A%40me%20org%3Avisit-dav&type=pullrequests)
+* [Open items involving me](https://github.com/search?q=org%3Avisit-dav+is%3Aopen+involves%3A%40me)
 * [Issues](https://github.com/visit-dav/visit/labels/deliberation) and [Discussions](https://github.com/visit-dav/visit/discussions?discussions_q=label%3Adeliberation+) requiring further deliberation
 * [Unanswered discussions](https://github.com/visit-dav/visit/discussions?discussions_q=is%3Aunanswered+-label%3Asre)
 * [Unreviewed issues](https://github.com/visit-dav/visit/issues?q=is%3Aissue+is%3Aopen+-label%3Areviewed+sort%3Acreated-asc)
