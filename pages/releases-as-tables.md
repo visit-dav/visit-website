@@ -32,7 +32,7 @@ Date | April 2026
 ---:|---:
 Version                     |[3.5.0]
 Win 11<br>development       |[use][350w]<br>[dev][350wd]
-macOS (arm64)<br>(darwin 24)|[dmg][350armdmg]/[txz][350armtgz]|
+macOS (arm64)<br>(Darwin 24)|[dmg][350armdmg]/[txz][350armtgz]|
 Java client                 |[tgz][350j]
 [visit-install][350vm1]     |[sh][350vi]
 [build_visit][350vm2]       |[sh][350bv]
